@@ -74,6 +74,7 @@
   <button class="zb" id="zi">+</button>
   <button class="zb" id="zo">−</button>
   <button class="zb" id="zr" style="font-size:12px;margin-top:4px">⟳</button>
+  <button class="zb" id="tb" style="font-size:10px;margin-top:8px;font-weight:500" title="Toggle country borders">B</button>
 </div>
 <div class="sc">
   <div class="sl"><span>DATE RANGE</span><span class="yd" id="yd">5000 BCE — 2025 CE</span></div>
@@ -104,10 +105,10 @@
 <script src="met_data.js"></script>
 <script>
 const R=2;
-let scene,cam,ren,gG,aG;
+let scene,cam,ren,gG,aG,bG;
 let mD=false,lx=0,ly=0,mM=false;
 let rY=0.5,rX=0.25,tRY=0.5,tRX=0.25,tZ=5.5;
-let aR=true,yS=-5000,yE=2025,aD=new Set();
+let aR=true,yS=-5000,yE=2025,aD=new Set(),cTopo=null;
 
 function v3(la,lo,r){const p=(90-la)*Math.PI/180,t=(lo+180)*Math.PI/180;return new THREE.Vector3(-(r*Math.sin(p)*Math.cos(t)),r*Math.cos(p),r*Math.sin(p)*Math.sin(t))}
 
@@ -126,19 +127,17 @@ async function init(){
   el.appendChild(ren.domElement);
   scene.add(new THREE.AmbientLight(0xffffff,.8));
   const dl=new THREE.DirectionalLight(0xffffff,.4);dl.position.set(5,3,5);scene.add(dl);
-  gG=new THREE.Group();aG=new THREE.Group();
+  gG=new THREE.Group();aG=new THREE.Group();bG=new THREE.Group();bG.visible=false;
 
-  gG.add(new THREE.Mesh(new THREE.SphereGeometry(R,64,64),new THREE.MeshPhongMaterial({color:0xC8DCE8,shininess:5})));
+  gG.add(new THREE.Mesh(new THREE.SphereGeometry(R,64,64),new THREE.MeshPhongMaterial({color:0xBBCEDB,shininess:5})));
 
-  for(let la=-60;la<=60;la+=30){const p=[];for(let lo=0;lo<=360;lo+=3)p.push(v3(la,lo,R+.002));gG.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(p),new THREE.LineBasicMaterial({color:0x8AAABE,transparent:true,opacity:.1})))}
-  for(let lo=-180;lo<=180;lo+=30){const p=[];for(let la=-90;la<=90;la+=3)p.push(v3(la,lo,R+.002));gG.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(p),new THREE.LineBasicMaterial({color:0x8AAABE,transparent:true,opacity:.1})))}
 
   await loadMap();
   makeArtifacts();
   buildDeptFilter();
   buildHist();
   updSlider();
-  scene.add(gG);scene.add(aG);
+  scene.add(gG);scene.add(aG);scene.add(bG);
   const _ta=D.reduce((s,c)=>s+c.ct,0);
   document.getElementById('hsub').textContent=_ta.toLocaleString()+' artifacts \u00b7 '+D.length+' countries \u00b7 The Metropolitan Museum of Art';
 
@@ -155,6 +154,10 @@ async function init(){
   document.getElementById('zi').addEventListener('click',()=>{tZ=Math.max(2.8,tZ-.8)});
   document.getElementById('zo').addEventListener('click',()=>{tZ=Math.min(10,tZ+.8)});
   document.getElementById('zr').addEventListener('click',()=>{tZ=5.5;tRY=0.5;tRX=0.25;aR=true});
+  document.getElementById('tb').addEventListener('click',()=>{
+    if(!bG.children.length)loadBorders().then(()=>{bG.visible=true;document.getElementById('tb').style.background='#DDD'});
+    else{bG.visible=!bG.visible;document.getElementById('tb').style.background=bG.visible?'#DDD':'rgba(245,240,232,.9)'}
+  });
   setupSlider();
   document.getElementById('lo').classList.add('h');
   setTimeout(()=>{document.getElementById('ch').style.opacity='0'},5000);
@@ -162,16 +165,35 @@ async function init(){
 }
 
 async function loadMap(){
-  const r=await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/land-50m.json');
-  const tp=await r.json();
-  const land=topojson.feature(tp,tp.objects.land);
-  const oM=new THREE.LineBasicMaterial({color:0xA89880,transparent:true,opacity:.55});
+  const r=await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json');
+  cTopo=await r.json();
+  const countries=topojson.feature(cTopo,cTopo.objects.countries);
+  const cw=2048,ch=1024;
+  const cvs=document.createElement('canvas');cvs.width=cw;cvs.height=ch;
+  const cx=cvs.getContext('2d');
+  cx.fillStyle='#BBCEDB';cx.fillRect(0,0,cw,ch);
+  const toX=lo=>(lo+180)/360*cw,toY=la=>(90-la)/180*ch;
+  const drawRing=(coords)=>{cx.beginPath();coords.forEach(([lo,la],i)=>{i?cx.lineTo(toX(lo),toY(la)):cx.moveTo(toX(lo),toY(la))});cx.closePath()};
+  cx.fillStyle='#EDE6D8';cx.strokeStyle='#C8B898';cx.lineWidth=1;
+  countries.features.forEach(f=>{
+    const polys=f.geometry.type==='Polygon'?[f.geometry.coordinates]:f.geometry.coordinates;
+    polys.forEach(rings=>{drawRing(rings[0]);cx.fill();cx.stroke()});
+  });
+  const tex=new THREE.CanvasTexture(cvs);
+  gG.children[0].material=new THREE.MeshPhongMaterial({map:tex,shininess:3});
+}
+
+async function loadBorders(){
+  if(!cTopo){const r=await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json');cTopo=await r.json()}
+  const borders=topojson.mesh(cTopo,cTopo.objects.countries,(a,b)=>a!==b);
+  const bM=new THREE.LineBasicMaterial({color:0x9A8A70,transparent:true,opacity:.3});
   const proc=(coords)=>{
-    const pts=coords.map(([lo,la])=>v3(la,lo,R+.003));
-    if(pts.length<3)return;
-    gG.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),oM));
+    const pts=coords.map(([lo,la])=>v3(la,lo,R+.005));
+    if(pts.length<2)return;
+    bG.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),bM));
   };
-  land.features.forEach(f=>{if(f.geometry.type==='Polygon')f.geometry.coordinates.forEach(proc);else if(f.geometry.type==='MultiPolygon')f.geometry.coordinates.forEach(p=>p.forEach(proc))});
+  if(borders.type==='MultiLineString')borders.coordinates.forEach(proc);
+  else if(borders.type==='LineString')proc(borders.coordinates);
 }
 
 function makeArtifacts(){
@@ -180,7 +202,7 @@ function makeArtifacts(){
   D.forEach(c=>{
     const imgs=c.a.filter(a=>a.img);
     if(!imgs.length)return;
-    const pos=v3(c.la,c.lo,R+.05);
+    const pos=v3(c.la,c.lo,R+.015);
     const maxT=Math.min(imgs.length,9);
     const gs=Math.ceil(Math.sqrt(maxT));
     const ts=Math.min(.08+Math.log10(Math.max(c.ct,1))*.04,.24);
@@ -323,7 +345,7 @@ function anim(){
   if(aR)tRY+=.0008;
   rY+=(tRY-rY)*.06;rX+=(tRX-rX)*.06;
   cam.position.z+=(tZ-cam.position.z)*.06;
-  [gG,aG].forEach(g=>{g.rotation.y=rY;g.rotation.x=rX});
+  [gG,aG,bG].forEach(g=>{g.rotation.y=rY;g.rotation.x=rX});
   ren.render(scene,cam);
 }
 

@@ -63,7 +63,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 452100,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP219415.jpg"
+    "img": "images/DP219415.jpg"
    },
    {
     "t": "Head of a goddess",
@@ -72,7 +72,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 547704,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DT4632.jpg"
+    "img": "images/DT4632.jpg"
    },
    {
     "t": "Head of a Hippopotamus",
@@ -81,7 +81,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 547775,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DT4210.jpg"
+    "img": "images/DT4210.jpg"
    },
    {
     "t": "Head of Ptolemy II or III",
@@ -90,7 +90,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 547773,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24219-001.jpg"
+    "img": "images/DP-24219-001.jpg"
    },
    {
     "t": "Arm Panel From a Ceremonial Chair of Thutmose IV",
@@ -99,7 +99,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544826,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-17705-001.jpg"
+    "img": "images/DP-17705-001.jpg"
    },
    {
     "t": "The King's Acquaintances Memi and Sabu",
@@ -108,7 +108,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 543899,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DT8836.jpg"
+    "img": "images/DT8836.jpg"
    },
    {
     "t": "Face from a Composite Statue, probably Queen Tiye",
@@ -117,7 +117,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544693,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DT11514.jpg"
+    "img": "images/DT11514.jpg"
    },
    {
     "t": "Blue-Painted Ibex Amphora from Malqata",
@@ -126,7 +126,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544501,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/11.215.460_view_1.jpg"
+    "img": "images/11.215.460_view_1.jpg"
    },
    {
     "t": "The Temple of Dendur",
@@ -135,7 +135,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 547802,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP240337.jpg"
+    "img": "images/DP240337.jpg"
    },
    {
     "t": "Statuette of Kary",
@@ -144,7 +144,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 545870,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24218-001.jpg"
+    "img": "images/DP-24218-001.jpg"
    },
    {
     "t": "Water Bottle from Tutankhamun's Embalming Cache",
@@ -153,7 +153,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544781,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24210-001.jpg"
+    "img": "images/DP-24210-001.jpg"
    },
    {
     "t": "Akhenaten Sacrificing a Duck",
@@ -162,7 +162,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544056,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DT545.jpg"
+    "img": "images/DT545.jpg"
    },
    {
     "t": "Cat Statuette intended to contain a mummified cat",
@@ -171,7 +171,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544118,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-38628-001.jpg"
+    "img": "images/DP-38628-001.jpg"
    },
    {
     "t": "Statuette of a Royal (?)  Woman with the Cartou...",
@@ -180,7 +180,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 546746,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP139132.jpg"
+    "img": "images/DP139132.jpg"
    },
    {
     "t": "Senwosret III as a Sphinx",
@@ -189,7 +189,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544186,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP247658.jpg"
+    "img": "images/DP247658.jpg"
    },
    {
     "t": "Block from a Relief Depicting a Battle",
@@ -198,7 +198,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544720,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/213_S3BR2_01GG.jpg"
+    "img": "images/213_S3BR2_01GG.jpg"
    },
    {
     "t": "Statuette of the Goddess Taweret",
@@ -207,7 +207,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544864,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP243443.jpg"
+    "img": "images/DP243443.jpg"
    },
    {
     "t": "Head of a goddess, probably Mut, for attachment...",
@@ -216,7 +216,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 587591,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-39621-001.jpg"
+    "img": "images/DP-39621-001.jpg"
    },
    {
     "t": "Head of a princess from a group statue",
@@ -225,7 +225,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 547692,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP137930.jpg"
+    "img": "images/DP137930.jpg"
    },
    {
     "t": "Jar from the tomb of Sennedjem",
@@ -234,7 +234,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544702,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DT202024.jpg"
+    "img": "images/DT202024.jpg"
    },
    {
     "t": "Canopic Jar (07.226.1) with a Lid Depicting a Q...",
@@ -243,7 +243,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544689,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DT227703.jpg"
+    "img": "images/DT227703.jpg"
    },
    {
     "t": "Panel with Horse Heads",
@@ -252,7 +252,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446191,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP170363.jpg"
+    "img": "images/DP170363.jpg"
    },
    {
     "t": "Unfinished Stela of Amennakht of Deir el-Medina",
@@ -261,7 +261,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544766,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP234728.jpg"
+    "img": "images/DP234728.jpg"
    },
    {
     "t": "Figure of a Baboon",
@@ -270,7 +270,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 545213,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-28668-005.jpg"
+    "img": "images/DP-28668-005.jpg"
    },
    {
     "t": "Scarab of the Storehouse Overseer Wah",
@@ -279,7 +279,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544228,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP307899.jpg"
+    "img": "images/DP307899.jpg"
    },
    {
     "t": "Ritual Statuette of Thutmose III",
@@ -288,7 +288,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 547772,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DT537.jpg"
+    "img": "images/DT537.jpg"
    },
    {
     "t": "Enameled and Gilded Bottle",
@@ -297,7 +297,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450409,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP170374.jpg"
+    "img": "images/DP170374.jpg"
    },
    {
     "t": "Pair of Minbar Doors",
@@ -306,7 +306,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 444812,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP235241.jpg"
+    "img": "images/DP235241.jpg"
    },
    {
     "t": "Cosmetic Box with a Swivel Top",
@@ -315,7 +315,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 547031,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP116089.jpg"
+    "img": "images/DP116089.jpg"
    },
    {
     "t": "Statuette of the Lady Tiye",
@@ -332,7 +332,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544070,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DT6857.jpg"
+    "img": "images/DT6857.jpg"
    },
    {
     "t": "Bracelet with Agathodaimon, Isis-Tyche, Aphrodi...",
@@ -341,7 +341,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 547376,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-14787-002.jpg"
+    "img": "images/DP-14787-002.jpg"
    },
    {
     "t": "Statuette of Amun",
@@ -350,7 +350,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544874,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-38626-001.jpg"
+    "img": "images/DP-38626-001.jpg"
    },
    {
     "t": "Miniature broad collar",
@@ -359,7 +359,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 547900,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP139141.jpg"
+    "img": "images/DP139141.jpg"
    },
    {
     "t": "Ritual Figure",
@@ -368,7 +368,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 547689,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-38637-001.jpg"
+    "img": "images/DP-38637-001.jpg"
    },
    {
     "t": "Book of the Dead for the Chantress of Amun Nauny",
@@ -377,7 +377,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 548344,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DT11633.jpg"
+    "img": "images/DT11633.jpg"
    },
    {
     "t": "Stela of the Steward Mentuwoser",
@@ -386,7 +386,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544320,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP322064.jpg"
+    "img": "images/DP322064.jpg"
    },
    {
     "t": "Male god",
@@ -395,7 +395,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 547777,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24214-001.jpg"
+    "img": "images/DP-24214-001.jpg"
    },
    {
     "t": "Travelling Boat being Rowed",
@@ -404,7 +404,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544214,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP249000.jpg"
+    "img": "images/DP249000.jpg"
    },
    {
     "t": "Fragment of a Queen's Face",
@@ -413,7 +413,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 544514,
-    "img": "https://images.metmuseum.org/CRDImages/eg/web-large/DP355835.jpg"
+    "img": "images/DP355835.jpg"
    }
   ]
  },
@@ -441,7 +441,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 10469,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT12058.jpg"
+    "img": "images/DT12058.jpg"
    },
    {
     "t": "Stage Fort across Gloucester Harbor",
@@ -450,7 +450,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 11396,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT5586.jpg"
+    "img": "images/DT5586.jpg"
    },
    {
     "t": "Dress",
@@ -475,7 +475,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 1981,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP163741.jpg"
+    "img": "images/DP163741.jpg"
    },
    {
     "t": "Bottle",
@@ -484,7 +484,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 632,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP207183.jpg"
+    "img": "images/DP207183.jpg"
    },
    {
     "t": "Flower Garden and Bungalow, Bermuda",
@@ -493,7 +493,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 11121,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-21451-001.jpg"
+    "img": "images/DP-21451-001.jpg"
    },
    {
     "t": "The Thomas Hunt and the America",
@@ -502,7 +502,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 20768,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/LC-2019_11-001.jpg"
+    "img": "images/LC-2019_11-001.jpg"
    },
    {
     "t": "Phebe Warner Coverlet",
@@ -511,7 +511,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 13606,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT201.jpg"
+    "img": "images/DT201.jpg"
    },
    {
     "t": "Evening dress",
@@ -528,7 +528,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 752047,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-19024-001.jpg"
+    "img": "images/DP-19024-001.jpg"
    },
    {
     "t": "Vase",
@@ -537,7 +537,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 820892,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-17121-001.jpg"
+    "img": "images/DP-17121-001.jpg"
    },
    {
     "t": "The Veteran in a New Field",
@@ -546,7 +546,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 11145,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP102298.jpg"
+    "img": "images/DP102298.jpg"
    },
    {
     "t": "Card table",
@@ -555,7 +555,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 15387,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT3927.jpg"
+    "img": "images/DT3927.jpg"
    },
    {
     "t": "Landscape with Cows Watering in a Stream",
@@ -564,7 +564,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 17897,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT10837.jpg"
+    "img": "images/DT10837.jpg"
    },
    {
     "t": "Ensemble",
@@ -581,7 +581,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 11109,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-21449-001.jpg"
+    "img": "images/DP-21449-001.jpg"
    },
    {
     "t": "Man and Pool, Florida",
@@ -590,7 +590,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 12078,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT243231.jpg"
+    "img": "images/DT243231.jpg"
    },
    {
     "t": "Cupid",
@@ -607,7 +607,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 13052,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT2502.jpg"
+    "img": "images/DT2502.jpg"
    },
    {
     "t": "View on the Catskill—Early Autumn",
@@ -616,7 +616,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 10501,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT2639.jpg"
+    "img": "images/DT2639.jpg"
    },
    {
     "t": "Elijah Boardman",
@@ -625,7 +625,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 10830,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT60.jpg"
+    "img": "images/DT60.jpg"
    },
    {
     "t": "Rana Mozelle",
@@ -650,7 +650,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 11133,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT83.jpg"
+    "img": "images/DT83.jpg"
    },
    {
     "t": "Decanter with stopper",
@@ -659,7 +659,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 667477,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP341332.jpg"
+    "img": "images/DP341332.jpg"
    },
    {
     "t": "Nocturne",
@@ -668,7 +668,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 11380,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT256385.jpg"
+    "img": "images/DT256385.jpg"
    },
    {
     "t": "The Last Moments of John Brown",
@@ -677,7 +677,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 11160,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/ap97.5.jpg"
+    "img": "images/ap97.5.jpg"
    },
    {
     "t": "The Great Statue of Amida Buddha at Kamakura, K...",
@@ -686,7 +686,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 11375,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT93.jpg"
+    "img": "images/DT93.jpg"
    },
    {
     "t": "Young Mother Sewing",
@@ -703,7 +703,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 10819,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT86.jpg"
+    "img": "images/DT86.jpg"
    },
    {
     "t": "Winter Scene in Moonlight",
@@ -712,7 +712,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 16577,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT1541.jpg"
+    "img": "images/DT1541.jpg"
    },
    {
     "t": "Vase",
@@ -721,7 +721,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 19067,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP134995.jpg"
+    "img": "images/DP134995.jpg"
    },
    {
     "t": "Little Ida",
@@ -730,7 +730,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 10360,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/04.38.2.jpg"
+    "img": "images/04.38.2.jpg"
    },
    {
     "t": "Figure",
@@ -755,7 +755,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 11619,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT72.jpg"
+    "img": "images/DT72.jpg"
    },
    {
     "t": "Armchair",
@@ -855,7 +855,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 470310,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP102915.jpg"
+    "img": "images/DP102915.jpg"
    },
    {
     "t": "Evening ensemble",
@@ -872,7 +872,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 464125,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DT229473.jpg"
+    "img": "images/DT229473.jpg"
    },
    {
     "t": "Surréalisme",
@@ -889,7 +889,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 202614,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP162240.jpg"
+    "img": "images/DP162240.jpg"
    },
    {
     "t": "Almanach impérial, pour l'année M. DCCC. XIII p...",
@@ -898,7 +898,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 679638,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/i19548886-cf.jpg"
+    "img": "images/i19548886-cf.jpg"
    },
    {
     "t": "Hans Erni, Hans Schiess, Kurt Seligmann, S.H. T...",
@@ -915,7 +915,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 470306,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP253014.jpg"
+    "img": "images/DP253014.jpg"
    },
    {
     "t": "Cased Set of a Flintlock Rifle, a Pair of Pisto...",
@@ -924,7 +924,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24861,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP271137.jpg"
+    "img": "images/DP271137.jpg"
    },
    {
     "t": "Double-Barrel Breech-Loading Pinfire Shotgun",
@@ -933,7 +933,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24957,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DT3634.jpg"
+    "img": "images/DT3634.jpg"
    },
    {
     "t": "Contes et nouvelles en vers par Jean de la Font...",
@@ -942,7 +942,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 681545,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/i20041615-cf.jpg"
+    "img": "images/i20041615-cf.jpg"
    },
    {
     "t": "Les élégances Parisiennes : publication officie...",
@@ -951,7 +951,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 821928,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1244108_05_p05.jpg"
+    "img": "images/b1244108_05_p05.jpg"
    },
    {
     "t": "La table servie",
@@ -976,7 +976,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503546,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DT5396.jpg"
+    "img": "images/DT5396.jpg"
    },
    {
     "t": "Pantsuit",
@@ -1001,7 +1001,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 466311,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP359502.jpg"
+    "img": "images/DP359502.jpg"
    },
    {
     "t": "Congressional Presentation Sword with Scabbard ...",
@@ -1010,7 +1010,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 22631,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DT766.jpg"
+    "img": "images/DT766.jpg"
    },
    {
     "t": "Almanach royal, année bissextile M.DCC.LXXXVIII...",
@@ -1019,7 +1019,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 680818,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/i19516599-cf.jpg"
+    "img": "images/i19516599-cf.jpg"
    },
    {
     "t": "The Crucifixion",
@@ -1028,7 +1028,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 471904,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DT200609.jpg"
+    "img": "images/DT200609.jpg"
    },
    {
     "t": "Reliquary Bust of Saint Yrieix",
@@ -1037,7 +1037,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 464333,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP134383.jpg"
+    "img": "images/DP134383.jpg"
    },
    {
     "t": "Figures françoises et comiques nouvellement inv...",
@@ -1046,7 +1046,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 682014,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/i19511784-cf.jpg"
+    "img": "images/i19511784-cf.jpg"
    },
    {
     "t": "Evening wrap",
@@ -1079,7 +1079,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 79101,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/DT2630.jpg"
+    "img": "images/DT2630.jpg"
    },
    {
     "t": "Le tableau de la volupté, ou, Les quatre partie...",
@@ -1088,7 +1088,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 841587,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b2001796_002.jpg"
+    "img": "images/b2001796_002.jpg"
    },
    {
     "t": "Coatdress",
@@ -1105,7 +1105,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 681357,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/i20041986-cf.jpg"
+    "img": "images/i20041986-cf.jpg"
    },
    {
     "t": "Encyclopédie, ou Dictionnaire raisonné des scie...",
@@ -1123,7 +1123,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 467647,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP353830.jpg"
+    "img": "images/DP353830.jpg"
    },
    {
     "t": "Violoncello",
@@ -1132,7 +1132,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 505461,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DT7705.jpg"
+    "img": "images/DT7705.jpg"
    },
    {
     "t": "Plastique",
@@ -1192,7 +1192,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 50342,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP222421.jpg"
+    "img": "images/DP222421.jpg"
    },
    {
     "t": "Dress",
@@ -1209,7 +1209,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 44696,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-15584-008.jpg"
+    "img": "images/DP-15584-008.jpg"
    },
    {
     "t": "Dress",
@@ -1226,7 +1226,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 45428,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP244667_CRD.jpg"
+    "img": "images/DP244667_CRD.jpg"
    },
    {
     "t": "Ensemble",
@@ -1243,7 +1243,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24014,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DT306016.jpg"
+    "img": "images/DT306016.jpg"
    },
    {
     "t": "Dress",
@@ -1268,7 +1268,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501802,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302725.jpg"
+    "img": "images/DP302725.jpg"
    },
    {
     "t": "Ensemble",
@@ -1293,7 +1293,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27789,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DT306021.jpg"
+    "img": "images/DT306021.jpg"
    },
    {
     "t": "Koto (箏)",
@@ -1310,7 +1310,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 505626,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP148476.jpg"
+    "img": "images/DP148476.jpg"
    },
    {
     "t": "Densho",
@@ -1327,7 +1327,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 39707,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT5160.jpg"
+    "img": "images/DT5160.jpg"
    },
    {
     "t": "Print",
@@ -1336,7 +1336,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 37145,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP119525.jpg"
+    "img": "images/DP119525.jpg"
    },
    {
     "t": "Shō",
@@ -1345,7 +1345,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502833,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP321283.jpg"
+    "img": "images/DP321283.jpg"
    },
    {
     "t": "老梅図襖|Old Plum",
@@ -1354,7 +1354,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 44858,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT229.jpg"
+    "img": "images/DT229.jpg"
    },
    {
     "t": "Evening ensemble",
@@ -1379,7 +1379,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24975,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DT5334.jpg"
+    "img": "images/DT5334.jpg"
    },
    {
     "t": "Helmet",
@@ -1388,7 +1388,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 23026,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-18127-002.jpg"
+    "img": "images/DP-18127-002.jpg"
    },
    {
     "t": "Blade for a Dagger (Tantō)",
@@ -1397,7 +1397,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24948,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-26096-001.jpg"
+    "img": "images/DP-26096-001.jpg"
    },
    {
     "t": "春屋妙葩像 自賛|Portrait of Shun'oku Myōha",
@@ -1406,7 +1406,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 59669,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP156184.jpg"
+    "img": "images/DP156184.jpg"
    },
    {
     "t": "菊桐紋蒔絵提子|Sake Ewer (Hisage) with Chrysanthemums ...",
@@ -1415,7 +1415,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 44859,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT4605.jpg"
+    "img": "images/DT4605.jpg"
    },
    {
     "t": "Suzu",
@@ -1424,7 +1424,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500655,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP353272.jpg"
+    "img": "images/DP353272.jpg"
    },
    {
     "t": "Moyō hinagata miyako no nishiki / [henshū Yaman...",
@@ -1433,7 +1433,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 855856,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1833619_03_007.jpg"
+    "img": "images/b1833619_03_007.jpg"
    },
    {
     "t": "Album surréaliste",
@@ -1450,7 +1450,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24623,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-36_120_79-002.jpg"
+    "img": "images/LC-36_120_79-002.jpg"
    },
    {
     "t": "Armor (&lt;i&gt;Yoroi&lt;/i&gt;) of Ashikaga Ta...",
@@ -1459,7 +1459,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 22506,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-18838-005.jpg"
+    "img": "images/DP-18838-005.jpg"
    },
    {
     "t": "染分紗綾地蜘蛛海松貝模様小袖|Robe (Kosode) with Shells and Se...",
@@ -1468,7 +1468,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 50688,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22458-001.jpg"
+    "img": "images/DP-22458-001.jpg"
    },
    {
     "t": "Ensemble",
@@ -1493,7 +1493,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 44918,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT1615.jpg"
+    "img": "images/DT1615.jpg"
    },
    {
     "t": "Armor (&lt;i&gt;Gusoku&lt;/i&gt;)",
@@ -1502,7 +1502,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 22521,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DT253026.jpg"
+    "img": "images/DT253026.jpg"
    }
   ]
  },
@@ -1530,7 +1530,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 248268,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/gr10.124.1.R.jpg"
+    "img": "images/gr10.124.1.R.jpg"
    },
    {
     "t": "Bronze mirror with a support in the form of a d...",
@@ -1539,7 +1539,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 255391,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT276.jpg"
+    "img": "images/DT276.jpg"
    },
    {
     "t": "Terracotta lekythos (oil flask)",
@@ -1548,7 +1548,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 254843,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-32673-005.jpg"
+    "img": "images/DP-32673-005.jpg"
    },
    {
     "t": "Bronze statuette of a rider wearing an elephant...",
@@ -1557,7 +1557,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 254825,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP104920.jpg"
+    "img": "images/DP104920.jpg"
    },
    {
     "t": "Marble grave stele of a young woman and servant",
@@ -1566,7 +1566,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 253505,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT11989.jpg"
+    "img": "images/DT11989.jpg"
    },
    {
     "t": "Marble stele (grave marker) of a woman",
@@ -1575,7 +1575,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 254597,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT11995.jpg"
+    "img": "images/DT11995.jpg"
    },
    {
     "t": "Ivory decorative plaque",
@@ -1584,7 +1584,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 249186,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-23251-001.jpg"
+    "img": "images/DP-23251-001.jpg"
    },
    {
     "t": "Terracotta loutrophoros (ceremonial vase for wa...",
@@ -1633,7 +1633,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 256974,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-23253-001.jpg"
+    "img": "images/DP-23253-001.jpg"
    },
    {
     "t": "Two bronze helmets",
@@ -1642,7 +1642,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 256978,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT262.jpg"
+    "img": "images/DT262.jpg"
    },
    {
     "t": "Terracotta head of a woman, probably a sphinx",
@@ -1651,7 +1651,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 254589,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP119149.jpg"
+    "img": "images/DP119149.jpg"
    },
    {
     "t": "Marble head of a Ptolemaic queen",
@@ -1660,7 +1660,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 257603,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP333700.jpg"
+    "img": "images/DP333700.jpg"
    },
    {
     "t": "Bronze statue of Eros sleeping",
@@ -1669,7 +1669,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 254502,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP123903.jpg"
+    "img": "images/DP123903.jpg"
    },
    {
     "t": "Gold armband with Herakles knot",
@@ -1678,7 +1678,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 256970,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT4404.jpg"
+    "img": "images/DT4404.jpg"
    },
    {
     "t": "Bronze head of a griffin",
@@ -1695,7 +1695,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 248696,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP116916.jpg"
+    "img": "images/DP116916.jpg"
    },
    {
     "t": "Terracotta statuette of a woman",
@@ -1704,7 +1704,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 253135,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP107025.jpg"
+    "img": "images/DP107025.jpg"
    },
    {
     "t": "Marble grave stele with a family group",
@@ -1713,7 +1713,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 248483,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT281.jpg"
+    "img": "images/DT281.jpg"
    },
    {
     "t": "Terracotta neck-amphora (jar) with lid and knob...",
@@ -1722,7 +1722,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 250551,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP218568.jpg"
+    "img": "images/DP218568.jpg"
    },
    {
     "t": "Terracotta volute-krater (bowl for mixing wine ...",
@@ -1731,7 +1731,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 247964,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP116941.jpg"
+    "img": "images/DP116941.jpg"
    },
    {
     "t": "Ganymede jewelry",
@@ -1740,7 +1740,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 256975,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT283.jpg"
+    "img": "images/DT283.jpg"
    },
    {
     "t": "Glass oinochoe",
@@ -1749,7 +1749,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 257880,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP286321.jpg"
+    "img": "images/DP286321.jpg"
    },
    {
     "t": "Fragment of the marble stele (grave marker) of ...",
@@ -1758,7 +1758,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 253566,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-23264-001.jpg"
+    "img": "images/DP-23264-001.jpg"
    },
    {
     "t": "Terracotta aryballos (oil flask)",
@@ -1767,7 +1767,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 252451,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP218738.jpg"
+    "img": "images/DP218738.jpg"
    },
    {
     "t": "Terracotta krater",
@@ -1776,7 +1776,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 248904,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-42350-001.jpg"
+    "img": "images/DP-42350-001.jpg"
    },
    {
     "t": "Terracotta bell-krater (bowl for mixing wine an...",
@@ -1785,7 +1785,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 252973,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP116943.jpg"
+    "img": "images/DP116943.jpg"
    },
    {
     "t": "Terracotta column-krater (bowl for mixing wine ...",
@@ -1794,7 +1794,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 253349,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP119144.jpg"
+    "img": "images/DP119144.jpg"
    },
    {
     "t": "Marble akroterion",
@@ -1803,7 +1803,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 250951,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT259543.jpg"
+    "img": "images/DT259543.jpg"
    },
    {
     "t": "Terracotta Panathenaic prize amphora",
@@ -1812,7 +1812,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 248902,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP245711.jpg"
+    "img": "images/DP245711.jpg"
    },
    {
     "t": "Marble statue of a kouros (youth)",
@@ -1821,7 +1821,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 253370,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-23263-005.jpg"
+    "img": "images/DP-23263-005.jpg"
    },
    {
     "t": "Terracotta pyxis (box)",
@@ -1830,7 +1830,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 247916,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT11948.jpg"
+    "img": "images/DT11948.jpg"
    },
    {
     "t": "Terracotta dinos (mixing bowl)",
@@ -1839,7 +1839,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 256846,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT4136.jpg"
+    "img": "images/DT4136.jpg"
    },
    {
     "t": "Terracotta lekythos (oil flask)",
@@ -1848,7 +1848,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 253351,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP292643.jpg"
+    "img": "images/DP292643.jpg"
    },
    {
     "t": "Terracotta head of a woman",
@@ -1857,7 +1857,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 251428,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP116958.jpg"
+    "img": "images/DP116958.jpg"
    },
    {
     "t": "Terracotta amphora (jar)",
@@ -1866,7 +1866,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 254896,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-16774-001.jpg"
+    "img": "images/DP-16774-001.jpg"
    },
    {
     "t": "Bronze rod tripod stand",
@@ -1875,7 +1875,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 256861,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-22337-003.jpg"
+    "img": "images/DP-22337-003.jpg"
    }
   ]
  },
@@ -1903,7 +1903,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503045,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DT669.jpg"
+    "img": "images/DT669.jpg"
    },
    {
     "t": "Rothschild lamp",
@@ -1912,7 +1912,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 236643,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP217107.jpg"
+    "img": "images/DP217107.jpg"
    },
    {
     "t": "Wall painting on black ground: landscape, from ...",
@@ -1921,7 +1921,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 250939,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP146610.jpg"
+    "img": "images/DP146610.jpg"
    },
    {
     "t": "Marble portrait of the emperor Caracalla",
@@ -1930,7 +1930,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 253592,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP333080.jpg"
+    "img": "images/DP333080.jpg"
    },
    {
     "t": "La Basilica di San Marco in Venezia illustrata ...",
@@ -1939,7 +1939,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 739518,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1240450_002.jpg"
+    "img": "images/b1240450_002.jpg"
    },
    {
     "t": "Spinet",
@@ -1948,7 +1948,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503043,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302662.jpg"
+    "img": "images/DP302662.jpg"
    },
    {
     "t": "Paris",
@@ -1957,7 +1957,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 201862,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP229778.jpg"
+    "img": "images/DP229778.jpg"
    },
    {
     "t": "Bronze statue of the emperor Trebonianus Gallus",
@@ -1966,7 +1966,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 247117,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP138716.jpg"
+    "img": "images/DP138716.jpg"
    },
    {
     "t": "Sprite",
@@ -1975,7 +1975,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 207394,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP242101.jpg"
+    "img": "images/DP242101.jpg"
    },
    {
     "t": "Round gown",
@@ -1984,7 +1984,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 81127,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/DT9803.jpg"
+    "img": "images/DT9803.jpg"
    },
    {
     "t": "Tabernacle frame",
@@ -1993,7 +1993,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 459204,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/DT746.jpg"
+    "img": "images/DT746.jpg"
    },
    {
     "t": "Bacchanal: A Faun Teased by Children",
@@ -2002,7 +2002,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 206399,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP248148.jpg"
+    "img": "images/DP248148.jpg"
    },
    {
     "t": "Bowl with the Arms of Pope Julius II and the Ma...",
@@ -2011,7 +2011,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 459197,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-24961-001.jpg"
+    "img": "images/DP-24961-001.jpg"
    },
    {
     "t": "Harpsichord",
@@ -2020,7 +2020,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502377,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP204706a.jpg"
+    "img": "images/DP204706a.jpg"
    },
    {
     "t": "Evening dress",
@@ -2037,7 +2037,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 199737,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP329019.jpg"
+    "img": "images/DP329019.jpg"
    },
    {
     "t": "Orazione fvnerale di M. Benedetto Varchi fatta,...",
@@ -2046,7 +2046,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 853476,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1028373_001.jpg"
+    "img": "images/b1028373_001.jpg"
    },
    {
     "t": "Burgonet",
@@ -2055,7 +2055,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 22634,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-12880-022.jpg"
+    "img": "images/DP-12880-022.jpg"
    },
    {
     "t": "Guitar",
@@ -2064,7 +2064,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503932,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP217184.jpg"
+    "img": "images/DP217184.jpg"
    },
    {
     "t": "Processional cross",
@@ -2073,7 +2073,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 193506,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DT566.jpg"
+    "img": "images/DT566.jpg"
    },
    {
     "t": "Wall fountain",
@@ -2082,7 +2082,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 205351,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP246149.jpg"
+    "img": "images/DP246149.jpg"
    },
    {
     "t": "Statue of Dionysos leaning on a female figure (...",
@@ -2091,7 +2091,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 255973,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT6494.jpg"
+    "img": "images/DT6494.jpg"
    },
    {
     "t": "Armet",
@@ -2100,7 +2100,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24686,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP160171.jpg"
+    "img": "images/DP160171.jpg"
    },
    {
     "t": "Doorway from the Church of San Nicolò, San Gemini",
@@ -2109,7 +2109,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 468207,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP212404.jpg"
+    "img": "images/DP212404.jpg"
    },
    {
     "t": "Marble statue of a member of the imperial family",
@@ -2118,7 +2118,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 257640,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-1352-002.jpg"
+    "img": "images/DP-1352-002.jpg"
    },
    {
     "t": "Viola d'Amore",
@@ -2127,7 +2127,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 505786,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP158070.jpg"
+    "img": "images/DP158070.jpg"
    },
    {
     "t": "Marble portrait bust of the emperor Gaius, know...",
@@ -2136,7 +2136,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 248851,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP337262.jpg"
+    "img": "images/DP337262.jpg"
    },
    {
     "t": "Set of jewelry",
@@ -2145,7 +2145,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 256976,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP122702.jpg"
+    "img": "images/DP122702.jpg"
    },
    {
     "t": "Sardonyx cameo portrait of the Emperor Augustus",
@@ -2154,7 +2154,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 254473,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP155547.jpg"
+    "img": "images/DP155547.jpg"
    },
    {
     "t": "Grand Piano",
@@ -2163,7 +2163,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501788,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP300941.jpg"
+    "img": "images/DP300941.jpg"
    },
    {
     "t": "Portal from the Church of San Leonardo al Frigido",
@@ -2172,7 +2172,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 471911,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP132217.jpg"
+    "img": "images/DP132217.jpg"
    },
    {
     "t": "Ferdinando de' Medici, Grand Prince of Tuscany",
@@ -2181,7 +2181,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 208149,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP248871.jpg"
+    "img": "images/DP248871.jpg"
    },
    {
     "t": "Madonna and Child with Angels",
@@ -2190,7 +2190,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 192716,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP236934.jpg"
+    "img": "images/DP236934.jpg"
    },
    {
     "t": "Sallet in the Shape of a Lion's Head",
@@ -2199,7 +2199,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 22860,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP237081.jpg"
+    "img": "images/DP237081.jpg"
    },
    {
     "t": "Three Virtues (Temperance, Hope, and Fortitude ...",
@@ -2208,7 +2208,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 459234,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/DP358989.jpg"
+    "img": "images/DP358989.jpg"
    },
    {
     "t": "\"The Francesca\" Violin",
@@ -2217,7 +2217,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503010,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP167848.jpg"
+    "img": "images/DP167848.jpg"
    },
    {
     "t": "Marble statue of a wounded Amazon",
@@ -2226,7 +2226,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 253373,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP277772.jpg"
+    "img": "images/DP277772.jpg"
    },
    {
     "t": "Studio d'architettura civile",
@@ -2235,7 +2235,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 815475,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1027020_001.jpg"
+    "img": "images/b1027020_001.jpg"
    },
    {
     "t": "Marble sarcophagus with garlands",
@@ -2244,7 +2244,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 239584,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP140135.jpg"
+    "img": "images/DP140135.jpg"
    },
    {
     "t": "The Adoration of the Shepherds",
@@ -2253,7 +2253,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 470600,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP270224.jpg"
+    "img": "images/DP270224.jpg"
    }
   ]
  },
@@ -2281,7 +2281,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 39637,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-32069-001.jpg"
+    "img": "images/DP-32069-001.jpg"
    },
    {
     "t": "清   龔賢   墨筆山水詩畫   冊|清　龔賢　自題 山水十六開   冊|Landscape...",
@@ -2290,7 +2290,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 36131,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1981_4_1a.jpg"
+    "img": "images/1981_4_1a.jpg"
    },
    {
     "t": "唐 韓幹 照夜白圖 卷|Night-Shining White",
@@ -2299,7 +2299,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 39901,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP153705.jpg"
+    "img": "images/DP153705.jpg"
    },
    {
     "t": "北宋 黃庭堅 草書廉頗藺相如傳 卷|Biographies of Lian Po and Li...",
@@ -2308,7 +2308,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 39918,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP153769.jpg"
+    "img": "images/DP153769.jpg"
    },
    {
     "t": "北魏正光五年 鎏金青銅彌勒佛像|Buddha Maitreya (Mile) Altarpiece",
@@ -2317,7 +2317,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 42162,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP217575.jpg"
+    "img": "images/DP217575.jpg"
    },
    {
     "t": "Damaru",
@@ -2334,7 +2334,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 42178,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT206.jpg"
+    "img": "images/DT206.jpg"
    },
    {
     "t": "明  吳彬  十六羅漢圖  卷|The Sixteen Luohans",
@@ -2343,7 +2343,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 48948,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP153754.jpg"
+    "img": "images/DP153754.jpg"
    },
    {
     "t": "元　廣勝寺　藥師佛法會圖壁畫|Buddha of Medicine Bhaishajyagur...",
@@ -2352,7 +2352,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 42716,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT227320.jpg"
+    "img": "images/DT227320.jpg"
    },
    {
     "t": "Tánggǔ (堂鼓)",
@@ -2361,7 +2361,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500605,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP219344.jpg"
+    "img": "images/DP219344.jpg"
    },
    {
     "t": "元　錢選　王羲之觀鵝圖　卷|Wang Xizhi watching geese",
@@ -2370,7 +2370,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 40081,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP273822.jpg"
+    "img": "images/DP273822.jpg"
    },
    {
     "t": "Bo gu tu",
@@ -2379,7 +2379,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 705290,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/NK7983_A1_W36_1752_01_001.jpg"
+    "img": "images/NK7983_A1_W36_1752_01_001.jpg"
    },
    {
     "t": "Goqing",
@@ -2388,7 +2388,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 500637,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP216549.jpg"
+    "img": "images/DP216549.jpg"
    },
    {
     "t": "南宋 佚名 明皇幸蜀圖 軸|Emperor Xuanzong's Flight to Shu",
@@ -2397,7 +2397,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 40055,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP247676.jpg"
+    "img": "images/DP247676.jpg"
    },
    {
     "t": "Vase",
@@ -2406,7 +2406,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 42229,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP246426.jpg"
+    "img": "images/DP246426.jpg"
    },
    {
     "t": "北宋   徽宗   竹禽圖   卷|Finches and bamboo",
@@ -2455,7 +2455,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 39668,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP167812_CRD.jpg"
+    "img": "images/DP167812_CRD.jpg"
    },
    {
     "t": "Sgra-Snyan",
@@ -2464,7 +2464,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503939,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302734.jpg"
+    "img": "images/DP302734.jpg"
    },
    {
     "t": "北宋 傳屈鼎 夏山圖 卷|Summer Mountains",
@@ -2473,7 +2473,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 39915,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP226465.jpg"
+    "img": "images/DP226465.jpg"
    },
    {
     "t": "Jar",
@@ -2482,7 +2482,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 39666,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-32251-001.jpg"
+    "img": "images/DP-32251-001.jpg"
    },
    {
     "t": "San li tu",
@@ -2491,7 +2491,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 715005,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1165966_004.jpg"
+    "img": "images/b1165966_004.jpg"
    },
    {
     "t": "Bowl",
@@ -2500,7 +2500,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 39649,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP356176.jpg"
+    "img": "images/DP356176.jpg"
    },
    {
     "t": "明永樂    紅漆戧金雲龍紋經箱|Sutra box with dragons amid cl...",
@@ -2509,7 +2509,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 60870,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-33641-001.jpg"
+    "img": "images/DP-33641-001.jpg"
    },
    {
     "t": "唐 彩繪塗金夾紵漆阿彌陀佛像|Buddha, probably Amitabha",
@@ -2518,7 +2518,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 42163,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-15581-004.jpg"
+    "img": "images/DP-15581-004.jpg"
    },
    {
     "t": "Pipa (琵琶 )",
@@ -2527,7 +2527,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503651,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP319739.jpg"
+    "img": "images/DP319739.jpg"
    },
    {
     "t": "Jin shi suo",
@@ -2536,7 +2536,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 895189,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1140290_001.jpg"
+    "img": "images/b1140290_001.jpg"
    },
    {
     "t": "元 緙絲 須彌山曼陀羅|Cosmological Mandala with Mount Meru",
@@ -2545,7 +2545,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 39738,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP276037.jpg"
+    "img": "images/DP276037.jpg"
    },
    {
     "t": "Guqin (古琴 )",
@@ -2554,7 +2554,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503523,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302703.jpg"
+    "img": "images/DP302703.jpg"
    },
    {
     "t": "明   詹景鳳   草書千字文   卷|Thousand Character Classic",
@@ -2563,7 +2563,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 78125,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/TR_250_66_2012_S2_sf.jpg"
+    "img": "images/TR_250_66_2012_S2_sf.jpg"
    },
    {
     "t": "Standing cup with cover",
@@ -2572,7 +2572,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 185907,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES7964.jpg"
+    "img": "images/ES7964.jpg"
    },
    {
     "t": "西周 玉蚕|Pendant in the shape of a silk worm",
@@ -2581,7 +2581,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 73365,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-44717-001.jpg"
+    "img": "images/DP-44717-001.jpg"
    },
    {
     "t": "Plate",
@@ -2590,7 +2590,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 46358,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/42_110_1_O1_sf.jpg"
+    "img": "images/42_110_1_O1_sf.jpg"
    },
    {
     "t": "Dagger",
@@ -2599,7 +2599,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 43238,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/49486.jpg"
+    "img": "images/49486.jpg"
    },
    {
     "t": "Plaque",
@@ -2608,7 +2608,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 61090,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/18_43_6_38396.jpg"
+    "img": "images/18_43_6_38396.jpg"
    },
    {
     "t": "Armlet",
@@ -2617,7 +2617,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 44008,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/83111.jpg"
+    "img": "images/83111.jpg"
    },
    {
     "t": "Girdle ornament",
@@ -2653,7 +2653,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 79893,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/DT3884.jpg"
+    "img": "images/DT3884.jpg"
    },
    {
     "t": "\"Along False Equator\"",
@@ -2670,7 +2670,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 470305,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP102900.jpg"
+    "img": "images/DP102900.jpg"
    },
    {
     "t": "Hunters in a Landscape",
@@ -2679,7 +2679,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 236691,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP220306.jpg"
+    "img": "images/DP220306.jpg"
    },
    {
     "t": "The rebel worker",
@@ -2696,7 +2696,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 469887,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP102842.jpg"
+    "img": "images/DP102842.jpg"
    },
    {
     "t": "A catalogue of the library of the late John, Du...",
@@ -2705,7 +2705,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 845711,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b2002216_002.jpg"
+    "img": "images/b2002216_002.jpg"
    },
    {
     "t": "Ensemble",
@@ -2722,7 +2722,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 821938,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1164071_02_001.jpg"
+    "img": "images/b1164071_02_001.jpg"
    },
    {
     "t": "The great book-collectors / by Charles Isaac El...",
@@ -2731,7 +2731,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 839168,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1338047_003.jpg"
+    "img": "images/b1338047_003.jpg"
    },
    {
     "t": "Shirt",
@@ -2764,7 +2764,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 839164,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1154213_002.jpg"
+    "img": "images/b1154213_002.jpg"
    },
    {
     "t": "Examples of Chinese ornament selected from obje...",
@@ -2773,7 +2773,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 739504,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/DP-17496-003.jpg"
+    "img": "images/DP-17496-003.jpg"
    },
    {
     "t": "Dress",
@@ -2782,7 +2782,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 79220,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/DT4058.jpg"
+    "img": "images/DT4058.jpg"
    },
    {
     "t": "Division Viol",
@@ -2791,7 +2791,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503396,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP164637.jpg"
+    "img": "images/DP164637.jpg"
    },
    {
     "t": "Medal cabinet",
@@ -2800,7 +2800,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 203008,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP111802.jpg"
+    "img": "images/DP111802.jpg"
    },
    {
     "t": "Ann Muir, master marbler",
@@ -2833,7 +2833,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27792,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-38578-002.jpg"
+    "img": "images/DP-38578-002.jpg"
    },
    {
     "t": "The union of architecture, sculpture, and paint...",
@@ -2842,7 +2842,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 839174,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1086319_001.jpg"
+    "img": "images/b1086319_001.jpg"
    },
    {
     "t": "Spoon holder",
@@ -2851,7 +2851,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 207754,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-16078-047.jpg"
+    "img": "images/DP-16078-047.jpg"
    },
    {
     "t": "Irish love-songs / selected by Katharine Tynan",
@@ -2860,7 +2860,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 845714,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b2002922_001.jpg"
+    "img": "images/b2002922_001.jpg"
    },
    {
     "t": "Antiquities of Mexico : comprising fac-similes ...",
@@ -2877,7 +2877,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 107620,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/1980.409.1a-c.jpg"
+    "img": "images/1980.409.1a-c.jpg"
    },
    {
     "t": "Remarks on forest scenery, and other woodland v...",
@@ -2886,7 +2886,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 821935,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1164071_01_001.jpg"
+    "img": "images/b1164071_01_001.jpg"
    },
    {
     "t": "Suit",
@@ -2904,7 +2904,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 22932,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-26_145_315a-002.jpg"
+    "img": "images/LC-26_145_315a-002.jpg"
    },
    {
     "t": "The Backgammon Players",
@@ -2913,7 +2913,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 195456,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP169654.jpg"
+    "img": "images/DP169654.jpg"
    },
    {
     "t": "Display dish with Charles II (1630–1685) in a tree",
@@ -2922,7 +2922,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 195223,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-15518-013.jpg"
+    "img": "images/DP-15518-013.jpg"
    },
    {
     "t": "Portland vase",
@@ -2947,7 +2947,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 81107,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/DT412.jpg"
+    "img": "images/DT412.jpg"
    },
    {
     "t": "The analysis of beauty : written with a view of...",
@@ -2956,7 +2956,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 894326,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1930325_004.jpg"
+    "img": "images/b1930325_004.jpg"
    },
    {
     "t": "An introduction to the study of conchology : in...",
@@ -2965,7 +2965,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 839178,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b2001809_001.jpg"
+    "img": "images/b2001809_001.jpg"
    },
    {
     "t": "The Chippendale dam",
@@ -2990,7 +2990,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 199404,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DT568.jpg"
+    "img": "images/DT568.jpg"
    }
   ]
  },
@@ -3018,7 +3018,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 327520,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/DP-41786-001.jpg"
+    "img": "images/DP-41786-001.jpg"
    },
    {
     "t": "Bowl with Green, Yellow, and Brown Splashed Dec...",
@@ -3027,7 +3027,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449348,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT11991.jpg"
+    "img": "images/DT11991.jpg"
    },
    {
     "t": "The Lovers",
@@ -3036,7 +3036,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451023,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP240654.jpg"
+    "img": "images/DP240654.jpg"
    },
    {
     "t": "Silk Kashan Carpet",
@@ -3045,7 +3045,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 451470,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT5450.jpg"
+    "img": "images/DT5450.jpg"
    },
    {
     "t": "Pierced Jug with Harpies and Sphinxes",
@@ -3054,7 +3054,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448671,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP170372.jpg"
+    "img": "images/DP170372.jpg"
    },
    {
     "t": "Folio from a Mu'nis al-ahrar fi daqa'iq al-ash'...",
@@ -3063,7 +3063,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 447071,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP241048.jpg"
+    "img": "images/DP241048.jpg"
    },
    {
     "t": "Spouted jar",
@@ -3072,7 +3072,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 325005,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/DP-19789-002.jpg"
+    "img": "images/DP-19789-002.jpg"
    },
    {
     "t": "Armlet",
@@ -3081,7 +3081,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 451447,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT485.jpg"
+    "img": "images/DT485.jpg"
    },
    {
     "t": "Animal-Spouted Pitcher",
@@ -3090,7 +3090,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449457,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT5107.jpg"
+    "img": "images/DT5107.jpg"
    },
    {
     "t": "Lantern for a Lamp",
@@ -3099,7 +3099,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449619,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP247349.jpg"
+    "img": "images/DP247349.jpg"
    },
    {
     "t": "Velvet Panel with Flowering Plants",
@@ -3108,7 +3108,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 446218,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP267483.jpg"
+    "img": "images/DP267483.jpg"
    },
    {
     "t": "Vessel with six animal friezes",
@@ -3117,7 +3117,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 325693,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/DP-42172-001.jpg"
+    "img": "images/DP-42172-001.jpg"
    },
    {
     "t": "Kitab suwar al-kawakib al-thabita (Book of the ...",
@@ -3126,7 +3126,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446297,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP232478.jpg"
+    "img": "images/DP232478.jpg"
    },
    {
     "t": "Textile fragment: walking ram with a neckband a...",
@@ -3135,7 +3135,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 326230,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/ra1977.232.R.jpg"
+    "img": "images/ra1977.232.R.jpg"
    },
    {
     "t": "\"Jonah and the Whale\", Folio from a Jami al-Tav...",
@@ -3144,7 +3144,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 453683,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP247599.jpg"
+    "img": "images/DP247599.jpg"
    },
    {
     "t": "The Anhalt Medallion Carpet",
@@ -3153,7 +3153,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 450716,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP215776.jpg"
+    "img": "images/DP215776.jpg"
    },
    {
     "t": "Silk Animal Carpet",
@@ -3162,7 +3162,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 446642,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP229989.jpg"
+    "img": "images/DP229989.jpg"
    },
    {
     "t": "Luster Bowl with Winged Horse",
@@ -3171,7 +3171,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446860,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP212285.jpg"
+    "img": "images/DP212285.jpg"
    },
    {
     "t": "Ewer with a Feline-Shaped Handle",
@@ -3180,7 +3180,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450748,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP170378.jpg"
+    "img": "images/DP170378.jpg"
    },
    {
     "t": "Sword and scabbard",
@@ -3189,7 +3189,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 325710,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/DT923.jpg"
+    "img": "images/DT923.jpg"
    },
    {
     "t": "\"Isfandiyar's Third Course: He Slays a Dragon\",...",
@@ -3198,7 +3198,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 452160,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP107166.jpg"
+    "img": "images/DP107166.jpg"
    },
    {
     "t": "Mihrab (Prayer Niche)",
@@ -3207,7 +3207,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449537,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP235035.jpg"
+    "img": "images/DP235035.jpg"
    },
    {
     "t": "Bowl with Arabic Inscription",
@@ -3216,7 +3216,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451802,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP120823.jpg"
+    "img": "images/DP120823.jpg"
    },
    {
     "t": "Calligraphic Plaque",
@@ -3265,7 +3265,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 452112,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP107119.jpg"
+    "img": "images/DP107119.jpg"
    },
    {
     "t": "Plate with a hunting scene from the tale of Bah...",
@@ -3274,7 +3274,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 327497,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/DT1634.jpg"
+    "img": "images/DT1634.jpg"
    },
    {
     "t": "Statuette of a female",
@@ -3283,7 +3283,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 325688,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/DP-43237-001.jpg"
+    "img": "images/DP-43237-001.jpg"
    },
    {
     "t": "Strand of Beads",
@@ -3292,7 +3292,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 450818,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP251994.jpg"
+    "img": "images/DP251994.jpg"
    },
    {
     "t": "Bowl with wheel-cut facets",
@@ -3301,7 +3301,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 324830,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/DP-42272-001.jpg"
+    "img": "images/DP-42272-001.jpg"
    },
    {
     "t": "Pen Box (Qalamdan) Depicting Shah Isma'il in a ...",
@@ -3310,7 +3310,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 455304,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP146065.jpg"
+    "img": "images/DP146065.jpg"
    },
    {
     "t": "\"The Feast of Sada\", Folio 22v from the Shahnam...",
@@ -3319,7 +3319,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 452111,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP107689.jpg"
+    "img": "images/DP107689.jpg"
    },
    {
     "t": "Composition 14",
@@ -3336,7 +3336,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451042,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/51.56.jpg"
+    "img": "images/51.56.jpg"
    },
    {
     "t": "Turquoise Bowl with Lute Player and Audience",
@@ -3345,7 +3345,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451444,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP217226.jpg"
+    "img": "images/DP217226.jpg"
    },
    {
     "t": "Velvet with Figural Imagery",
@@ -3354,7 +3354,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 451091,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP230051.jpg"
+    "img": "images/DP230051.jpg"
    },
    {
     "t": "Garden Gathering",
@@ -3363,7 +3363,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 455082,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP235233.jpg"
+    "img": "images/DP235233.jpg"
    }
   ]
  },
@@ -3391,7 +3391,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 22914,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DT775.jpg"
+    "img": "images/DT775.jpg"
    },
    {
     "t": "Roundel with the Temptation of Saint Anthony",
@@ -3400,7 +3400,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 469866,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP360461.jpg"
+    "img": "images/DP360461.jpg"
    },
    {
     "t": "Paten",
@@ -3409,7 +3409,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 475515,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP366853.jpg"
+    "img": "images/DP366853.jpg"
    },
    {
     "t": "Jagdhorn in G",
@@ -3418,7 +3418,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503703,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302642.jpg"
+    "img": "images/DP302642.jpg"
    },
    {
     "t": "Walking-Stick Flute/Oboe",
@@ -3427,7 +3427,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 504497,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP317373.jpg"
+    "img": "images/DP317373.jpg"
    },
    {
     "t": "Pair of Transverse Flutes",
@@ -3436,7 +3436,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503467,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP317371.jpg"
+    "img": "images/DP317371.jpg"
    },
    {
     "t": "Khochu z︠h︡yty! Obrazky z nimetsʹkykh kontsentr...",
@@ -3453,7 +3453,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 208816,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP238533.jpg"
+    "img": "images/DP238533.jpg"
    },
    {
     "t": "Regal",
@@ -3462,7 +3462,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 505399,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302650.jpg"
+    "img": "images/DP302650.jpg"
    },
    {
     "t": "Portions of a Costume Armor",
@@ -3471,7 +3471,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27790,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-22969-001.jpg"
+    "img": "images/DP-22969-001.jpg"
    },
    {
     "t": "Neuheiten",
@@ -3496,7 +3496,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 464142,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP266473.jpg"
+    "img": "images/DP266473.jpg"
    },
    {
     "t": "Natural Trumpet in D",
@@ -3505,7 +3505,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501675,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP220756.jpg"
+    "img": "images/DP220756.jpg"
    },
    {
     "t": "Ensemble",
@@ -3530,7 +3530,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503443,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP163308.jpg"
+    "img": "images/DP163308.jpg"
    },
    {
     "t": "The Visitation",
@@ -3539,7 +3539,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 464596,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP344571.jpg"
+    "img": "images/DP344571.jpg"
    },
    {
     "t": "Standing Cup and Cover Supported by an Enchaine...",
@@ -3548,7 +3548,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 459248,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/DP155330.jpg"
+    "img": "images/DP155330.jpg"
    },
    {
     "t": "Clarinet in D",
@@ -3557,7 +3557,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 506724,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP232753.jpg"
+    "img": "images/DP232753.jpg"
    },
    {
     "t": "Crossbow of Count Ulrich V of Württemberg (1413...",
@@ -3566,7 +3566,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 21940,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP282465.jpg"
+    "img": "images/DP282465.jpg"
    },
    {
     "t": "Cornetto in A",
@@ -3575,7 +3575,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503951,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP317724.jpg"
+    "img": "images/DP317724.jpg"
    },
    {
     "t": "Alto Recorder in F",
@@ -3584,7 +3584,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501520,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP318718.jpg"
+    "img": "images/DP318718.jpg"
    },
    {
     "t": "Shrine",
@@ -3593,7 +3593,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 193632,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP259735.jpg"
+    "img": "images/DP259735.jpg"
    },
    {
     "t": "Von Material zu Architektur",
@@ -3610,7 +3610,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 474435,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP366852.jpg"
+    "img": "images/DP366852.jpg"
    },
    {
     "t": "Transverse Flute in D-flat",
@@ -3619,7 +3619,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 504019,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302566.jpg"
+    "img": "images/DP302566.jpg"
    },
    {
     "t": "Kubismus",
@@ -3636,7 +3636,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 231564,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP137847.jpg"
+    "img": "images/DP137847.jpg"
    },
    {
     "t": "Side Drum",
@@ -3645,7 +3645,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503818,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP109493.jpg"
+    "img": "images/DP109493.jpg"
    },
    {
     "t": "Harlequina",
@@ -3654,7 +3654,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 206045,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DT584.jpg"
+    "img": "images/DT584.jpg"
    },
    {
     "t": "Seated Bishop",
@@ -3663,7 +3663,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 470315,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP366900.jpg"
+    "img": "images/DP366900.jpg"
    },
    {
     "t": "Helm for the Joust of Peace (&lt;i&gt;Stechhelm...",
@@ -3672,7 +3672,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 23216,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP271142.jpg"
+    "img": "images/DP271142.jpg"
    },
    {
     "t": "Clavichord",
@@ -3681,7 +3681,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503271,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302629.jpg"
+    "img": "images/DP302629.jpg"
    },
    {
     "t": "Die gegenstandslose Welt",
@@ -3698,7 +3698,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 473007,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/h1_37.52.1-6.jpg"
+    "img": "images/h1_37.52.1-6.jpg"
    },
    {
     "t": "Marsyas",
@@ -3707,7 +3707,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 211486,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP228780.jpg"
+    "img": "images/DP228780.jpg"
    },
    {
     "t": "Shield for the Field or Tournament (Targe)",
@@ -3716,7 +3716,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 22876,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DT768.jpg"
+    "img": "images/DT768.jpg"
    },
    {
     "t": "Album of Tournaments and Parades in Nuremberg",
@@ -3725,7 +3725,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 25111,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DT770.jpg"
+    "img": "images/DT770.jpg"
    },
    {
     "t": "Diptych with Scenes of the Annunciation, Nativi...",
@@ -3734,7 +3734,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 469858,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DT231705.jpg"
+    "img": "images/DT231705.jpg"
    }
   ]
  },
@@ -3762,7 +3762,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 310652,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23559-001.jpg"
+    "img": "images/DP-23559-001.jpg"
    },
    {
     "t": "Tapestry with figurative scenes",
@@ -3771,7 +3771,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227918,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP108035.jpg"
+    "img": "images/DP108035.jpg"
    },
    {
     "t": "Feathered Panel",
@@ -3780,7 +3780,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 312677,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-15008-008.jpg"
+    "img": "images/DP-15008-008.jpg"
    },
    {
     "t": "Ear Ornament, Winged Runner",
@@ -3789,7 +3789,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309428,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25717-001.jpg"
+    "img": "images/DP-25717-001.jpg"
    },
    {
     "t": "Tunic",
@@ -3798,7 +3798,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 315786,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1269.jpg"
+    "img": "images/DT1269.jpg"
    },
    {
     "t": "Seated Figure Bottle",
@@ -3807,7 +3807,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 307474,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1266.jpg"
+    "img": "images/DT1266.jpg"
    },
    {
     "t": "Vírgenes urbanas",
@@ -3824,7 +3824,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 317736,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1275.jpg"
+    "img": "images/DT1275.jpg"
    },
    {
     "t": "Missale Romanum (Roman Missal)",
@@ -3833,7 +3833,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 769318,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-16737-006.jpg"
+    "img": "images/DP-16737-006.jpg"
    },
    {
     "t": "Border Fragment",
@@ -3842,7 +3842,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 316945,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-28474-001.jpg"
+    "img": "images/DP-28474-001.jpg"
    },
    {
     "t": "Tunic with Confronting Catfish",
@@ -3851,7 +3851,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 307975,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT829.jpg"
+    "img": "images/DT829.jpg"
    },
    {
     "t": "Funerary Mask",
@@ -3860,7 +3860,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 309959,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-42545-001.jpg"
+    "img": "images/DP-42545-001.jpg"
    },
    {
     "t": "Ear Ornament, Winged Runner",
@@ -3869,7 +3869,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309427,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25716-001.jpg"
+    "img": "images/DP-25716-001.jpg"
    },
    {
     "t": "Bottle in the shape of a feline",
@@ -3878,7 +3878,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 317793,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23628-001.jpg"
+    "img": "images/DP-23628-001.jpg"
    },
    {
     "t": "Drum",
@@ -3887,7 +3887,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 310563,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1271.jpg"
+    "img": "images/DT1271.jpg"
    },
    {
     "t": "Bowl",
@@ -3896,7 +3896,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 313298,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP302450.jpg"
+    "img": "images/DP302450.jpg"
    },
    {
     "t": "Necklace of Copper Beads",
@@ -3905,7 +3905,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 309253,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs64_228_727_28.JPG"
+    "img": "images/vs64_228_727_28.JPG"
    },
    {
     "t": "Embroidered Mantle Fragment",
@@ -3914,7 +3914,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 308101,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP18482.jpg"
+    "img": "images/DP18482.jpg"
    },
    {
     "t": "Headdress ornament",
@@ -3923,7 +3923,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 318282,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1999_269aa.jpg"
+    "img": "images/vs1999_269aa.jpg"
    },
    {
     "t": "Club Head",
@@ -3932,7 +3932,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 308953,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/64.228.442a,b_a.JPG"
+    "img": "images/64.228.442a,b_a.JPG"
    },
    {
     "t": "Stirrup Spout Bottle with Seated Figure",
@@ -3941,7 +3941,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314683,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1983.546.8_a.jpg"
+    "img": "images/1983.546.8_a.jpg"
    },
    {
     "t": "Incised bowl with geometric pattern",
@@ -3950,7 +3950,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 308320,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/62.266.30.JPG"
+    "img": "images/62.266.30.JPG"
    },
    {
     "t": "Male Figure",
@@ -3959,7 +3959,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315683,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1987.394.635.jpg"
+    "img": "images/1987.394.635.jpg"
    },
    {
     "t": "Incised Painted Bowl",
@@ -3968,7 +3968,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 308656,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/64.228.159.JPG"
+    "img": "images/64.228.159.JPG"
    },
    {
     "t": "Figure Whistle",
@@ -3977,7 +3977,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 316420,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP227402.jpg"
+    "img": "images/DP227402.jpg"
    },
    {
     "t": "Monkey Bottle",
@@ -3986,7 +3986,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 308456,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/63.232.47_c.jpg"
+    "img": "images/63.232.47_c.jpg"
    },
    {
     "t": "Figure Lime Spoon",
@@ -3995,7 +3995,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315633,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-27942-001.jpg"
+    "img": "images/DP-27942-001.jpg"
    },
    {
     "t": "Textile Fragment",
@@ -4004,7 +4004,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 307994,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/LC-30_16_7_TMSa.jpg"
+    "img": "images/LC-30_16_7_TMSa.jpg"
    },
    {
     "t": "Trumpet",
@@ -4013,7 +4013,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503555,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp2001.795.jpg"
+    "img": "images/midp2001.795.jpg"
    },
    {
     "t": "Mask",
@@ -4022,7 +4022,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 309134,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/67.167.43_a.JPG"
+    "img": "images/67.167.43_a.JPG"
    },
    {
     "t": "Drum",
@@ -4031,7 +4031,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 313290,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/h2_1979.206.1097.jpg"
+    "img": "images/h2_1979.206.1097.jpg"
    },
    {
     "t": "Turquoise Face Mask Ornament",
@@ -4040,7 +4040,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315130,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1987.394.67_a.jpg"
+    "img": "images/1987.394.67_a.jpg"
    },
    {
     "t": "Figure Bottle",
@@ -4049,7 +4049,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 309380,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/65.266.89_a.jpg"
+    "img": "images/65.266.89_a.jpg"
    },
    {
     "t": "Bridge and Spout Bottle",
@@ -4058,7 +4058,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 308483,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/63.232.80_a.jpg"
+    "img": "images/63.232.80_a.jpg"
    },
    {
     "t": "Round Plaque",
@@ -4067,7 +4067,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 315548,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1987.394.473_a.JPG"
+    "img": "images/1987.394.473_a.JPG"
    },
    {
     "t": "Disk (Shield Cover)",
@@ -4076,7 +4076,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 310592,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT10183.jpg"
+    "img": "images/DT10183.jpg"
    },
    {
     "t": "Tunic",
@@ -4085,7 +4085,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 312786,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP233566.jpg"
+    "img": "images/DP233566.jpg"
    },
    {
     "t": "Whistling Jar",
@@ -4094,7 +4094,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 502536,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP158985.jpg"
+    "img": "images/DP158985.jpg"
    },
    {
     "t": "Ear Spool",
@@ -4103,7 +4103,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 313272,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1979_206_1079_80.jpg"
+    "img": "images/vs1979_206_1079_80.jpg"
    },
    {
     "t": "Four-Cornered Hat",
@@ -4171,7 +4171,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 240767,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121221.jpg"
+    "img": "images/DP121221.jpg"
    },
    {
     "t": "Cylinder seal",
@@ -4180,7 +4180,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 321414,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/DP-39693-001.jpg"
+    "img": "images/DP-39693-001.jpg"
    },
    {
     "t": "Gold and copper alloy spiral",
@@ -4189,7 +4189,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 242782,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP135987.jpg"
+    "img": "images/DP135987.jpg"
    },
    {
     "t": "Jug",
@@ -4198,7 +4198,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 240048,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/LC-74_51_462a.jpg"
+    "img": "images/LC-74_51_462a.jpg"
    },
    {
     "t": "Copper alloy spearhead",
@@ -4207,7 +4207,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 244161,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP9035.jpg"
+    "img": "images/DP9035.jpg"
    },
    {
     "t": "Limestone statuette of Dionysos holding a thyrsos",
@@ -4216,7 +4216,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 242297,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP205288.jpg"
+    "img": "images/DP205288.jpg"
    },
    {
     "t": "Limestone votive toe",
@@ -4225,7 +4225,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 244053,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP263945.jpg"
+    "img": "images/DP263945.jpg"
    },
    {
     "t": "Limestone male figure in Egyptian dress",
@@ -4234,7 +4234,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 242154,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP263915.jpg"
+    "img": "images/DP263915.jpg"
    },
    {
     "t": "Copper alloy spearhead",
@@ -4243,7 +4243,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 244160,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP9038.jpg"
+    "img": "images/DP9038.jpg"
    },
    {
     "t": "Alabaster spoon or ladle",
@@ -4252,7 +4252,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 243999,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP216088.jpg"
+    "img": "images/DP216088.jpg"
    },
    {
     "t": "Standing female figurine of the \"goddess with u...",
@@ -4261,7 +4261,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 241171,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/GR659_74.51.1609.jpg"
+    "img": "images/GR659_74.51.1609.jpg"
    },
    {
     "t": "Gold earring with nail-head pendant",
@@ -4270,7 +4270,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 242648,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP135988.jpg"
+    "img": "images/DP135988.jpg"
    },
    {
     "t": "Gold diadem",
@@ -4279,7 +4279,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 242725,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP136008.jpg"
+    "img": "images/DP136008.jpg"
    },
    {
     "t": "Limestone head of a youth",
@@ -4288,7 +4288,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 242381,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP119980.jpg"
+    "img": "images/DP119980.jpg"
    },
    {
     "t": "Bronze spearhead",
@@ -4297,7 +4297,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 244162,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP9037.jpg"
+    "img": "images/DP9037.jpg"
    },
    {
     "t": "Handle",
@@ -4306,7 +4306,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 244329,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP2261.jpg"
+    "img": "images/DP2261.jpg"
    },
    {
     "t": "Ram figurine",
@@ -4315,7 +4315,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 241317,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP101802.jpg"
+    "img": "images/DP101802.jpg"
    },
    {
     "t": "Standing female kithara player",
@@ -4324,7 +4324,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 241226,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP101879.jpg"
+    "img": "images/DP101879.jpg"
    },
    {
     "t": "Limestone statuette of a male votary (worshipper)",
@@ -4333,7 +4333,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 242086,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP121764.jpg"
+    "img": "images/DP121764.jpg"
    },
    {
     "t": "Gypsum jar",
@@ -4342,7 +4342,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 243993,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP216087.jpg"
+    "img": "images/DP216087.jpg"
    },
    {
     "t": "Miniature alabaster amphora (jar)",
@@ -4351,7 +4351,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 244009,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP153474.jpg"
+    "img": "images/DP153474.jpg"
    },
    {
     "t": "Jug",
@@ -4360,7 +4360,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 240297,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/LC-74_51_710.jpg"
+    "img": "images/LC-74_51_710.jpg"
    },
    {
     "t": "Limestone male figure",
@@ -4369,7 +4369,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 242031,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT207675.jpg"
+    "img": "images/DT207675.jpg"
    },
    {
     "t": "Limestone funerary bust of a beardless man",
@@ -4378,7 +4378,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 242321,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP160662.jpg"
+    "img": "images/DP160662.jpg"
    },
    {
     "t": "Electrum earring with lobes and rosettes",
@@ -4387,7 +4387,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 242683,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/sp74513250.jpg"
+    "img": "images/sp74513250.jpg"
    },
    {
     "t": "Pin, eyelet type",
@@ -4396,7 +4396,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 244405,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP20028.jpg"
+    "img": "images/DP20028.jpg"
    },
    {
     "t": "Juglet",
@@ -4405,7 +4405,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 240186,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/LC-74_51_599.jpg"
+    "img": "images/LC-74_51_599.jpg"
    },
    {
     "t": "Buckle",
@@ -4414,7 +4414,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 244413,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP20060.jpg"
+    "img": "images/DP20060.jpg"
    },
    {
     "t": "Terracotta wall bracket",
@@ -4423,7 +4423,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 240137,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DT11730.jpg"
+    "img": "images/DT11730.jpg"
    },
    {
     "t": "Goat figurine",
@@ -4432,7 +4432,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 241319,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP101804.jpg"
+    "img": "images/DP101804.jpg"
    },
    {
     "t": "Youth",
@@ -4441,7 +4441,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 241260,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP101755.jpg"
+    "img": "images/DP101755.jpg"
    },
    {
     "t": "Limestone statuette of a beardless male votary ...",
@@ -4450,7 +4450,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 242107,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP160804.jpg"
+    "img": "images/DP160804.jpg"
    },
    {
     "t": "Bell",
@@ -4459,7 +4459,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 244507,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP20112.jpg"
+    "img": "images/DP20112.jpg"
    },
    {
     "t": "Gold ring with glass scarab",
@@ -4468,7 +4468,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 243560,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-32787-001.jpg"
+    "img": "images/DP-32787-001.jpg"
    },
    {
     "t": "Juglet",
@@ -4477,7 +4477,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 239995,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/LC-74_51_409.jpg"
+    "img": "images/LC-74_51_409.jpg"
    },
    {
     "t": "Seated baby",
@@ -4486,7 +4486,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 241154,
-    "img": "https://images.metmuseum.org/CRDImages/gr/web-large/DP101398.jpg"
+    "img": "images/DP101398.jpg"
    }
   ]
  },
@@ -4514,7 +4514,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 457730,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP253146.jpg"
+    "img": "images/DP253146.jpg"
    },
    {
     "t": "The House of Bijapur",
@@ -4555,7 +4555,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451268,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT200627.jpg"
+    "img": "images/DT200627.jpg"
    },
    {
     "t": "Dagger with Scabbard",
@@ -4564,7 +4564,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24907,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP157706.jpg"
+    "img": "images/DP157706.jpg"
    },
    {
     "t": "Dagger with Hilt in the Form of a Blue Bull (Ni...",
@@ -4573,7 +4573,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 453253,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP158315.jpg"
+    "img": "images/DP158315.jpg"
    },
    {
     "t": "Taūs (mayuri)",
@@ -4582,7 +4582,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500709,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MI89.4.163.jpg"
+    "img": "images/MI89.4.163.jpg"
    },
    {
     "t": "Śankh",
@@ -4591,7 +4591,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503672,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP353270.jpg"
+    "img": "images/DP353270.jpg"
    },
    {
     "t": "Finial in the Form of a Parrot",
@@ -4600,7 +4600,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 447086,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT4880.jpg"
+    "img": "images/DT4880.jpg"
    },
    {
     "t": "Ghanti (bell)",
@@ -4609,7 +4609,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500736,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/mi89.4.154.R.jpg"
+    "img": "images/mi89.4.154.R.jpg"
    },
    {
     "t": "Flower-Style Box with Drawers",
@@ -4618,7 +4618,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 452813,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/wb-1976.176.1b.JPG"
+    "img": "images/wb-1976.176.1b.JPG"
    },
    {
     "t": "\"A King Offers to Make Amends to a Bereaved Mot...",
@@ -4627,7 +4627,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446560,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP120801.jpg"
+    "img": "images/DP120801.jpg"
    },
    {
     "t": "Floral Tent Panel",
@@ -4636,7 +4636,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 453054,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP210624.jpg"
+    "img": "images/DP210624.jpg"
    },
    {
     "t": "Sarangi",
@@ -4645,7 +4645,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503204,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302686.jpg"
+    "img": "images/DP302686.jpg"
    },
    {
     "t": "Sitar",
@@ -4662,7 +4662,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 453053,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP240305.jpg"
+    "img": "images/DP240305.jpg"
    },
    {
     "t": "\"Shah Jahan on a Terrace, Holding a Pendant Set...",
@@ -4671,7 +4671,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451270,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP246547.jpg"
+    "img": "images/DP246547.jpg"
    },
    {
     "t": "\"The Story of the Princess of the Blue Pavillio...",
@@ -4680,7 +4680,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446567,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP120808.jpg"
+    "img": "images/DP120808.jpg"
    },
    {
     "t": "\"Rosette Bearing the Names and Titles of Shah J...",
@@ -4689,7 +4689,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451286,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP240657.jpg"
+    "img": "images/DP240657.jpg"
    },
    {
     "t": "\"Bahram Gur Sees a Herd of Deer Mesmerized by D...",
@@ -4698,7 +4698,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446562,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP120803.jpg"
+    "img": "images/DP120803.jpg"
    },
    {
     "t": "Black Stork in a Landscape",
@@ -4707,7 +4707,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 454011,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP234080.jpg"
+    "img": "images/DP234080.jpg"
    },
    {
     "t": "Base for a Water Pipe (Huqqa) with Irises",
@@ -4716,7 +4716,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 453243,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP214317.jpg"
+    "img": "images/DP214317.jpg"
    },
    {
     "t": "\"A Muslim Pilgrim Learns a Lesson in Piety from...",
@@ -4725,7 +4725,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446563,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP159383.jpg"
+    "img": "images/DP159383.jpg"
    },
    {
     "t": "Great Indian Fruit Bat",
@@ -4734,7 +4734,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 456949,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP167067.jpg"
+    "img": "images/DP167067.jpg"
    },
    {
     "t": "Akbar Visited by Jahangir and Daniyal",
@@ -4743,7 +4743,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446575,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT5431.jpg"
+    "img": "images/DT5431.jpg"
    },
    {
     "t": "Primer",
@@ -4752,7 +4752,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 30471,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP347127.jpg"
+    "img": "images/DP347127.jpg"
    },
    {
     "t": "Jewelry set",
@@ -4770,7 +4770,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 221867,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/65636.jpg"
+    "img": "images/65636.jpg"
    },
    {
     "t": "Earring, One of a Set of Five",
@@ -4779,7 +4779,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 446779,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/15.95.113_114_115_116_117.jpg"
+    "img": "images/15.95.113_114_115_116_117.jpg"
    },
    {
     "t": "Shawl",
@@ -4788,7 +4788,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447848,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf26-12-1a.jpg"
+    "img": "images/sf26-12-1a.jpg"
    },
    {
     "t": "Bottle with European and Indian Figures",
@@ -4797,7 +4797,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 452294,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP240303.jpg"
+    "img": "images/DP240303.jpg"
    },
    {
     "t": "Shawl Sample",
@@ -4806,7 +4806,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447757,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/56469.jpg"
+    "img": "images/56469.jpg"
    },
    {
     "t": "Interior of a Courtyard with Figures",
@@ -4815,7 +4815,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 445280,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP277302.jpg"
+    "img": "images/DP277302.jpg"
    },
    {
     "t": "\"Portrait of Jadun Rai Deccani\", Folio from the...",
@@ -4824,7 +4824,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451295,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP247737.jpg"
+    "img": "images/DP247737.jpg"
    },
    {
     "t": "Two Stirrups",
@@ -4833,7 +4833,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31876,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-36_25_512a_b-003.jpg"
+    "img": "images/LC-36_25_512a_b-003.jpg"
    },
    {
     "t": "Portrait of the Elephant  'Alam Guman",
@@ -4842,7 +4842,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 453367,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP234016.jpg"
+    "img": "images/DP234016.jpg"
    },
    {
     "t": "\"Hamid Bhakari Punished by Akbar\", Folio from a...",
@@ -4851,7 +4851,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 448466,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT4804.jpg"
+    "img": "images/DT4804.jpg"
    },
    {
     "t": "Cover",
@@ -4860,7 +4860,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 453415,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/wb-x.103.2.JPG"
+    "img": "images/wb-x.103.2.JPG"
    }
   ]
  },
@@ -4888,7 +4888,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 40123,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_5.jpg"
+    "img": "images/1998_544_5.jpg"
    },
    {
     "t": "Figure",
@@ -4897,7 +4897,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 39020,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT5232.jpg"
+    "img": "images/DT5232.jpg"
    },
    {
     "t": "Head",
@@ -4906,7 +4906,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 38267,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-15581-044.jpg"
+    "img": "images/DP-15581-044.jpg"
    },
    {
     "t": "Weapon Handle",
@@ -4915,7 +4915,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 40118,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP216311.jpg"
+    "img": "images/DP216311.jpg"
    },
    {
     "t": "Perminangken (container for magical substances)",
@@ -4980,7 +4980,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 39426,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-14791-013.jpg"
+    "img": "images/DP-14791-013.jpg"
    },
    {
     "t": "Sesando",
@@ -4989,7 +4989,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502064,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302560.jpg"
+    "img": "images/DP302560.jpg"
    },
    {
     "t": "Figure (Hampatong)",
@@ -5006,7 +5006,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 72498,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/ASA501.jpg"
+    "img": "images/ASA501.jpg"
    },
    {
     "t": "Bis Pole",
@@ -5023,7 +5023,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 39008,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1987_142_15.jpg"
+    "img": "images/1987_142_15.jpg"
    },
    {
     "t": "Relief fragment",
@@ -5032,7 +5032,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 38283,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-40202-001.jpg"
+    "img": "images/DP-40202-001.jpg"
    },
    {
     "t": "Ring",
@@ -5041,7 +5041,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 50405,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_432.jpg"
+    "img": "images/1998_544_432.jpg"
    },
    {
     "t": "Pendant",
@@ -5050,7 +5050,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 50068,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_231.JPG"
+    "img": "images/1998_544_231.JPG"
    },
    {
     "t": "Ring",
@@ -5059,7 +5059,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 50394,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_422.JPG"
+    "img": "images/1998_544_422.JPG"
    },
    {
     "t": "Ear Clip",
@@ -5068,7 +5068,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 50018,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_194.jpg"
+    "img": "images/1998_544_194.jpg"
    },
    {
     "t": "Ring",
@@ -5077,7 +5077,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 50265,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_371.JPG"
+    "img": "images/1998_544_371.JPG"
    },
    {
     "t": "Ring",
@@ -5086,7 +5086,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 50411,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_438_O.JPG"
+    "img": "images/1998_544_438_O.JPG"
    },
    {
     "t": "Bowl base",
@@ -5095,7 +5095,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 49681,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_23_O1.jpg"
+    "img": "images/1998_544_23_O1.jpg"
    },
    {
     "t": "Bowl",
@@ -5104,7 +5104,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 50902,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_1.jpg"
+    "img": "images/1998_544_1.jpg"
    },
    {
     "t": "Ceremonial Banner (palepai)",
@@ -5113,7 +5113,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 855873,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/IA-10955.4.jpg"
+    "img": "images/IA-10955.4.jpg"
    },
    {
     "t": "Sword (Campilan)",
@@ -5122,7 +5122,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31125,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-36_25_1498-002-2.jpg"
+    "img": "images/LC-36_25_1498-002-2.jpg"
    },
    {
     "t": "Pendant",
@@ -5131,7 +5131,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 49677,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP228259.jpg"
+    "img": "images/DP228259.jpg"
    },
    {
     "t": "Ear Ornament",
@@ -5140,7 +5140,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 49726,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_68_F.JPG"
+    "img": "images/1998_544_68_F.JPG"
    },
    {
     "t": "Knife (Wedong) with Sheath",
@@ -5149,7 +5149,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31600,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.800ab_003june2014.jpg"
+    "img": "images/36.25.800ab_003june2014.jpg"
    },
    {
     "t": "Kris with Sheath",
@@ -5158,7 +5158,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31305,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1100ab_001Jan2015.jpg"
+    "img": "images/36.25.1100ab_001Jan2015.jpg"
    },
    {
     "t": "Ring",
@@ -5167,7 +5167,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 50157,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_324.JPG"
+    "img": "images/1998_544_324.JPG"
    },
    {
     "t": "Hair ornament",
@@ -5176,7 +5176,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 40136,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_25.jpg"
+    "img": "images/1998_544_25.jpg"
    },
    {
     "t": "Group",
@@ -5185,7 +5185,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 39035,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1987_142_156.jpg"
+    "img": "images/1987_142_156.jpg"
    },
    {
     "t": "Ring",
@@ -5194,7 +5194,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 50295,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1998_544_395_O1.jpg"
+    "img": "images/1998_544_395_O1.jpg"
    },
    {
     "t": "Ceremonial Textile (Sokong)",
@@ -5203,7 +5203,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 318073,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1999.47.152za.jpg"
+    "img": "images/vs1999.47.152za.jpg"
    },
    {
     "t": "Head",
@@ -5212,7 +5212,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 38995,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/264850.jpg"
+    "img": "images/264850.jpg"
    },
    {
     "t": "Kris Sheath Parts and Mounts",
@@ -5221,7 +5221,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 660027,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1148_001Jan2015.jpg"
+    "img": "images/36.25.1148_001Jan2015.jpg"
    },
    {
     "t": "Hanging lamp",
@@ -5230,7 +5230,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 39075,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1987_142_25.jpg"
+    "img": "images/1987_142_25.jpg"
    }
   ]
  },
@@ -5258,7 +5258,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446285,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP170364.jpg"
+    "img": "images/DP170364.jpg"
    },
    {
     "t": "Dialogos de la pintvra : sv defensa, origen, es...",
@@ -5267,7 +5267,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 699505,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1100794_001.jpg"
+    "img": "images/b1100794_001.jpg"
    },
    {
     "t": "Guitar",
@@ -5276,7 +5276,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503283,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP335036.jpg"
+    "img": "images/DP335036.jpg"
    },
    {
     "t": "Crucifix",
@@ -5285,7 +5285,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 473008,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP102847.jpg"
+    "img": "images/DP102847.jpg"
    },
    {
     "t": "Ceiling",
@@ -5302,7 +5302,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451995,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf68-215-2a.jpg"
+    "img": "images/sf68-215-2a.jpg"
    },
    {
     "t": "Bowl with a Horseman Spearing a Serpent",
@@ -5311,7 +5311,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 467746,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DT156.jpg"
+    "img": "images/DT156.jpg"
    },
    {
     "t": "Guitar",
@@ -5320,7 +5320,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503440,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP1992.279.jpg"
+    "img": "images/DP1992.279.jpg"
    },
    {
     "t": "Patio from the Castle of Vélez Blanco",
@@ -5329,7 +5329,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 199003,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-18180-002.jpg"
+    "img": "images/DP-18180-002.jpg"
    },
    {
     "t": "Helmet (Sallet)",
@@ -5338,7 +5338,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24900,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP160368.jpg"
+    "img": "images/DP160368.jpg"
    },
    {
     "t": "The Holy Family with Saints Anne and Joachim",
@@ -5347,7 +5347,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 199674,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP220481.jpg"
+    "img": "images/DP220481.jpg"
    },
    {
     "t": "Tomb of Ermengol VII, Count of Urgell",
@@ -5356,7 +5356,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 472387,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP366862.jpg"
+    "img": "images/DP366862.jpg"
    },
    {
     "t": "Textile Fragment",
@@ -5365,7 +5365,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 448232,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP230031.jpg"
+    "img": "images/DP230031.jpg"
    },
    {
     "t": "Plaque with the Journey to Emmaus and Noli Me T...",
@@ -5374,7 +5374,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 464443,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP287161.jpg"
+    "img": "images/DP287161.jpg"
    },
    {
     "t": "Scenes of the Passion",
@@ -5383,7 +5383,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 191598,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/ES5848.jpg"
+    "img": "images/ES5848.jpg"
    },
    {
     "t": "Saint John the Baptist",
@@ -5392,7 +5392,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 202718,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP249462.jpg"
+    "img": "images/DP249462.jpg"
    },
    {
     "t": "Exposición surrealista : abierta de 11 a 12 y d...",
@@ -5409,7 +5409,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 466198,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP-20618-001.jpg"
+    "img": "images/DP-20618-001.jpg"
    },
    {
     "t": "Folio from a Qur'an Manuscript",
@@ -5418,7 +5418,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 450486,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP238067.jpg"
+    "img": "images/DP238067.jpg"
    },
    {
     "t": "Saint James the Greater",
@@ -5427,7 +5427,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 471884,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP360463.jpg"
+    "img": "images/DP360463.jpg"
    },
    {
     "t": "Lion",
@@ -5436,7 +5436,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 471061,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP-43080-001.jpg"
+    "img": "images/DP-43080-001.jpg"
    },
    {
     "t": "Processional Cross",
@@ -5445,7 +5445,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 464023,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DT154.jpg"
+    "img": "images/DT154.jpg"
    },
    {
     "t": "Leaf from a Beatus Manuscript: at the Clarion o...",
@@ -5454,7 +5454,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 466191,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP-20629-001.jpg"
+    "img": "images/DP-20629-001.jpg"
    },
    {
     "t": "Door knocker in the shape of a small dog or puppy",
@@ -5463,7 +5463,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 712741,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP-14547-002.jpg"
+    "img": "images/DP-14547-002.jpg"
    },
    {
     "t": "Sampler",
@@ -5472,7 +5472,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 228181,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/164464.jpg"
+    "img": "images/164464.jpg"
    },
    {
     "t": "Panel",
@@ -5481,7 +5481,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 197177,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/88903.jpg"
+    "img": "images/88903.jpg"
    },
    {
     "t": "Statue robe",
@@ -5490,7 +5490,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 221349,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/48760.jpg"
+    "img": "images/48760.jpg"
    },
    {
     "t": "Window Grill",
@@ -5499,7 +5499,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 471451,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/sf52-142-2.jpg"
+    "img": "images/sf52-142-2.jpg"
    },
    {
     "t": "Fragment",
@@ -5508,7 +5508,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 216282,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP352540.jpg"
+    "img": "images/DP352540.jpg"
    },
    {
     "t": "Cover",
@@ -5517,7 +5517,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212471,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/50988.jpg"
+    "img": "images/50988.jpg"
    },
    {
     "t": "Dish",
@@ -5526,7 +5526,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 471762,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/cdi56-171-100.jpg"
+    "img": "images/cdi56-171-100.jpg"
    },
    {
     "t": "Dish",
@@ -5535,7 +5535,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 196422,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF29_100_99.jpg"
+    "img": "images/SF29_100_99.jpg"
    },
    {
     "t": "Ornament of Horse Trapping",
@@ -5544,7 +5544,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 34148,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-29_158_418-001.jpg"
+    "img": "images/LC-29_158_418-001.jpg"
    },
    {
     "t": "Part of a chasuble",
@@ -5553,7 +5553,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219889,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-44121-001.jpg"
+    "img": "images/DP-44121-001.jpg"
    },
    {
     "t": "Sampler",
@@ -5562,7 +5562,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 228188,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP745.jpg"
+    "img": "images/DP745.jpg"
    },
    {
     "t": "Four fragments of Orphrey Bands Made into a Panel",
@@ -5571,7 +5571,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 460583,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-14399-001.jpg"
+    "img": "images/DP-14399-001.jpg"
    },
    {
     "t": "Piece",
@@ -5580,7 +5580,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212991,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/433.jpg"
+    "img": "images/433.jpg"
    },
    {
     "t": "Deep Dish",
@@ -5589,7 +5589,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 471738,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP267390.jpg"
+    "img": "images/DP267390.jpg"
    },
    {
     "t": "Column",
@@ -5598,7 +5598,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 454638,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf56-234-26-1.JPG"
+    "img": "images/sf56-234-26-1.JPG"
    },
    {
     "t": "Piece",
@@ -5607,7 +5607,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 222990,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/96075A.jpg"
+    "img": "images/96075A.jpg"
    }
   ]
  },
@@ -5635,7 +5635,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313327,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP295629.jpg"
+    "img": "images/DP295629.jpg"
    },
    {
     "t": "Double Whistle",
@@ -5644,7 +5644,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503940,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-42309-001.jpg"
+    "img": "images/DP-42309-001.jpg"
    },
    {
     "t": "The Entombment of Christ",
@@ -5653,7 +5653,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 631985,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP333083.jpg"
+    "img": "images/DP333083.jpg"
    },
    {
     "t": "The Institution of the Eucharist at the Last Su...",
@@ -5662,7 +5662,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 209279,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP211990.jpg"
+    "img": "images/DP211990.jpg"
    },
    {
     "t": "Covered jar",
@@ -5671,7 +5671,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 662163,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP344828.jpg"
+    "img": "images/DP344828.jpg"
    },
    {
     "t": "Dyn",
@@ -5688,7 +5688,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310604,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP23133.jpg"
+    "img": "images/DP23133.jpg"
    },
    {
     "t": "The Marriage of the Virgin",
@@ -5697,7 +5697,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 719486,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15281-001.jpg"
+    "img": "images/DP-15281-001.jpg"
    },
    {
     "t": "Relief with Enthroned Ruler",
@@ -5706,7 +5706,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313240,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP104826.jpg"
+    "img": "images/DP104826.jpg"
    },
    {
     "t": "Mirror-Bearer",
@@ -5715,7 +5715,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313256,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-24340-001.jpg"
+    "img": "images/DP-24340-001.jpg"
    },
    {
     "t": "Mask",
@@ -5724,7 +5724,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310279,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25390-001.jpg"
+    "img": "images/DP-25390-001.jpg"
    },
    {
     "t": "Chalice",
@@ -5733,7 +5733,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 769316,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15918-001.jpg"
+    "img": "images/DP-15918-001.jpg"
    },
    {
     "t": "Deity Censer (Xantil)",
@@ -5782,7 +5782,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 635401,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP356939.jpg"
+    "img": "images/DP356939.jpg"
    },
    {
     "t": "The Virgin of Carmen and the Souls of Purgatory...",
@@ -5791,7 +5791,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 747199,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15280-003.jpg"
+    "img": "images/DP-15280-003.jpg"
    },
    {
     "t": "International exhibition of surrealism",
@@ -5808,7 +5808,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 310364,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-576-001.jpg"
+    "img": "images/DP-576-001.jpg"
    },
    {
     "t": "\"Smiling\" Figure",
@@ -5817,7 +5817,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313386,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP104829.jpg"
+    "img": "images/DP104829.jpg"
    },
    {
     "t": "Standing Figure",
@@ -5826,7 +5826,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312781,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23867-001.jpg"
+    "img": "images/DP-23867-001.jpg"
    },
    {
     "t": "Whistling vessel",
@@ -5835,7 +5835,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 310542,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23468-001.jpg"
+    "img": "images/DP-23468-001.jpg"
    },
    {
     "t": "Basin",
@@ -5844,7 +5844,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 674,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT11610.jpg"
+    "img": "images/DT11610.jpg"
    },
    {
     "t": "Dish (Charola)",
@@ -5853,7 +5853,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 725124,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-32848-001.jpg"
+    "img": "images/DP-32848-001.jpg"
    },
    {
     "t": "Chocolate Jar (Chocolatero)",
@@ -5862,7 +5862,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 4470,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP105075.jpg"
+    "img": "images/DP105075.jpg"
    },
    {
     "t": "Pottery Flute",
@@ -5871,7 +5871,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 501256,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MIDP89.4.640.jpg"
+    "img": "images/MIDP89.4.640.jpg"
    },
    {
     "t": "Powder Horn",
@@ -5880,7 +5880,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 35176,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/89.4.1144_002Sept2014.jpg"
+    "img": "images/89.4.1144_002Sept2014.jpg"
    },
    {
     "t": "Pottery Bell",
@@ -5889,7 +5889,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501277,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/209680.jpg"
+    "img": "images/209680.jpg"
    },
    {
     "t": "Spindle Whorl",
@@ -5898,7 +5898,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 307706,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/00.5.879.jpg"
+    "img": "images/00.5.879.jpg"
    },
    {
     "t": "Awl punch",
@@ -5907,7 +5907,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317637,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1994_35_773.jpg"
+    "img": "images/vs1994_35_773.jpg"
    },
    {
     "t": "Stone Pulidor",
@@ -5916,7 +5916,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317032,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_304.jpg"
+    "img": "images/hz1994_35_304.jpg"
    },
    {
     "t": "Pottery Flute",
@@ -5925,7 +5925,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502795,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/204777.jpg"
+    "img": "images/204777.jpg"
    },
    {
     "t": "Finger Grip",
@@ -5934,7 +5934,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317421,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1994_35_572.JPG"
+    "img": "images/VS1994_35_572.JPG"
    },
    {
     "t": "Harp",
@@ -5943,7 +5943,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501278,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-28525-001.jpg"
+    "img": "images/DP-28525-001.jpg"
    },
    {
     "t": "Blackware Bowl",
@@ -5952,7 +5952,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 318474,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP705410.jpg"
+    "img": "images/DP705410.jpg"
    },
    {
     "t": "Jar",
@@ -5961,7 +5961,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 4475,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP251444.jpg"
+    "img": "images/DP251444.jpg"
    },
    {
     "t": "Rasp",
@@ -5970,7 +5970,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503540,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP160886.jpg"
+    "img": "images/DP160886.jpg"
    },
    {
     "t": "Bowl with Bird Design",
@@ -5979,7 +5979,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 316303,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1989.314.19_a.JPG"
+    "img": "images/1989.314.19_a.JPG"
    }
   ]
  },
@@ -6007,7 +6007,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 464070,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP-14785-002.jpg"
+    "img": "images/DP-14785-002.jpg"
    },
    {
     "t": "Marble Portrait Bust of a Woman with a Scroll",
@@ -6016,7 +6016,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 468716,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP345055.jpg"
+    "img": "images/DP345055.jpg"
    },
    {
     "t": "Jaharis Byzantine Lectionary",
@@ -6025,7 +6025,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 477499,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP160636.jpg"
+    "img": "images/DP160636.jpg"
    },
    {
     "t": "Processional Cross",
@@ -6034,7 +6034,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 466251,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DT121.jpg"
+    "img": "images/DT121.jpg"
    },
    {
     "t": "Fragment of a Kaftan Back",
@@ -6043,7 +6043,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 451095,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP230054.jpg"
+    "img": "images/DP230054.jpg"
    },
    {
     "t": "\"Lotto\" Carpet",
@@ -6052,7 +6052,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 452845,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT5469.jpg"
+    "img": "images/DT5469.jpg"
    },
    {
     "t": "\"Star Ushak\" Carpet",
@@ -6061,7 +6061,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447568,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP270096.jpg"
+    "img": "images/DP270096.jpg"
    },
    {
     "t": "Dragon Wrapped around Saz Leaves",
@@ -6070,7 +6070,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 454015,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP252419.jpg"
+    "img": "images/DP252419.jpg"
    },
    {
     "t": "'Saz'-Style Drawing of a Dragon Amid Foliage",
@@ -6079,7 +6079,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451405,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP231358.jpg"
+    "img": "images/DP231358.jpg"
    },
    {
     "t": "Carpet with Triple-Arch Design",
@@ -6088,7 +6088,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447509,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP166876.jpg"
+    "img": "images/DP166876.jpg"
    },
    {
     "t": "Tip of a Pointer",
@@ -6097,7 +6097,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 466296,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DT122.jpg"
+    "img": "images/DT122.jpg"
    },
    {
     "t": "Calligraphic Galleon",
@@ -6106,7 +6106,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 454611,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP234017.jpg"
+    "img": "images/DP234017.jpg"
    },
    {
     "t": "The Antioch \"Chalice\"",
@@ -6115,7 +6115,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 468346,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DT113.jpg"
+    "img": "images/DT113.jpg"
    },
    {
     "t": "Textile Fragment",
@@ -6124,7 +6124,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 451102,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP230058.jpg"
+    "img": "images/DP230058.jpg"
    },
    {
     "t": "'Lotto' Carpet",
@@ -6133,7 +6133,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445297,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/wb-08.167.1.JPG"
+    "img": "images/wb-08.167.1.JPG"
    },
    {
     "t": "Fragment of a Floor Mosaic with a Personificati...",
@@ -6142,7 +6142,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 469960,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP-37759-001.jpg"
+    "img": "images/DP-37759-001.jpg"
    },
    {
     "t": "Dish Depicting Two Birds among Flowering Plants",
@@ -6151,7 +6151,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451490,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP131621.jpg"
+    "img": "images/DP131621.jpg"
    },
    {
     "t": "Plate with the Battle of David and Goliath",
@@ -6160,7 +6160,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 464377,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DT118.jpg"
+    "img": "images/DT118.jpg"
    },
    {
     "t": "Tile with Floral and Cloud-band Design",
@@ -6169,7 +6169,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 444897,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP170362.jpg"
+    "img": "images/DP170362.jpg"
    },
    {
     "t": "Helmet with Aventail",
@@ -6178,7 +6178,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24813,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP152928.jpg"
+    "img": "images/DP152928.jpg"
    },
    {
     "t": "Short Sword (Yatagan) from the Court of Süleyma...",
@@ -6187,7 +6187,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24953,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP216853.jpg"
+    "img": "images/DP216853.jpg"
    },
    {
     "t": "Qur'an Manuscript",
@@ -6196,7 +6196,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 453024,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/1980.603.JPG"
+    "img": "images/1980.603.JPG"
    },
    {
     "t": "\"Bellini\" Carpet",
@@ -6205,7 +6205,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447572,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT5444.jpg"
+    "img": "images/DT5444.jpg"
    },
    {
     "t": "Khusrau and Shirin",
@@ -6214,7 +6214,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 452037,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP234022.jpg"
+    "img": "images/DP234022.jpg"
    },
    {
     "t": "\"The Angel Gabriel meets 'Amr ibn Zaid (the She...",
@@ -6223,7 +6223,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 453351,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP234015.jpg"
+    "img": "images/DP234015.jpg"
    },
    {
     "t": "Saber",
@@ -6232,7 +6232,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24320,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP160333.jpg"
+    "img": "images/DP160333.jpg"
    },
    {
     "t": "Tughra (Insignia) of Sultan Süleiman the Magnif...",
@@ -6241,7 +6241,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 449534,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP234753.jpg"
+    "img": "images/DP234753.jpg"
    },
    {
     "t": "The Fieschi Morgan Staurotheke",
@@ -6250,7 +6250,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 472562,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DT119.jpg"
+    "img": "images/DT119.jpg"
    },
    {
     "t": "Confronted Animal Rug",
@@ -6259,7 +6259,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 453317,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP229999.jpg"
+    "img": "images/DP229999.jpg"
    },
    {
     "t": "Tughra (Insignia) of Sultan Süleiman the Magnif...",
@@ -6268,7 +6268,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 449533,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP251197.jpg"
+    "img": "images/DP251197.jpg"
    },
    {
     "t": "Fragmentary Loom Width with Wavy-Vine Pattern",
@@ -6277,7 +6277,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 451101,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP230057.jpg"
+    "img": "images/DP230057.jpg"
    },
    {
     "t": "Icon with the Crucifixion",
@@ -6286,7 +6286,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 464428,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP355179.jpg"
+    "img": "images/DP355179.jpg"
    },
    {
     "t": "Helmet",
@@ -6295,7 +6295,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27936,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP219935.jpg"
+    "img": "images/DP219935.jpg"
    },
    {
     "t": "Steelyard Rod with Weight and Hooks",
@@ -6304,7 +6304,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 478383,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/TR284-2008s1.jpg"
+    "img": "images/TR284-2008s1.jpg"
    },
    {
     "t": "Towel",
@@ -6313,7 +6313,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 444415,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-33993-001.jpg"
+    "img": "images/DP-33993-001.jpg"
    },
    {
     "t": "Fragment with a Leaf Motif",
@@ -6322,7 +6322,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 464523,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf17-190-652s1.jpg"
+    "img": "images/sf17-190-652s1.jpg"
    },
    {
     "t": "Intaglio",
@@ -6331,7 +6331,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 473293,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/TR46982000obv.jpg"
+    "img": "images/TR46982000obv.jpg"
    },
    {
     "t": "Textile Fragment",
@@ -6340,7 +6340,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 454609,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP230005.jpg"
+    "img": "images/DP230005.jpg"
    },
    {
     "t": "Hizb (Litany) of An-Nawawi",
@@ -6349,7 +6349,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 452743,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-19848-002.jpg"
+    "img": "images/DP-19848-002.jpg"
    },
    {
     "t": "Towel End",
@@ -6358,7 +6358,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 443064,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP17556.jpg"
+    "img": "images/DP17556.jpg"
    }
   ]
  },
@@ -6386,7 +6386,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 230011,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DT4292.jpg"
+    "img": "images/DT4292.jpg"
    },
    {
     "t": "Nouvelle description de la France dans laquelle...",
@@ -6403,7 +6403,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501523,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP105123.jpg"
+    "img": "images/DP105123.jpg"
    },
    {
     "t": "Sample book of the fancy paper factory Aschaffe...",
@@ -6428,7 +6428,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501767,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP165270a.jpg"
+    "img": "images/DP165270a.jpg"
    },
    {
     "t": "Legatio batavica ad magnum Tartariæ chamum Sung...",
@@ -6437,7 +6437,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 839804,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1206765_001.jpg"
+    "img": "images/b1206765_001.jpg"
    },
    {
     "t": "Cabinet on stand",
@@ -6446,7 +6446,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 208523,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DT3924.jpg"
+    "img": "images/DT3924.jpg"
    },
    {
     "t": "Ensemble",
@@ -6471,7 +6471,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503673,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP167845.jpg"
+    "img": "images/DP167845.jpg"
    },
    {
     "t": "Dress",
@@ -6504,7 +6504,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 681546,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/i19511814-cf.jpg"
+    "img": "images/i19511814-cf.jpg"
    },
    {
     "t": "Margins",
@@ -6521,7 +6521,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 681534,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/i19511772-cf.jpg"
+    "img": "images/i19511772-cf.jpg"
    },
    {
     "t": "Nouvelle description de la France dans laquelle...",
@@ -6538,7 +6538,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 681559,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/i19511656-cf.jpg"
+    "img": "images/i19511656-cf.jpg"
    },
    {
     "t": "Nouvelle description de la France dans laquelle...",
@@ -6563,7 +6563,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 201966,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/163800.jpg"
+    "img": "images/163800.jpg"
    },
    {
     "t": "Tile",
@@ -6572,7 +6572,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 190907,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/4761.jpg"
+    "img": "images/4761.jpg"
    },
    {
     "t": "Jar with cover (part of a garniture)",
@@ -6581,7 +6581,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 187748,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/112003.jpg"
+    "img": "images/112003.jpg"
    },
    {
     "t": "Embroidered darning sampler",
@@ -6590,7 +6590,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 228089,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/165672.jpg"
+    "img": "images/165672.jpg"
    },
    {
     "t": "Tile",
@@ -6599,7 +6599,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 190920,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/4747.jpg"
+    "img": "images/4747.jpg"
    },
    {
     "t": "Tile",
@@ -6608,7 +6608,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 196209,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/69501.jpg"
+    "img": "images/69501.jpg"
    },
    {
     "t": "Plate (part of a set)",
@@ -6617,7 +6617,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 208885,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/216402.jpg"
+    "img": "images/216402.jpg"
    },
    {
     "t": "Pole glass (Stangenglas)",
@@ -6626,7 +6626,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 195905,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/69267.jpg"
+    "img": "images/69267.jpg"
    },
    {
     "t": "Embroidered darning sampler",
@@ -6635,7 +6635,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 228074,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-32994-001.jpg"
+    "img": "images/DP-32994-001.jpg"
    },
    {
     "t": "Cup",
@@ -6644,7 +6644,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 193545,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/38439.jpg"
+    "img": "images/38439.jpg"
    },
    {
     "t": "Wineglass",
@@ -6653,7 +6653,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 195964,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/69750.jpg"
+    "img": "images/69750.jpg"
    },
    {
     "t": "Entombment",
@@ -6662,7 +6662,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 193474,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/38410.jpg"
+    "img": "images/38410.jpg"
    },
    {
     "t": "Tile",
@@ -6671,7 +6671,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 190871,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/4769.jpg"
+    "img": "images/4769.jpg"
    },
    {
     "t": "Piece",
@@ -6680,7 +6680,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 223108,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP267760.jpg"
+    "img": "images/DP267760.jpg"
    },
    {
     "t": "Tile",
@@ -6689,7 +6689,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 196252,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/69540.jpg"
+    "img": "images/69540.jpg"
    },
    {
     "t": "Covered Jar, polychrome floral decoration, hand...",
@@ -6698,7 +6698,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 460392,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1740-1741.jpg"
+    "img": "images/SLP1740-1741.jpg"
    },
    {
     "t": "Two Studies for Blind Tobit",
@@ -6707,7 +6707,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 459321,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-13665-062.jpg"
+    "img": "images/DP-13665-062.jpg"
    },
    {
     "t": "Pair of plates",
@@ -6716,7 +6716,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207674,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/247096.jpg"
+    "img": "images/247096.jpg"
    },
    {
     "t": "The Last Supper",
@@ -6725,7 +6725,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227028,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF_44_63_4.jpg"
+    "img": "images/SF_44_63_4.jpg"
    }
   ]
  },
@@ -6753,7 +6753,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 681349,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/i20042127-cf.jpg"
+    "img": "images/i20042127-cf.jpg"
    },
    {
     "t": "Emperor Vespasian Cured by Veronica's Veil",
@@ -6762,7 +6762,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 459227,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-14326-001.jpg"
+    "img": "images/DP-14326-001.jpg"
    },
    {
     "t": "Tapestry with the Annunciation",
@@ -6771,7 +6771,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 468106,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DT152.jpg"
+    "img": "images/DT152.jpg"
    },
    {
     "t": "Annunciation Triptych (Merode Altarpiece)",
@@ -6780,7 +6780,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 470304,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP273206.jpg"
+    "img": "images/DP273206.jpg"
    },
    {
     "t": "Crib of the Infant Jesus",
@@ -6829,7 +6829,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 459202,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/DP122652.jpg"
+    "img": "images/DP122652.jpg"
    },
    {
     "t": "Plaque with the Pentecost",
@@ -6838,7 +6838,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 470307,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP102879.jpg"
+    "img": "images/DP102879.jpg"
    },
    {
     "t": "Courtiers in a Rose Garden: A Lady and Two Gent...",
@@ -6847,7 +6847,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 463188,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DT153.jpg"
+    "img": "images/DT153.jpg"
    },
    {
     "t": "Julius Caesar (from the Heroes Tapestries)",
@@ -6856,7 +6856,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 468233,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/lc-32-130-Arthur_2025.jpg"
+    "img": "images/lc-32-130-Arthur_2025.jpg"
    },
    {
     "t": "Insertion",
@@ -6865,7 +6865,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212851,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP16017.jpg"
+    "img": "images/DP16017.jpg"
    },
    {
     "t": "Fragment",
@@ -6874,7 +6874,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 218910,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP4044.jpg"
+    "img": "images/DP4044.jpg"
    },
    {
     "t": "Edging",
@@ -6883,7 +6883,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 222818,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP16293.jpg"
+    "img": "images/DP16293.jpg"
    },
    {
     "t": "Harpsichord",
@@ -6892,7 +6892,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503614,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DT684a.jpg"
+    "img": "images/DT684a.jpg"
    },
    {
     "t": "Book of Hours",
@@ -6901,7 +6901,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 684184,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP-634-007.jpg"
+    "img": "images/DP-634-007.jpg"
    },
    {
     "t": "Satyr",
@@ -6910,7 +6910,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 195114,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/56748.jpg"
+    "img": "images/56748.jpg"
    },
    {
     "t": "8 of Tethers, from The Cloisters Playing Cards",
@@ -6919,7 +6919,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 475544,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP354513.jpg"
+    "img": "images/DP354513.jpg"
    },
    {
     "t": "Flounce",
@@ -6928,7 +6928,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213008,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP16506.jpg"
+    "img": "images/DP16506.jpg"
    },
    {
     "t": "Christ Appearing to Saint Mary Magdalene (one o...",
@@ -6937,7 +6937,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 199494,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES1341.jpg"
+    "img": "images/ES1341.jpg"
    },
    {
     "t": "Strip",
@@ -6946,7 +6946,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213030,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP15990.jpg"
+    "img": "images/DP15990.jpg"
    },
    {
     "t": "Holy Woman",
@@ -6955,7 +6955,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 467701,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP353811.jpg"
+    "img": "images/DP353811.jpg"
    },
    {
     "t": "Lappet",
@@ -6964,7 +6964,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 226440,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/GT370a.jpg"
+    "img": "images/GT370a.jpg"
    },
    {
     "t": "The Routing of Focker and the German Troops fro...",
@@ -6973,7 +6973,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 196530,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/75784.jpg"
+    "img": "images/75784.jpg"
    },
    {
     "t": "Fragment",
@@ -6982,7 +6982,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212528,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP16030.jpg"
+    "img": "images/DP16030.jpg"
    },
    {
     "t": "Roundel with Coat of Arms",
@@ -6991,7 +6991,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 471077,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/cdi32-24-14.jpg"
+    "img": "images/cdi32-24-14.jpg"
    },
    {
     "t": "Fragment",
@@ -7000,7 +7000,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212850,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP16019.jpg"
+    "img": "images/DP16019.jpg"
    },
    {
     "t": "Trimming",
@@ -7018,7 +7018,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 214494,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP16753.jpg"
+    "img": "images/DP16753.jpg"
    },
    {
     "t": "Part of a valance",
@@ -7027,7 +7027,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 222575,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/88366.jpg"
+    "img": "images/88366.jpg"
    },
    {
     "t": "Man of Sorrows with Kneeling Donor",
@@ -7036,7 +7036,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 471966,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/sf1974-392s1.jpg"
+    "img": "images/sf1974-392s1.jpg"
    },
    {
     "t": "Knave of Nooses, from The Cloisters Playing Cards",
@@ -7045,7 +7045,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 475567,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP354544.jpg"
+    "img": "images/DP354544.jpg"
    },
    {
     "t": "Roundel with Annunciation to the Virgin",
@@ -7054,7 +7054,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 471962,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP241181.jpg"
+    "img": "images/DP241181.jpg"
    },
    {
     "t": "The Empress and Porphyrius Visit St. Catherine ...",
@@ -7063,7 +7063,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 468238,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP258010.jpg"
+    "img": "images/DP258010.jpg"
    },
    {
     "t": "Piece",
@@ -7072,7 +7072,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212514,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP16094.jpg"
+    "img": "images/DP16094.jpg"
    },
    {
     "t": "Strip",
@@ -7081,7 +7081,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 218254,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/GT24b.jpg"
+    "img": "images/GT24b.jpg"
    },
    {
     "t": "3 of Collars, from The Cloisters Playing Cards",
@@ -7090,7 +7090,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 475562,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP354539.jpg"
+    "img": "images/DP354539.jpg"
    },
    {
     "t": "Fragment",
@@ -7099,7 +7099,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 214479,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP5016.jpg"
+    "img": "images/DP5016.jpg"
    }
   ]
  },
@@ -7127,7 +7127,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 211383,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP106726.jpg"
+    "img": "images/DP106726.jpg"
    },
    {
     "t": "Souvenir de St. Pétersbourg",
@@ -7136,7 +7136,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 813852,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/b1505767_001.jpg"
+    "img": "images/b1505767_001.jpg"
    },
    {
     "t": "Plate",
@@ -7145,7 +7145,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 204533,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/es65.47.R.jpg"
+    "img": "images/es65.47.R.jpg"
    },
    {
     "t": "Pair of Flintlock Pistols of Empress Catherine ...",
@@ -7154,7 +7154,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24927,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-1986_265_1_2-009.jpg"
+    "img": "images/LC-1986_265_1_2-009.jpg"
    },
    {
     "t": "Dr. Lazarus Markijzus",
@@ -7163,7 +7163,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227728,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/173287.jpg"
+    "img": "images/173287.jpg"
    },
    {
     "t": "Towel border",
@@ -7172,7 +7172,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 173385,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.389_CP2.jpg"
+    "img": "images/31.389_CP2.jpg"
    },
    {
     "t": "Shaving cup with cover and handle; soap dish (p...",
@@ -7181,7 +7181,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 210019,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/189761.jpg"
+    "img": "images/189761.jpg"
    },
    {
     "t": "Cup",
@@ -7190,7 +7190,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 208138,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF1993_186.jpg"
+    "img": "images/SF1993_186.jpg"
    },
    {
     "t": "Towel border",
@@ -7199,7 +7199,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 158381,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.330_CP4.jpg"
+    "img": "images/31.330_CP4.jpg"
    },
    {
     "t": "Textile panel",
@@ -7208,7 +7208,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 173370,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.355_CP1.jpg"
+    "img": "images/31.355_CP1.jpg"
    },
    {
     "t": "Dress",
@@ -7217,7 +7217,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 159157,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/18.19_18.59_front_CP4.jpg"
+    "img": "images/18.19_18.59_front_CP4.jpg"
    },
    {
     "t": "Tankard",
@@ -7226,7 +7226,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 204975,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/193648.jpg"
+    "img": "images/193648.jpg"
    },
    {
     "t": "Textile",
@@ -7235,7 +7235,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 173427,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.519_CP2.jpg"
+    "img": "images/31.519_CP2.jpg"
    },
    {
     "t": "Chessman",
@@ -7244,7 +7244,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 201498,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/156961.jpg"
+    "img": "images/156961.jpg"
    },
    {
     "t": "Ohotniche Rogi sounding E",
@@ -7253,7 +7253,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502344,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-12679-034.jpg"
+    "img": "images/DP-12679-034.jpg"
    },
    {
     "t": "Ice Cream Seller",
@@ -7262,7 +7262,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207044,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES6535.jpg"
+    "img": "images/ES6535.jpg"
    },
    {
     "t": "Shawl",
@@ -7271,7 +7271,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 229118,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP268091.jpg"
+    "img": "images/DP268091.jpg"
    },
    {
     "t": "Fragment",
@@ -7280,7 +7280,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212864,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/GT337.jpg"
+    "img": "images/GT337.jpg"
    },
    {
     "t": "Devotional Icon",
@@ -7289,7 +7289,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 465941,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf18-88s1.jpg"
+    "img": "images/sf18-88s1.jpg"
    },
    {
     "t": "Basin (part of a set)",
@@ -7298,7 +7298,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 210015,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/189757.jpg"
+    "img": "images/189757.jpg"
    },
    {
     "t": "Crucifix",
@@ -7307,7 +7307,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 462997,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf07-169-44s1.jpg"
+    "img": "images/sf07-169-44s1.jpg"
    },
    {
     "t": "Textile fragment",
@@ -7316,7 +7316,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157563,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.432_CP4.jpg"
+    "img": "images/31.432_CP4.jpg"
    },
    {
     "t": "Towel border",
@@ -7325,7 +7325,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 173360,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.322_CP2.jpg"
+    "img": "images/31.322_CP2.jpg"
    },
    {
     "t": "Lice comb (part of a set)",
@@ -7334,7 +7334,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 210050,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/189798.jpg"
+    "img": "images/189798.jpg"
    },
    {
     "t": "Vestment",
@@ -7343,7 +7343,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157546,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.356_CP4.jpg"
+    "img": "images/31.356_CP4.jpg"
    },
    {
     "t": "Bed curtain border",
@@ -7352,7 +7352,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 173368,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.352_CP2.jpg"
+    "img": "images/31.352_CP2.jpg"
    },
    {
     "t": "Basin (part of a set)",
@@ -7361,7 +7361,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 210014,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/189755.jpg"
+    "img": "images/189755.jpg"
    },
    {
     "t": "Headdress",
@@ -7370,7 +7370,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 156135,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/31.476_front_CP4.jpg"
+    "img": "images/31.476_front_CP4.jpg"
    },
    {
     "t": "Teapot",
@@ -7379,7 +7379,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 198832,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/125756.jpg"
+    "img": "images/125756.jpg"
    },
    {
     "t": "Set of vestments",
@@ -7388,7 +7388,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 175012,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/80.157.5a_CP2.jpg"
+    "img": "images/80.157.5a_CP2.jpg"
    },
    {
     "t": "Jew's Harp",
@@ -7397,7 +7397,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501604,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS713A2.jpg"
+    "img": "images/MUS713A2.jpg"
    },
    {
     "t": "Bed curtain border",
@@ -7406,7 +7406,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 158404,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.562_CP4.jpg"
+    "img": "images/31.562_CP4.jpg"
    },
    {
     "t": "Hat",
@@ -7415,7 +7415,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157059,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/CP655_front_CP4.jpg"
+    "img": "images/CP655_front_CP4.jpg"
    },
    {
     "t": "Hat",
@@ -7424,7 +7424,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 156053,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/69.63.21_front_CP4.jpg"
+    "img": "images/69.63.21_front_CP4.jpg"
    },
    {
     "t": "Sugar bowl (part of a coffee and tea service)",
@@ -7433,7 +7433,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 205128,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/191801.jpg"
+    "img": "images/191801.jpg"
    },
    {
     "t": "Towel border",
@@ -7442,7 +7442,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 173386,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.390_CP2.jpg"
+    "img": "images/31.390_CP2.jpg"
    },
    {
     "t": "Textile",
@@ -7451,7 +7451,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 173423,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.514_CP2.jpg"
+    "img": "images/31.514_CP2.jpg"
    },
    {
     "t": "Countess Cantacuzene (one of a pair)",
@@ -7460,7 +7460,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 198191,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/122117.jpg"
+    "img": "images/122117.jpg"
    },
    {
     "t": "Coffeepot (part of a set)",
@@ -7469,7 +7469,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 199792,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DT5156.jpg"
+    "img": "images/DT5156.jpg"
    },
    {
     "t": "Smallsword",
@@ -7478,7 +7478,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27016,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-2004_76-009.jpg"
+    "img": "images/LC-2004_76-009.jpg"
    }
   ]
  },
@@ -7514,7 +7514,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311294,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-20711-001.jpg"
+    "img": "images/DP-20711-001.jpg"
    },
    {
     "t": "Headdress (Kapurei)",
@@ -7539,7 +7539,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313780,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-20719-003.jpg"
+    "img": "images/DP-20719-003.jpg"
    },
    {
     "t": "Funerary Figure (Kulap)",
@@ -7572,7 +7572,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311944,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP23084.jpg"
+    "img": "images/DP23084.jpg"
    },
    {
     "t": "Mask",
@@ -7621,7 +7621,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 311263,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-20792-001.jpg"
+    "img": "images/DP-20792-001.jpg"
    },
    {
     "t": "Lalis",
@@ -7630,7 +7630,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501855,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.1289.jpg"
+    "img": "images/midp89.4.1289.jpg"
    },
    {
     "t": "Club Head",
@@ -7639,7 +7639,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317804,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1996_373_3.jpg"
+    "img": "images/vs1996_373_3.jpg"
    },
    {
     "t": "Sacred Slit Gong (Waken)",
@@ -7648,7 +7648,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 311262,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-20791-001.jpg"
+    "img": "images/DP-20791-001.jpg"
    },
    {
     "t": "Fragment of a Zoomorphic Figure",
@@ -7657,7 +7657,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314779,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1984_123_2B.jpg"
+    "img": "images/hz1984_123_2B.jpg"
    },
    {
     "t": "Debating Stool (Kawa Rigit)",
@@ -7666,7 +7666,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311978,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP145505.jpg"
+    "img": "images/DP145505.jpg"
    },
    {
     "t": "Mask",
@@ -7675,7 +7675,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310350,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP108322.jpg"
+    "img": "images/DP108322.jpg"
    },
    {
     "t": "Pupa Galanga",
@@ -7684,7 +7684,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501384,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.782.jpg"
+    "img": "images/midp89.4.782.jpg"
    },
    {
     "t": "Ancestor Figure (Konumb or Atei)",
@@ -7693,7 +7693,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310071,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1978_412_728.jpg"
+    "img": "images/vs1978_412_728.jpg"
    },
    {
     "t": "Putu",
@@ -7702,7 +7702,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501414,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/226506.jpg"
+    "img": "images/226506.jpg"
    },
    {
     "t": "Male Figure (Aripa)",
@@ -7711,7 +7711,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311949,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP108146.jpg"
+    "img": "images/DP108146.jpg"
    },
    {
     "t": "Figure (Yipwon)",
@@ -7720,7 +7720,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311324,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-20714-003.jpg"
+    "img": "images/DP-20714-003.jpg"
    },
    {
     "t": "Kule Paganeg (Launut)",
@@ -7729,7 +7729,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501966,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.1400.jpg"
+    "img": "images/midp89.4.1400.jpg"
    },
    {
     "t": "Putu",
@@ -7738,7 +7738,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501415,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/226508.jpg"
+    "img": "images/226508.jpg"
    },
    {
     "t": "Bue Balabala",
@@ -7747,7 +7747,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501444,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.832.jpg"
+    "img": "images/midp89.4.832.jpg"
    },
    {
     "t": "Conch Shell Trumpet",
@@ -7756,7 +7756,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501400,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-15057-001.jpg"
+    "img": "images/DP-15057-001.jpg"
    },
    {
     "t": "Rooria?",
@@ -7765,7 +7765,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501360,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.744.jpg"
+    "img": "images/midp89.4.744.jpg"
    },
    {
     "t": "Comb",
@@ -7774,7 +7774,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 320764,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/2011.94.JPG"
+    "img": "images/2011.94.JPG"
    },
    {
     "t": "Galeon Soniruka",
@@ -7783,7 +7783,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501438,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.826.jpg"
+    "img": "images/midp89.4.826.jpg"
    },
    {
     "t": "Time Marker",
@@ -7792,7 +7792,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503646,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.767.jpg"
+    "img": "images/midp89.4.767.jpg"
    },
    {
     "t": "Time Marker",
@@ -7801,7 +7801,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501396,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.768.jpg"
+    "img": "images/midp89.4.768.jpg"
    },
    {
     "t": "Mask",
@@ -7810,7 +7810,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311167,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP140039.jpg"
+    "img": "images/DP140039.jpg"
    },
    {
     "t": "Pipe",
@@ -7819,7 +7819,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 307481,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/89.4.797_a.jpg"
+    "img": "images/89.4.797_a.jpg"
    },
    {
     "t": "Figure (Yipwon)",
@@ -7828,7 +7828,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311174,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23851-002.jpg"
+    "img": "images/DP-23851-002.jpg"
    },
    {
     "t": "Galeon Soniruka",
@@ -7846,7 +7846,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501447,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/226514.jpg"
+    "img": "images/226514.jpg"
    }
   ]
  },
@@ -7874,7 +7874,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 697348,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/U820_A9_S34_1603_F_001.jpg"
+    "img": "images/U820_A9_S34_1603_F_001.jpg"
    },
    {
     "t": "Adoration of the Magi from Seven Scenes from th...",
@@ -7883,7 +7883,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 472155,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DT8444.jpg"
+    "img": "images/DT8444.jpg"
    },
    {
     "t": "Grand Piano",
@@ -7892,7 +7892,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503677,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DT687a.jpg"
+    "img": "images/DT687a.jpg"
    },
    {
     "t": "A Hypocrite and a Slanderer",
@@ -7901,7 +7901,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 236688,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP225514.jpg"
+    "img": "images/DP225514.jpg"
    },
    {
     "t": "Adoration of the Magi from Seven Scenes from th...",
@@ -7910,7 +7910,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 469959,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DT8443.jpg"
+    "img": "images/DT8443.jpg"
    },
    {
     "t": "Celestial globe with clockwork",
@@ -7919,7 +7919,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 193606,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP231286.jpg"
+    "img": "images/DP231286.jpg"
    },
    {
     "t": "Die Wiener Werkstätte, 1903-1928 : modernes Kun...",
@@ -7936,7 +7936,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 466287,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP366924.jpg"
+    "img": "images/DP366924.jpg"
    },
    {
     "t": "Cup and saucer",
@@ -7945,7 +7945,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 461178,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1604b_a.jpg"
+    "img": "images/SLP1604b_a.jpg"
    },
    {
     "t": "Chair",
@@ -7954,7 +7954,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 236581,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-22126-008.jpg"
+    "img": "images/DP-22126-008.jpg"
    },
    {
     "t": "Square Piano",
@@ -7972,7 +7972,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 34130,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/253990.jpg"
+    "img": "images/253990.jpg"
    },
    {
     "t": "Bottle",
@@ -7981,7 +7981,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 203192,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES1976.jpg"
+    "img": "images/ES1976.jpg"
    },
    {
     "t": "Fork",
@@ -7990,7 +7990,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 236937,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF64_101_1646-1657_img1.jpg"
+    "img": "images/SF64_101_1646-1657_img1.jpg"
    },
    {
     "t": "Saucer",
@@ -7999,7 +7999,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 208456,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/260352.jpg"
+    "img": "images/260352.jpg"
    },
    {
     "t": "Beaker (Ranftbecher)",
@@ -8008,7 +8008,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 196019,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-42686-003.jpg"
+    "img": "images/DP-42686-003.jpg"
    },
    {
     "t": "Saint Sebastian",
@@ -8017,7 +8017,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 468575,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP-34090-003.jpg"
+    "img": "images/DP-34090-003.jpg"
    },
    {
     "t": "Side chair (one of a pair)",
@@ -8026,7 +8026,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 208558,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP106555.jpg"
+    "img": "images/DP106555.jpg"
    },
    {
     "t": "Cattle Bell",
@@ -8035,7 +8035,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502173,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS701A1.jpg"
+    "img": "images/MUS701A1.jpg"
    },
    {
     "t": "Table",
@@ -8044,7 +8044,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 230974,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF2003_448_1_img1.jpg"
+    "img": "images/SF2003_448_1_img1.jpg"
    },
    {
     "t": "Saint Nicholas",
@@ -8053,7 +8053,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 471939,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/cdi65-97-5.jpg"
+    "img": "images/cdi65-97-5.jpg"
    },
    {
     "t": "Sugar box with cover",
@@ -8062,7 +8062,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 205280,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/195020.jpg"
+    "img": "images/195020.jpg"
    },
    {
     "t": "Coffeepot",
@@ -8071,7 +8071,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 188719,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES150.jpg"
+    "img": "images/ES150.jpg"
    },
    {
     "t": "Coffeepot",
@@ -8080,7 +8080,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 206012,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/205181.jpg"
+    "img": "images/205181.jpg"
    },
    {
     "t": "Archer's Shield (Pavise)",
@@ -8089,7 +8089,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 32843,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/253988.jpg"
+    "img": "images/253988.jpg"
    },
    {
     "t": "Plaque",
@@ -8098,7 +8098,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 820044,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/LC-54_147_88.jpg"
+    "img": "images/LC-54_147_88.jpg"
    },
    {
     "t": "Bottle",
@@ -8107,7 +8107,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 195961,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/69446.jpg"
+    "img": "images/69446.jpg"
    },
    {
     "t": "Dish",
@@ -8116,7 +8116,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 200733,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES4168.jpg"
+    "img": "images/ES4168.jpg"
    },
    {
     "t": "Saint George",
@@ -8125,7 +8125,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 471937,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/cdi65-97-3.jpg"
+    "img": "images/cdi65-97-3.jpg"
    },
    {
     "t": "Sampler",
@@ -8134,7 +8134,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 228151,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/165027.jpg"
+    "img": "images/165027.jpg"
    },
    {
     "t": "Wheellock Rifle",
@@ -8143,7 +8143,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 774277,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP-15498-037.jpg"
+    "img": "images/DP-15498-037.jpg"
    },
    {
     "t": "Table Bell in the Form of a Chambermaid",
@@ -8152,7 +8152,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207125,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP167189.jpg"
+    "img": "images/DP167189.jpg"
    },
    {
     "t": "L' Indifférent",
@@ -8161,7 +8161,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 203205,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP167187.jpg"
+    "img": "images/DP167187.jpg"
    },
    {
     "t": "Standing Woman",
@@ -8170,7 +8170,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207128,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES4114.jpg"
+    "img": "images/ES4114.jpg"
    },
    {
     "t": "Dish",
@@ -8179,7 +8179,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 208466,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF1995_268_293.jpg"
+    "img": "images/SF1995_268_293.jpg"
    },
    {
     "t": "Tankard",
@@ -8188,7 +8188,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 203201,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/183982.jpg"
+    "img": "images/183982.jpg"
    },
    {
     "t": "Saint Jerome",
@@ -8197,7 +8197,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 471946,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/cdi65-124.jpg"
+    "img": "images/cdi65-124.jpg"
    },
    {
     "t": "Dalmatic (one of a pair)",
@@ -8206,7 +8206,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 229398,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/198732.jpg"
+    "img": "images/198732.jpg"
    },
    {
     "t": "Standing Virgin and Child",
@@ -8215,7 +8215,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 471910,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/cdi62-169.jpg"
+    "img": "images/cdi62-169.jpg"
    },
    {
     "t": "Presentation medal (Gnadenpfennig) of Maximilia...",
@@ -8224,7 +8224,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 198738,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-29353-001.jpg"
+    "img": "images/DP-29353-001.jpg"
    }
   ]
  },
@@ -8252,7 +8252,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 72307,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP253529.jpg"
+    "img": "images/DP253529.jpg"
    },
    {
     "t": "목조 보살 좌상\t조선|木造菩薩坐像 朝鮮|Seated bodhisattva (left ...",
@@ -8261,7 +8261,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 72485,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP358652.jpg"
+    "img": "images/DP358652.jpg"
    },
    {
     "t": "아미타불과　지장보살도　고려|阿彌陀佛・地藏菩薩圖\t高麗|Amitabha and Kshit...",
@@ -8270,7 +8270,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 39881,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-13944-002.jpg"
+    "img": "images/DP-13944-002.jpg"
    },
    {
     "t": "청자 상감 구름 학 무늬 매병 고려|靑磁象嵌雲鶴文梅甁  高麗|Maebyeong (pl...",
@@ -8279,7 +8279,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 42301,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP240189.jpg"
+    "img": "images/DP240189.jpg"
    },
    {
     "t": "지장보살도 고려|地藏菩薩圖 高麗|Kshitigarbha",
@@ -8288,7 +8288,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 39883,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-13942-002.jpg"
+    "img": "images/DP-13942-002.jpg"
    },
    {
     "t": "Hanging scroll",
@@ -8297,7 +8297,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 39889,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-37468-002.jpg"
+    "img": "images/DP-37468-002.jpg"
    },
    {
     "t": "해질녘 산사의 종소리 조선|煙寺暮鍾圖 朝鮮|Evening bell from mist-...",
@@ -8306,7 +8306,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 50897,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-36421-001.jpg"
+    "img": "images/DP-36421-001.jpg"
    },
    {
     "t": "백자 달항아리 조선|白磁壺 朝鮮|Moon jar",
@@ -8315,7 +8315,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 45432,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP231900.jpg"
+    "img": "images/DP231900.jpg"
    },
    {
     "t": "나전 대모 어피 용 무늬 옷상자\t조선|螺鈿玳瑁魚皮龍文衣箱子 朝鮮|Clothing bo...",
@@ -8324,7 +8324,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 40528,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP255478.jpg"
+    "img": "images/DP255478.jpg"
    },
    {
     "t": "같은 해에 태어난 관리들의 친목 모임 조선|同庚契會圖 朝鮮|Gathering of g...",
@@ -8333,7 +8333,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 74448,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP161547.jpg"
+    "img": "images/DP161547.jpg"
    },
    {
     "t": "장생 무늬 화각 상자\t조선|長生文華角箱子  朝鮮|Box decorated with a...",
@@ -8342,7 +8342,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 44987,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP255501.jpg"
+    "img": "images/DP255501.jpg"
    },
    {
     "t": "금동반가사유상 삼국|金銅半跏思惟像 三國|Pensive bodhisattva",
@@ -8351,7 +8351,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 65397,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT11140.jpg"
+    "img": "images/DT11140.jpg"
    },
    {
     "t": "윤동섬 초상 조선|尹東暹肖像 朝鮮|Portrait of Yun Dongseom (17...",
@@ -8360,7 +8360,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 656430,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP341229.jpg"
+    "img": "images/DP341229.jpg"
    },
    {
     "t": "분청사기 박지 모란 무늬 편병   조선|粉靑沙器剝地牡丹文扁甁   朝鮮|Flask-sh...",
@@ -8369,7 +8369,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 42308,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT8455.jpg"
+    "img": "images/DT8455.jpg"
    },
    {
     "t": "석가삼존도  조선|釋迦三尊圖  朝鮮|Shakyamuni triad",
@@ -8418,7 +8418,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 76114,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP271362.jpg"
+    "img": "images/DP271362.jpg"
    },
    {
     "t": "나전 칠 모란 넝쿨 무늬 서류함 조선|螺鈿漆牡丹唐草文書類函 朝鮮|Stationery ...",
@@ -8427,7 +8427,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 40524,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP704160.jpg"
+    "img": "images/DP704160.jpg"
    },
    {
     "t": "작자미상 범천왕을 중심으로 한 신중도   조선|作者未詳 神衆圖   朝鮮|Brahma ...",
@@ -8436,7 +8436,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 39887,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT5233.jpg"
+    "img": "images/DT5233.jpg"
    },
    {
     "t": "Ewer",
@@ -8445,7 +8445,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 50356,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP240202.jpg"
+    "img": "images/DP240202.jpg"
    },
    {
     "t": "탄은 이정\t 대나무   조선|灘隱 李霆\t墨竹圖\t朝鮮|Bamboo in the Wind",
@@ -8454,7 +8454,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 50486,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP355790.jpg"
+    "img": "images/DP355790.jpg"
    },
    {
     "t": "동제 사람 궁궐 무늬 꽃 모양 거울   고려|銅製人物殿閣文花形鏡   高麗|Mirror...",
@@ -8463,7 +8463,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 50444,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/h1_25.219.4.jpg"
+    "img": "images/h1_25.219.4.jpg"
    },
    {
     "t": "작자미상 수월관음도   고려|作者未詳 水月觀音圖   高麗|Water-Moon Aval...",
@@ -8472,7 +8472,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 50360,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-13940-002.jpg"
+    "img": "images/DP-13940-002.jpg"
    },
    {
     "t": "새 모양 토기 삼국|鳥形土器\t三國|Bird-shaped vessel",
@@ -8481,7 +8481,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 39496,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT4131.jpg"
+    "img": "images/DT4131.jpg"
    },
    {
     "t": "금동 용머리 모양 처마 끝 장식과 작은 종 고려|金銅龍頭吐首風鐸  高麗|Rafter ...",
@@ -8490,7 +8490,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 50325,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT4423.jpg"
+    "img": "images/DT4423.jpg"
    },
    {
     "t": "작자미상 포도   조선|作者未詳 墨葡萄圖   朝鮮|Grapevine in the Wind",
@@ -8499,7 +8499,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 36457,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT3769.jpg"
+    "img": "images/DT3769.jpg"
    },
    {
     "t": "나전 칠 모란 넝쿨 무늬 서류상자  조선|螺鈿漆牡丹唐草文書類箱子  朝鮮|Station...",
@@ -8508,7 +8508,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 40527,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP255492.jpg"
+    "img": "images/DP255492.jpg"
    },
    {
     "t": "모래밭에 내려앉는 기러기 조선|平沙落雁圖 朝鮮|Wild geese descending...",
@@ -8517,7 +8517,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 39888,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DT6930.jpg"
+    "img": "images/DT6930.jpg"
    },
    {
     "t": "법화경변상도 고려|Illustrated manuscript of the Lotus S...",
@@ -8526,7 +8526,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 36451,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP270185.jpg"
+    "img": "images/DP270185.jpg"
    },
    {
     "t": "수월관음도 고려|水月觀音圖 高麗|Water-moon Avalokiteshvara",
@@ -8535,7 +8535,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 36029,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP-15580-002.jpg"
+    "img": "images/DP-15580-002.jpg"
    },
    {
     "t": "Bowl",
@@ -8544,7 +8544,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 57397,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/15_29_25.JPG"
+    "img": "images/15_29_25.JPG"
    },
    {
     "t": "Rank badge",
@@ -8553,7 +8553,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 70987,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/LC_53_60_1-001.jpg"
+    "img": "images/LC_53_60_1-001.jpg"
    },
    {
     "t": "Bottle",
@@ -8562,7 +8562,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 42265,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/264225_19.39.1.jpg"
+    "img": "images/264225_19.39.1.jpg"
    },
    {
     "t": "손잡이 달린 잔   삼국|把手附盞   三國|Double-handled vessel",
@@ -8571,7 +8571,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 39520,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/DP253562.jpg"
+    "img": "images/DP253562.jpg"
    },
    {
     "t": "Mirror",
@@ -8580,7 +8580,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 57481,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/LC-17_175_28_001.jpg"
+    "img": "images/LC-17_175_28_001.jpg"
    },
    {
     "t": "Shard",
@@ -8589,7 +8589,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 77310,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/1978_531_65.jpg"
+    "img": "images/1978_531_65.jpg"
    },
    {
     "t": "Cup",
@@ -8598,7 +8598,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 57503,
-    "img": "https://images.metmuseum.org/CRDImages/as/web-large/50_145_304.JPG"
+    "img": "images/50_145_304.JPG"
    }
   ]
  },
@@ -8626,7 +8626,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316393,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1231.jpg"
+    "img": "images/DT1231.jpg"
    },
    {
     "t": "Male Figure: Court Official",
@@ -8635,7 +8635,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316503,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1232.jpg"
+    "img": "images/DT1232.jpg"
    },
    {
     "t": "Between Earth and Heaven",
@@ -8652,7 +8652,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316594,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1675.jpg"
+    "img": "images/DT1675.jpg"
    },
    {
     "t": "Headdress",
@@ -8669,7 +8669,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503936,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DT1530a.jpg"
+    "img": "images/DT1530a.jpg"
    },
    {
     "t": "Head of an Oba",
@@ -8678,7 +8678,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312290,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP231468.jpg"
+    "img": "images/DP231468.jpg"
    },
    {
     "t": "Veranda Post: Equestrian Figure and Female Cary...",
@@ -8695,7 +8695,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318622,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP231460.jpg"
+    "img": "images/DP231460.jpg"
    },
    {
     "t": "Side-blown Trumpet (Akohen)",
@@ -8704,7 +8704,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316573,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT6587.jpg"
+    "img": "images/DT6587.jpg"
    },
    {
     "t": "Altar Bell: Portuguese Face",
@@ -8713,7 +8713,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 316555,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-39221-001.jpg"
+    "img": "images/DP-39221-001.jpg"
    },
    {
     "t": "Horn",
@@ -8722,7 +8722,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501082,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/260637.jpg"
+    "img": "images/260637.jpg"
    },
    {
     "t": "Figure Fragment: Head",
@@ -8731,7 +8731,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314045,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.525.8.JPG"
+    "img": "images/1979.525.8.JPG"
    },
    {
     "t": "Stool: Oba with Mudfish Legs (Agba)",
@@ -8740,7 +8740,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316532,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP372519.jpg"
+    "img": "images/DP372519.jpg"
    },
    {
     "t": "Plaque Fragment: Warrior",
@@ -8749,7 +8749,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310934,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.473.JPG"
+    "img": "images/1978.412.473.JPG"
    },
    {
     "t": "Figure: Court Attendant with Ceremonial Sword",
@@ -8758,7 +8758,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316505,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1991_17_34.jpg"
+    "img": "images/vs1991_17_34.jpg"
    },
    {
     "t": "Medicine Vessel: Figure",
@@ -8767,7 +8767,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 316508,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1991.17.37_a.JPG"
+    "img": "images/1991.17.37_a.JPG"
    },
    {
     "t": "Bracelet: Portuguese Heads and Mudfish",
@@ -8776,7 +8776,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316549,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT6577.jpg"
+    "img": "images/DT6577.jpg"
    },
    {
     "t": "Figure: Seated Portuguese Male",
@@ -8785,7 +8785,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316502,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1991.17.31.JPG"
+    "img": "images/1991.17.31.JPG"
    },
    {
     "t": "Side-blown Trumpet (akohen)",
@@ -8794,7 +8794,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316578,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1991_17_109.jpg"
+    "img": "images/vs1991_17_109.jpg"
    },
    {
     "t": "Figurative Element from Ceremonial Drum [?]: Se...",
@@ -8803,7 +8803,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 320599,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/dp229195.jpg"
+    "img": "images/dp229195.jpg"
    },
    {
     "t": "Bracelet: Crocodile Heads",
@@ -8812,7 +8812,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316553,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1991.17.83.JPG"
+    "img": "images/1991.17.83.JPG"
    },
    {
     "t": "Shrine (Iphri)",
@@ -8821,7 +8821,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310065,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP232369.jpg"
+    "img": "images/DP232369.jpg"
    },
    {
     "t": "Figure: Male Head",
@@ -8830,7 +8830,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316482,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT6555.jpg"
+    "img": "images/DT6555.jpg"
    },
    {
     "t": "Bell",
@@ -8848,7 +8848,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316736,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1992_187.jpg"
+    "img": "images/vs1992_187.jpg"
    },
    {
     "t": "Medicine Vessel: Two Figures",
@@ -8857,7 +8857,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 316536,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1991.17.65_a.JPG"
+    "img": "images/1991.17.65_a.JPG"
    },
    {
     "t": "Altar Tusk",
@@ -8866,7 +8866,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316574,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT6588.jpg"
+    "img": "images/DT6588.jpg"
    },
    {
     "t": "Ceremonial Sword (Udamalore)",
@@ -8875,7 +8875,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316590,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT5136.jpg"
+    "img": "images/DT5136.jpg"
    },
    {
     "t": "Box: Oba Ozolua and Unidentified Oba",
@@ -8884,7 +8884,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316540,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1991_17_69.jpg"
+    "img": "images/vs1991_17_69.jpg"
    },
    {
     "t": "Plaque: Titleholder with Calabash Rattle",
@@ -8893,7 +8893,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316483,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT6556.jpg"
+    "img": "images/DT6556.jpg"
    },
    {
     "t": "Head of an Oba",
@@ -8902,7 +8902,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310766,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-14786-002.jpg"
+    "img": "images/DP-14786-002.jpg"
    },
    {
     "t": "Bracelet: Three Heads",
@@ -8911,7 +8911,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316552,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1991.17.82.JPG"
+    "img": "images/1991.17.82.JPG"
    },
    {
     "t": "Horn",
@@ -8920,7 +8920,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501081,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/260636.jpg"
+    "img": "images/260636.jpg"
    },
    {
     "t": "Plaque Fragment: Mudfish",
@@ -8929,7 +8929,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316499,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT6562.jpg"
+    "img": "images/DT6562.jpg"
    },
    {
     "t": "Vessel",
@@ -8938,7 +8938,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316597,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT6613.jpg"
+    "img": "images/DT6613.jpg"
    },
    {
     "t": "Bracelet: Crocodile Heads",
@@ -8947,7 +8947,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 318651,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-14786-034.jpg"
+    "img": "images/DP-14786-034.jpg"
    },
    {
     "t": "Hip Ornament: Face",
@@ -8956,7 +8956,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316515,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1991.17.44.JPG"
+    "img": "images/1991.17.44.JPG"
    },
    {
     "t": "Rattle Staff: Three Figures (Ukhurhe)",
@@ -8965,7 +8965,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316566,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT6584.jpg"
+    "img": "images/DT6584.jpg"
    },
    {
     "t": "Figure: Bird of Prophecy (Ahianmwen-oro)",
@@ -8974,7 +8974,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316531,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1991.17.60_b.JPG"
+    "img": "images/1991.17.60_b.JPG"
    }
   ]
  },
@@ -9002,7 +9002,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 191259,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-26640-005.jpg"
+    "img": "images/DP-26640-005.jpg"
    },
    {
     "t": "Kara Walker : a black hole is everything a star...",
@@ -9019,7 +9019,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 466178,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP-37264-001.jpg"
+    "img": "images/DP-37264-001.jpg"
    },
    {
     "t": "Niki de Saint Phalle tarot cards",
@@ -9044,7 +9044,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 187601,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-21040-113.jpg"
+    "img": "images/DP-21040-113.jpg"
    },
    {
     "t": "Plate",
@@ -9053,7 +9053,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 208492,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF1995_268_322.jpg"
+    "img": "images/SF1995_268_322.jpg"
    },
    {
     "t": "Shepherdess",
@@ -9062,7 +9062,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 199376,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/130781.jpg"
+    "img": "images/130781.jpg"
    },
    {
     "t": "Halberd",
@@ -9071,7 +9071,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27868,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/48.149.33_001jan2015.jpg"
+    "img": "images/48.149.33_001jan2015.jpg"
    },
    {
     "t": "Watch",
@@ -9080,7 +9080,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 194205,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP168629.jpg"
+    "img": "images/DP168629.jpg"
    },
    {
     "t": "Armorial panel",
@@ -9089,7 +9089,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 195339,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/61702.jpg"
+    "img": "images/61702.jpg"
    },
    {
     "t": "Bassoon in C",
@@ -9098,7 +9098,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501494,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP218100.jpg"
+    "img": "images/DP218100.jpg"
    },
    {
     "t": "Headdress",
@@ -9107,7 +9107,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 79098,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/06.990.jpg"
+    "img": "images/06.990.jpg"
    },
    {
     "t": "Snuffbox",
@@ -9116,7 +9116,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 205290,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/195415.jpg"
+    "img": "images/195415.jpg"
    },
    {
     "t": "Chair (one of a pair)",
@@ -9125,7 +9125,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 190811,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/4528.jpg"
+    "img": "images/4528.jpg"
    },
    {
     "t": "Panel",
@@ -9134,7 +9134,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 229088,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP17317.jpg"
+    "img": "images/DP17317.jpg"
    },
    {
     "t": "Christ Before Annas",
@@ -9143,7 +9143,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 202701,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES7047.jpg"
+    "img": "images/ES7047.jpg"
    },
    {
     "t": "Panel with arms of the collegiate church of Sai...",
@@ -9152,7 +9152,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 195340,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/61703.jpg"
+    "img": "images/61703.jpg"
    },
    {
     "t": "Watch",
@@ -9161,7 +9161,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 195667,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/66611.jpg"
+    "img": "images/66611.jpg"
    },
    {
     "t": "Sir Andrew Fountaine (1676–1753)",
@@ -9210,7 +9210,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27869,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/48.149.34_001jan2015.jpg"
+    "img": "images/48.149.34_001jan2015.jpg"
    },
    {
     "t": "Halberd",
@@ -9219,7 +9219,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 25854,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.35_002dec2014.jpg"
+    "img": "images/14.25.35_002dec2014.jpg"
    },
    {
     "t": "Watch",
@@ -9228,7 +9228,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 195600,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/LC-26_267_30-001.jpg"
+    "img": "images/LC-26_267_30-001.jpg"
    },
    {
     "t": "Panel",
@@ -9237,7 +9237,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 463107,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf08-181-54s1.jpg"
+    "img": "images/sf08-181-54s1.jpg"
    },
    {
     "t": "Carving fork",
@@ -9246,7 +9246,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 187610,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-21040-125.jpg"
+    "img": "images/DP-21040-125.jpg"
    },
    {
     "t": "Needlepoint valance (one of three)",
@@ -9255,7 +9255,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 229086,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/202865.jpg"
+    "img": "images/202865.jpg"
    },
    {
     "t": "Miniature chess set and table",
@@ -9264,7 +9264,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 199897,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/LC-48_174_10-001.jpg"
+    "img": "images/LC-48_174_10-001.jpg"
    },
    {
     "t": "The Flagellation, Christ at the Column",
@@ -9273,7 +9273,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 201592,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-29811-001.jpg"
+    "img": "images/DP-29811-001.jpg"
    },
    {
     "t": "Tablecloth and napkin",
@@ -9282,7 +9282,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227472,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/144922.jpg"
+    "img": "images/144922.jpg"
    },
    {
     "t": "John Carteret, 2nd Earl of Granville (1690–1763)",
@@ -9291,7 +9291,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 230963,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-1424-043.jpg"
+    "img": "images/DP-1424-043.jpg"
    },
    {
     "t": "Kerchief",
@@ -9300,7 +9300,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 229451,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP2802.jpg"
+    "img": "images/DP2802.jpg"
    },
    {
     "t": "Watch with portrait of Friedrick Wilhelm, the G...",
@@ -9309,7 +9309,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 194115,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP168604.jpg"
+    "img": "images/DP168604.jpg"
    },
    {
     "t": "Musical snuffbox",
@@ -9318,7 +9318,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 206157,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF1974_356_653.jpg"
+    "img": "images/SF1974_356_653.jpg"
    },
    {
     "t": "Watch and key",
@@ -9327,7 +9327,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 194012,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/40229.jpg"
+    "img": "images/40229.jpg"
    },
    {
     "t": "Watch",
@@ -9336,7 +9336,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 195589,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/66540.jpg"
+    "img": "images/66540.jpg"
    },
    {
     "t": "Watch, with a portrait of Alexander II, czar of...",
@@ -9345,7 +9345,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 207364,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-12878-199.jpg"
+    "img": "images/DP-12878-199.jpg"
    }
   ]
  },
@@ -9373,7 +9373,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 452102,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP240367.jpg"
+    "img": "images/DP240367.jpg"
    },
    {
     "t": "Pyxis (Cylindrical Container)",
@@ -9382,7 +9382,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 453576,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/is1998.298a,b.R.jpg"
+    "img": "images/is1998.298a,b.R.jpg"
    },
    {
     "t": "Folio from a Qur'an Manuscript",
@@ -9391,7 +9391,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 448369,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT11509.jpg"
+    "img": "images/DT11509.jpg"
    },
    {
     "t": "Tile Panel",
@@ -9400,7 +9400,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 444999,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/07.190.17.jpg"
+    "img": "images/07.190.17.jpg"
    },
    {
     "t": "The Attarouthi Treasure - Chalice",
@@ -9409,7 +9409,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 466130,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf1986-3-10s1.jpg"
+    "img": "images/sf1986-3-10s1.jpg"
    },
    {
     "t": "Bowl",
@@ -9418,7 +9418,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450418,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP231246.jpg"
+    "img": "images/DP231246.jpg"
    },
    {
     "t": "Bowl with Pseudo-inscription",
@@ -9427,7 +9427,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 445240,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT2828.jpg"
+    "img": "images/DT2828.jpg"
    },
    {
     "t": "Glazed Tiles with Kufic Inscription",
@@ -9436,7 +9436,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 445992,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT11974.jpg"
+    "img": "images/DT11974.jpg"
    },
    {
     "t": "Cylinder seal",
@@ -9445,7 +9445,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 327186,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/ss1985_357_4.jpg"
+    "img": "images/ss1985_357_4.jpg"
    },
    {
     "t": "Tile Panel",
@@ -9454,7 +9454,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 457726,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP253144.jpg"
+    "img": "images/DP253144.jpg"
    },
    {
     "t": "Cylinder seal",
@@ -9463,7 +9463,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 328766,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/DP-39042-001.jpg"
+    "img": "images/DP-39042-001.jpg"
    },
    {
     "t": "Dish",
@@ -9472,7 +9472,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 452936,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-16473-001.jpg"
+    "img": "images/DP-16473-001.jpg"
    },
    {
     "t": "Ceramic Fragment",
@@ -9481,7 +9481,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446530,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf13-190-196-264b.jpg"
+    "img": "images/sf13-190-196-264b.jpg"
    },
    {
     "t": "Darabukka",
@@ -9490,7 +9490,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 500972,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.346.jpg"
+    "img": "images/midp89.4.346.jpg"
    },
    {
     "t": "Fragment of a Jar",
@@ -9499,7 +9499,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451675,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/173806.jpg"
+    "img": "images/173806.jpg"
    },
    {
     "t": "Vase",
@@ -9508,7 +9508,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 447120,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf20-102a.jpg"
+    "img": "images/sf20-102a.jpg"
    },
    {
     "t": "Fragment",
@@ -9517,7 +9517,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 445203,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf07-238-50b.jpg"
+    "img": "images/sf07-238-50b.jpg"
    },
    {
     "t": "Bowl",
@@ -9526,7 +9526,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450579,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/ISL504.jpg"
+    "img": "images/ISL504.jpg"
    },
    {
     "t": "Glass Fragment",
@@ -9535,7 +9535,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 469979,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/cdi1985-91-6.jpg"
+    "img": "images/cdi1985-91-6.jpg"
    },
    {
     "t": "Ceramic Fragment",
@@ -9544,7 +9544,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446355,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf13-190-63a.jpg"
+    "img": "images/sf13-190-63a.jpg"
    },
    {
     "t": "Bottom of Flask",
@@ -9553,7 +9553,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 26501,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/28.99.70.jpg"
+    "img": "images/28.99.70.jpg"
    },
    {
     "t": "Bracelet",
@@ -9562,7 +9562,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 452923,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/1979_7_1.jpg"
+    "img": "images/1979_7_1.jpg"
    },
    {
     "t": "Fragment",
@@ -9571,7 +9571,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 445573,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf08-256-295a.jpg"
+    "img": "images/sf08-256-295a.jpg"
    },
    {
     "t": "Ax",
@@ -9580,7 +9580,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24857,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP165771.jpg"
+    "img": "images/DP165771.jpg"
    },
    {
     "t": "Tibia",
@@ -9589,7 +9589,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503699,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP314168.jpg"
+    "img": "images/DP314168.jpg"
    },
    {
     "t": "Fragment of a Bowl",
@@ -9598,7 +9598,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 445175,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf07-238-13a.jpg"
+    "img": "images/sf07-238-13a.jpg"
    },
    {
     "t": "Flask",
@@ -9607,7 +9607,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446678,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-43871-001.jpg"
+    "img": "images/DP-43871-001.jpg"
    },
    {
     "t": "Jar",
@@ -9616,7 +9616,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 444477,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP122931.jpg"
+    "img": "images/DP122931.jpg"
    },
    {
     "t": "Fragment of a bottle",
@@ -9625,7 +9625,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 26497,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/28.99.66a.jpg"
+    "img": "images/28.99.66a.jpg"
    },
    {
     "t": "Textile",
@@ -9634,7 +9634,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 450741,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP230047.jpg"
+    "img": "images/DP230047.jpg"
    },
    {
     "t": "Hanging Lamp in the Form of a Sandaled Right Foot",
@@ -9643,7 +9643,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 468582,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP166727.jpg"
+    "img": "images/DP166727.jpg"
    },
    {
     "t": "Bottle",
@@ -9652,7 +9652,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446674,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf15-43-156a.jpg"
+    "img": "images/sf15-43-156a.jpg"
    },
    {
     "t": "Tile Panel",
@@ -9661,7 +9661,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 447623,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf23-12-2a-f.jpg"
+    "img": "images/sf23-12-2a-f.jpg"
    },
    {
     "t": "Mosque Lamp",
@@ -9670,7 +9670,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446651,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf14-40-809b.jpg"
+    "img": "images/sf14-40-809b.jpg"
    },
    {
     "t": "Bowl",
@@ -9679,7 +9679,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 454062,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf2001-438-1b.jpg"
+    "img": "images/sf2001-438-1b.jpg"
    },
    {
     "t": "The Attarouthi Treasure - Chalice",
@@ -9688,7 +9688,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 466140,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf1986-3-6s1.jpg"
+    "img": "images/sf1986-3-6s1.jpg"
    },
    {
     "t": "Fragment of a Bowl",
@@ -9697,7 +9697,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446494,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf13-190-224a.jpg"
+    "img": "images/sf13-190-224a.jpg"
    },
    {
     "t": "Armor for Man and Horse",
@@ -9706,7 +9706,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 35952,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP153624.jpg"
+    "img": "images/DP153624.jpg"
    },
    {
     "t": "Fragment of a Bowl",
@@ -9715,7 +9715,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 445521,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf08-256-233a.jpg"
+    "img": "images/sf08-256-233a.jpg"
    },
    {
     "t": "Hanging Lamp in the Form of a Sandaled Right Foot",
@@ -9724,7 +9724,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 468581,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf62-10-1s9.jpg"
+    "img": "images/sf62-10-1s9.jpg"
    }
   ]
  },
@@ -9760,7 +9760,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503519,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DT11716.jpg"
+    "img": "images/DT11716.jpg"
    },
    {
     "t": "Mangaaka Power Figure (Nkisi N’Kondi)",
@@ -9769,7 +9769,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 320053,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP351868.jpg"
+    "img": "images/DP351868.jpg"
    },
    {
     "t": "Community Power Figure: Male (Nkisi)",
@@ -9786,7 +9786,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314034,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1244.jpg"
+    "img": "images/DT1244.jpg"
    },
    {
     "t": "Male Power Figure (Nkisi)",
@@ -9803,7 +9803,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311022,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.561.JPG"
+    "img": "images/1978.412.561.JPG"
    },
    {
     "t": "Monkey Figure",
@@ -9812,7 +9812,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 307482,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/89.4.3322.JPG"
+    "img": "images/89.4.3322.JPG"
    },
    {
     "t": "Rattle",
@@ -9821,7 +9821,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501937,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/204416.jpg"
+    "img": "images/204416.jpg"
    },
    {
     "t": "Tusk with Figurative Relief",
@@ -9830,7 +9830,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 321237,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP326474.jpg"
+    "img": "images/DP326474.jpg"
    },
    {
     "t": "Trough Zither",
@@ -9839,7 +9839,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501130,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/258890.jpg"
+    "img": "images/258890.jpg"
    },
    {
     "t": "Christ",
@@ -9848,7 +9848,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318319,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30685-001.jpg"
+    "img": "images/DP-30685-001.jpg"
    },
    {
     "t": "Crucifix",
@@ -9857,7 +9857,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318323,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP326205.jpg"
+    "img": "images/DP326205.jpg"
    },
    {
     "t": "Woman's Overskirt",
@@ -9866,7 +9866,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 318397,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-14335-001.jpg"
+    "img": "images/DP-14335-001.jpg"
    },
    {
     "t": "Ngonge",
@@ -9875,7 +9875,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 505420,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/259733.jpg"
+    "img": "images/259733.jpg"
    },
    {
     "t": "Helmet mask",
@@ -9884,7 +9884,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 812107,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25421-001.jpg"
+    "img": "images/DP-25421-001.jpg"
    },
    {
     "t": "Standing Male and Female Figures",
@@ -9893,7 +9893,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 698338,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT5138.jpg"
+    "img": "images/DT5138.jpg"
    },
    {
     "t": "Kunda (Double Bell)",
@@ -9902,7 +9902,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501935,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/206104.jpg"
+    "img": "images/206104.jpg"
    },
    {
     "t": "Receptacle with Figurative Relief and Stopper",
@@ -9911,7 +9911,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316796,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP208760.jpg"
+    "img": "images/DP208760.jpg"
    },
    {
     "t": "Megaphone",
@@ -9929,7 +9929,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 505581,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP143844.jpg"
+    "img": "images/DP143844.jpg"
    },
    {
     "t": "Christ",
@@ -9938,7 +9938,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318328,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30693-001.jpg"
+    "img": "images/DP-30693-001.jpg"
    },
    {
     "t": "Variable Tension Drum",
@@ -10005,7 +10005,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318326,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30691-001.jpg"
+    "img": "images/DP-30691-001.jpg"
    },
    {
     "t": "Ngonge",
@@ -10014,7 +10014,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502229,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS1443A1.jpg"
+    "img": "images/MUS1443A1.jpg"
    },
    {
     "t": "Triple Crucifix",
@@ -10023,7 +10023,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318331,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP285706.jpg"
+    "img": "images/DP285706.jpg"
    },
    {
     "t": "Cross with Saint Anthony of Padua",
@@ -10032,7 +10032,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318330,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP285705.jpg"
+    "img": "images/DP285705.jpg"
    },
    {
     "t": "Drum",
@@ -10050,7 +10050,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310853,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT31928.jpg"
+    "img": "images/DT31928.jpg"
    },
    {
     "t": "Crucifix",
@@ -10059,7 +10059,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318324,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30689-001.jpg"
+    "img": "images/DP-30689-001.jpg"
    },
    {
     "t": "Drum",
@@ -10068,7 +10068,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501127,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/204944.jpg"
+    "img": "images/204944.jpg"
    },
    {
     "t": "Figure: Seated Male",
@@ -10077,7 +10077,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317721,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/259646.jpg"
+    "img": "images/259646.jpg"
    },
    {
     "t": "Prestige Staff: Saint Anthony of Padua",
@@ -10086,7 +10086,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318318,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30684-001.jpg"
+    "img": "images/DP-30684-001.jpg"
    },
    {
     "t": "Rattle",
@@ -10095,7 +10095,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502079,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/257068.jpg"
+    "img": "images/257068.jpg"
    }
   ]
  },
@@ -10123,7 +10123,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 202578,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP124089.jpg"
+    "img": "images/DP124089.jpg"
    },
    {
     "t": "Pin",
@@ -10132,7 +10132,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 468281,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf49-125-10s1.jpg"
+    "img": "images/sf49-125-10s1.jpg"
    },
    {
     "t": "Dalriada Brooch",
@@ -10141,7 +10141,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 463125,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tem082315s1.jpg"
+    "img": "images/tem082315s1.jpg"
    },
    {
     "t": "Pair of Flintlock Pistols",
@@ -10150,7 +10150,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27377,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP339528.jpg"
+    "img": "images/DP339528.jpg"
    },
    {
     "t": "Socketed Ax-Head (Celt)",
@@ -10159,7 +10159,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27878,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-48_157_5-002.jpg"
+    "img": "images/LC-48_157_5-002.jpg"
    },
    {
     "t": "Collar",
@@ -10168,7 +10168,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 170397,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/42.221.43_CP1.jpg"
+    "img": "images/42.221.43_CP1.jpg"
    },
    {
     "t": "Example of lace stitch",
@@ -10177,7 +10177,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213282,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP7479.jpg"
+    "img": "images/DP7479.jpg"
    },
    {
     "t": "Pair of candlesticks",
@@ -10186,7 +10186,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191794,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/11161.jpg"
+    "img": "images/11161.jpg"
    },
    {
     "t": "Decanter (one of a pair)",
@@ -10195,7 +10195,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 195156,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-1588-027.jpg"
+    "img": "images/DP-1588-027.jpg"
    },
    {
     "t": "Example of lace stitch",
@@ -10204,7 +10204,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213287,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP7485.jpg"
+    "img": "images/DP7485.jpg"
    },
    {
     "t": "Pair of candlesticks",
@@ -10213,7 +10213,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 198031,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/114081.jpg"
+    "img": "images/114081.jpg"
    },
    {
     "t": "Union Pipe",
@@ -10231,7 +10231,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 197718,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-12307-006.jpg"
+    "img": "images/DP-12307-006.jpg"
    },
    {
     "t": "Sugar bowl with cover",
@@ -10240,7 +10240,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 204880,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/193433.jpg"
+    "img": "images/193433.jpg"
    },
    {
     "t": "Pin",
@@ -10249,7 +10249,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 468285,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf49-125-14s1.jpg"
+    "img": "images/sf49-125-14s1.jpg"
    },
    {
     "t": "Tea caddy spoon",
@@ -10258,7 +10258,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192153,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-23240-009.jpg"
+    "img": "images/DP-23240-009.jpg"
    },
    {
     "t": "Fragment",
@@ -10267,7 +10267,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 218488,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP4680.jpg"
+    "img": "images/DP4680.jpg"
    },
    {
     "t": "Two-handled standing cup",
@@ -10276,7 +10276,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189215,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/118104.jpg"
+    "img": "images/118104.jpg"
    },
    {
     "t": "Collar",
@@ -10285,7 +10285,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 180664,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/BM.65.79.1_F.jpg"
+    "img": "images/BM.65.79.1_F.jpg"
    },
    {
     "t": "Shoe buckles",
@@ -10294,7 +10294,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 90144,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/33.120.20.jpg"
+    "img": "images/33.120.20.jpg"
    },
    {
     "t": "Example of lace stitch",
@@ -10303,7 +10303,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213285,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP7482.jpg"
+    "img": "images/DP7482.jpg"
    },
    {
     "t": "Covered Sweetmeat Jar",
@@ -10312,7 +10312,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 2532,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/193945.jpg"
+    "img": "images/193945.jpg"
    },
    {
     "t": "Fruit bowl",
@@ -10321,7 +10321,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 196651,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-1618-031.jpg"
+    "img": "images/DP-1618-031.jpg"
    },
    {
     "t": "Decanter",
@@ -10330,7 +10330,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 195562,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-1505-021.jpg"
+    "img": "images/DP-1505-021.jpg"
    },
    {
     "t": "Pinafore",
@@ -10339,7 +10339,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 104408,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/CI41.15.23.jpg"
+    "img": "images/CI41.15.23.jpg"
    },
    {
     "t": "Cross of Cong",
@@ -10356,7 +10356,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213289,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP7487.jpg"
+    "img": "images/DP7487.jpg"
    },
    {
     "t": "Accessory set",
@@ -10365,7 +10365,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 168336,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/25.825a-c_CP2.jpg"
+    "img": "images/25.825a-c_CP2.jpg"
    },
    {
     "t": "Shrine of O'Donnell, Cathach or Battler",
@@ -10374,7 +10374,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 463165,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tem082338s1.jpg"
+    "img": "images/tem082338s1.jpg"
    },
    {
     "t": "Ornament",
@@ -10383,7 +10383,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 468172,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf47-100-10s6.jpg"
+    "img": "images/sf47-100-10s6.jpg"
    },
    {
     "t": "Miniature tazza",
@@ -10392,7 +10392,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 202745,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-13159-069.jpg"
+    "img": "images/DP-13159-069.jpg"
    },
    {
     "t": "Borders (2)",
@@ -10401,7 +10401,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 214991,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP4233.jpg"
+    "img": "images/DP4233.jpg"
    },
    {
     "t": "Example of lace stitch",
@@ -10410,7 +10410,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213284,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP7481.jpg"
+    "img": "images/DP7481.jpg"
    },
    {
     "t": "Bell of Saint Patrick",
@@ -10419,7 +10419,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 463044,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tem07652.jpg"
+    "img": "images/tem07652.jpg"
    },
    {
     "t": "Tablespoon",
@@ -10428,7 +10428,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 188047,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/17729.jpg"
+    "img": "images/17729.jpg"
    },
    {
     "t": "Handkerchief",
@@ -10437,7 +10437,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213230,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP2911.jpg"
+    "img": "images/DP2911.jpg"
    },
    {
     "t": "Miniature creamer (part of a set)",
@@ -10446,7 +10446,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 202755,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-13159-064.jpg"
+    "img": "images/DP-13159-064.jpg"
    },
    {
     "t": "Miniature coffeepot (part of a set)",
@@ -10455,7 +10455,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 202753,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-13159-061.jpg"
+    "img": "images/DP-13159-061.jpg"
    },
    {
     "t": "Three dessert spoons",
@@ -10464,7 +10464,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 210331,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-23240-028.jpg"
+    "img": "images/DP-23240-028.jpg"
    },
    {
     "t": "Torc",
@@ -10473,7 +10473,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 468287,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf49-125-2s1.jpg"
+    "img": "images/sf49-125-2s1.jpg"
    }
   ]
  },
@@ -10501,7 +10501,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451203,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP231357.jpg"
+    "img": "images/DP231357.jpg"
    },
    {
     "t": "\"Preparing Medicine from Honey\", from a Dispers...",
@@ -10510,7 +10510,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451400,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP164665.jpg"
+    "img": "images/DP164665.jpg"
    },
    {
     "t": "Bowl Emulating Chinese Stoneware",
@@ -10519,7 +10519,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451715,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP170381.jpg"
+    "img": "images/DP170381.jpg"
    },
    {
     "t": "Fragment of a Dish",
@@ -10528,7 +10528,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451125,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf52-130-6a.jpg"
+    "img": "images/sf52-130-6a.jpg"
    },
    {
     "t": "Fragments of Splashed Ceramic",
@@ -10537,7 +10537,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 853302,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf23-75-36d.jpg"
+    "img": "images/sf23-75-36d.jpg"
    },
    {
     "t": "Bowl",
@@ -10546,7 +10546,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451115,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf23-75-25b.jpg"
+    "img": "images/sf23-75-25b.jpg"
    },
    {
     "t": "Large Storage Jar for Cool Water With Flower Mo...",
@@ -10555,7 +10555,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448695,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-23434-001.jpg"
+    "img": "images/DP-23434-001.jpg"
    },
    {
     "t": "Fragment",
@@ -10564,7 +10564,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448879,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-438b.jpg"
+    "img": "images/sf32-150-438b.jpg"
    },
    {
     "t": "Tiraz Textile Fragment",
@@ -10573,7 +10573,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 455295,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/wb-31.106.55a.JPG"
+    "img": "images/wb-31.106.55a.JPG"
    },
    {
     "t": "Fragment",
@@ -10582,7 +10582,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448856,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-391b.jpg"
+    "img": "images/sf32-150-391b.jpg"
    },
    {
     "t": "Padlock",
@@ -10591,7 +10591,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448731,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-220a.jpg"
+    "img": "images/sf32-150-220a.jpg"
    },
    {
     "t": "Bead",
@@ -10600,7 +10600,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 444818,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf93-17-112a.jpg"
+    "img": "images/sf93-17-112a.jpg"
    },
    {
     "t": "Fragment",
@@ -10609,7 +10609,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448852,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-387a.jpg"
+    "img": "images/sf32-150-387a.jpg"
    },
    {
     "t": "Fragments of Ceramics with Opacified Glaze",
@@ -10618,7 +10618,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 853310,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf23-75-35c.jpg"
+    "img": "images/sf23-75-35c.jpg"
    },
    {
     "t": "Fragment",
@@ -10643,7 +10643,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448826,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-857a.jpg"
+    "img": "images/sf32-150-857a.jpg"
    },
    {
     "t": "Fragment of a Cup",
@@ -10652,7 +10652,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 447648,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf23-75-16a.jpg"
+    "img": "images/sf23-75-16a.jpg"
    },
    {
     "t": "Panel",
@@ -10661,7 +10661,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448929,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf33-41-7a.jpg"
+    "img": "images/sf33-41-7a.jpg"
    },
    {
     "t": "Fragment",
@@ -10670,7 +10670,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448788,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-316a.jpg"
+    "img": "images/sf32-150-316a.jpg"
    },
    {
     "t": "Dish",
@@ -10679,7 +10679,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448729,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-215a.jpg"
+    "img": "images/sf32-150-215a.jpg"
    },
    {
     "t": "Fragment of a Ruby Luster Bowl Painted in Goldi...",
@@ -10688,7 +10688,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451857,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf66-95-4a.jpg"
+    "img": "images/sf66-95-4a.jpg"
    },
    {
     "t": "Fragment",
@@ -10697,7 +10697,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448811,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-340a.jpg"
+    "img": "images/sf32-150-340a.jpg"
    },
    {
     "t": "Fragments of Polychrome Luster Vessels",
@@ -10706,7 +10706,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451189,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf54-71-2a.jpg"
+    "img": "images/sf54-71-2a.jpg"
    },
    {
     "t": "Dirham",
@@ -10715,7 +10715,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 444958,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP231242.jpg"
+    "img": "images/DP231242.jpg"
    },
    {
     "t": "Fragments of Splashed Ceramic",
@@ -10724,7 +10724,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 853308,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf23-75-36j.jpg"
+    "img": "images/sf23-75-36j.jpg"
    },
    {
     "t": "Bowl",
@@ -10733,7 +10733,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451481,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf59-41-73a.jpg"
+    "img": "images/sf59-41-73a.jpg"
    },
    {
     "t": "Fragment",
@@ -10742,7 +10742,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448899,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-462b.jpg"
+    "img": "images/sf32-150-462b.jpg"
    },
    {
     "t": "Fragment",
@@ -10751,7 +10751,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448779,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-306a.jpg"
+    "img": "images/sf32-150-306a.jpg"
    },
    {
     "t": "Opening Folio of the 26th Volume of the  \"Anony...",
@@ -10800,7 +10800,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 444586,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-17256-002.jpg"
+    "img": "images/DP-17256-002.jpg"
    },
    {
     "t": "Fragment",
@@ -10809,7 +10809,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448901,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/wb-32.150.466.JPG"
+    "img": "images/wb-32.150.466.JPG"
    },
    {
     "t": "Fragment of a Bowl with White Glaze",
@@ -10818,7 +10818,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 453421,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-93a.jpg"
+    "img": "images/sf32-150-93a.jpg"
    },
    {
     "t": "Coin",
@@ -10827,7 +10827,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 453437,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/99.35.6550.JPG"
+    "img": "images/99.35.6550.JPG"
    },
    {
     "t": "Fragment",
@@ -10836,7 +10836,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448804,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-333a.jpg"
+    "img": "images/sf32-150-333a.jpg"
    },
    {
     "t": "Bottle",
@@ -10845,7 +10845,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 448721,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf32-150-150a.jpg"
+    "img": "images/sf32-150-150a.jpg"
    }
   ]
  },
@@ -10873,7 +10873,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 751499,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15301-045.jpg"
+    "img": "images/DP-15301-045.jpg"
    },
    {
     "t": "When raven became spider",
@@ -10890,7 +10890,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 751500,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15103-043.jpg"
+    "img": "images/DP-15103-043.jpg"
    },
    {
     "t": "Shoulder bag (missing strap)",
@@ -10899,7 +10899,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 751507,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-14991-038.jpg"
+    "img": "images/DP-14991-038.jpg"
    },
    {
     "t": "Headdress frontlet",
@@ -10908,7 +10908,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 717587,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15059-037.jpg"
+    "img": "images/DP-15059-037.jpg"
    },
    {
     "t": "Raven rattle",
@@ -10917,7 +10917,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501227,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP168365.jpg"
+    "img": "images/DP168365.jpg"
    },
    {
     "t": "Decorating paper : pattern & technique",
@@ -10934,7 +10934,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 751537,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15301-036.jpg"
+    "img": "images/DP-15301-036.jpg"
    },
    {
     "t": "Portrait figure",
@@ -10943,7 +10943,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 751536,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15303-014.jpg"
+    "img": "images/DP-15303-014.jpg"
    },
    {
     "t": "Belt pouch",
@@ -10952,7 +10952,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 751506,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-14991-001.jpg"
+    "img": "images/DP-14991-001.jpg"
    },
    {
     "t": "Skawennati : from SkyWorld to cyberspace",
@@ -10969,7 +10969,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 717589,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15302-023.jpg"
+    "img": "images/DP-15302-023.jpg"
    },
    {
     "t": "Man's coat",
@@ -10978,7 +10978,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 717554,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-15302-010.jpg"
+    "img": "images/DP-15302-010.jpg"
    },
    {
     "t": "Carpe fin : a Haida manga",
@@ -10995,7 +10995,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 319019,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT261982.jpg"
+    "img": "images/DT261982.jpg"
    },
    {
     "t": "Dollhouse Chair",
@@ -11004,7 +11004,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 319118,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT262196.jpg"
+    "img": "images/DT262196.jpg"
    },
    {
     "t": "Stopped Pipe",
@@ -11022,7 +11022,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501234,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.618.jpg"
+    "img": "images/midp89.4.618.jpg"
    },
    {
     "t": "Reed Pipe",
@@ -11031,7 +11031,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501295,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.679.jpg"
+    "img": "images/midp89.4.679.jpg"
    },
    {
     "t": "Face Rattle",
@@ -11040,7 +11040,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 310549,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1978_412_97.jpg"
+    "img": "images/vs1978_412_97.jpg"
    },
    {
     "t": "Panel Bag",
@@ -11049,7 +11049,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 319156,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT258578.jpg"
+    "img": "images/DT258578.jpg"
    },
    {
     "t": "Raven Rattle",
@@ -11058,7 +11058,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 312659,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP152111.jpg"
+    "img": "images/DP152111.jpg"
    },
    {
     "t": "Headdress Frontlet",
@@ -11067,7 +11067,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312812,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP258260.jpg"
+    "img": "images/DP258260.jpg"
    },
    {
     "t": "Bladderwhistle",
@@ -11076,7 +11076,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502001,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.1435.jpg"
+    "img": "images/midp89.4.1435.jpg"
    },
    {
     "t": "Untitled",
@@ -11094,7 +11094,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501967,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.1401.jpg"
+    "img": "images/midp89.4.1401.jpg"
    },
    {
     "t": "Raven Bowl",
@@ -11103,7 +11103,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310362,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.138_b.JPG"
+    "img": "images/1978.412.138_b.JPG"
    },
    {
     "t": "Glengarry-Style Cap",
@@ -11112,7 +11112,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 319024,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT258575.jpg"
+    "img": "images/DT258575.jpg"
    },
    {
     "t": "Ivory Female Figure",
@@ -11121,7 +11121,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 309707,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1970_45_74.jpg"
+    "img": "images/vs1970_45_74.jpg"
    },
    {
     "t": "Totem Pole Model",
@@ -11130,7 +11130,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 319081,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/TR.165.15.2011.JPG"
+    "img": "images/TR.165.15.2011.JPG"
    },
    {
     "t": "Pincushion",
@@ -11139,7 +11139,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 319020,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT258573.jpg"
+    "img": "images/DT258573.jpg"
    },
    {
     "t": "Tray",
@@ -11148,7 +11148,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 319129,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT262455.jpg"
+    "img": "images/DT262455.jpg"
    },
    {
     "t": "Cauyuk",
@@ -11157,7 +11157,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502801,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-26165-001.jpg"
+    "img": "images/DP-26165-001.jpg"
    },
    {
     "t": "Canoe Model with Accoutrements",
@@ -11166,7 +11166,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 319021,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT258526.jpg"
+    "img": "images/DT258526.jpg"
    },
    {
     "t": "Round Ornament",
@@ -11175,7 +11175,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 309699,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1970.45.66.jpg"
+    "img": "images/1970.45.66.jpg"
    },
    {
     "t": "Headdress Frontlet",
@@ -11184,7 +11184,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 319090,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT258523.jpg"
+    "img": "images/DT258523.jpg"
    },
    {
     "t": "Cap",
@@ -11193,7 +11193,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 319155,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DT262532.jpg"
+    "img": "images/DT262532.jpg"
    },
    {
     "t": "Legging Panels",
@@ -11202,7 +11202,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 319133,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/TR.165.70.2011.jpg"
+    "img": "images/TR.165.70.2011.jpg"
    },
    {
     "t": "Salt",
@@ -11211,7 +11211,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 7086,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP216579.jpg"
+    "img": "images/DP216579.jpg"
    },
    {
     "t": "Ivory Labret",
@@ -11220,7 +11220,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 309698,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1970.45.65.jpg"
+    "img": "images/1970.45.65.jpg"
    }
   ]
  },
@@ -11248,7 +11248,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 312231,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1216.jpg"
+    "img": "images/DT1216.jpg"
    },
    {
     "t": "Figure: Seated Couple",
@@ -11257,7 +11257,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310325,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1217.jpg"
+    "img": "images/DT1217.jpg"
    },
    {
     "t": "Gwandansu",
@@ -11266,7 +11266,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312336,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26226-001.jpg"
+    "img": "images/DP-26226-001.jpg"
    },
    {
     "t": "Male Figure with Raised Arms",
@@ -11275,7 +11275,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310765,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP302219.jpg"
+    "img": "images/DP302219.jpg"
    },
    {
     "t": "Seated Figure",
@@ -11284,7 +11284,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314362,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1213.jpg"
+    "img": "images/DT1213.jpg"
    },
    {
     "t": "Seated Male Figure with Lance",
@@ -11293,7 +11293,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314704,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1219.jpg"
+    "img": "images/DT1219.jpg"
    },
    {
     "t": "Bracelet",
@@ -11302,7 +11302,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 317914,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1998.480.11_a.JPG"
+    "img": "images/1998.480.11_a.JPG"
    },
    {
     "t": "Ornament",
@@ -11311,7 +11311,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 315898,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1987_454_4.jpg"
+    "img": "images/vs1987_454_4.jpg"
    },
    {
     "t": "Miniature Vessel",
@@ -11320,7 +11320,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 318016,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1999_47_94.jpg"
+    "img": "images/vs1999_47_94.jpg"
    },
    {
     "t": "Prestige Stool: Figures",
@@ -11329,7 +11329,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312313,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1979_206_110.jpg"
+    "img": "images/vs1979_206_110.jpg"
    },
    {
     "t": "Female Figure with Raised Arm",
@@ -11338,7 +11338,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312268,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-16555-006.jpg"
+    "img": "images/DP-16555-006.jpg"
    },
    {
     "t": "Figure: Equestrian",
@@ -11347,7 +11347,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318011,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1999_47_89a.jpg"
+    "img": "images/vs1999_47_89a.jpg"
    },
    {
     "t": "Vessel: Footed Base",
@@ -11356,7 +11356,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 310384,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-28484-001.jpg"
+    "img": "images/DP-28484-001.jpg"
    },
    {
     "t": "Ornament",
@@ -11365,7 +11365,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 320335,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.187_a.jpg"
+    "img": "images/1979.206.187_a.jpg"
    },
    {
     "t": "Figure",
@@ -11374,7 +11374,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314916,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1985_422_3.jpg"
+    "img": "images/vs1985_422_3.jpg"
    },
    {
     "t": "Cache-Sexe",
@@ -11383,7 +11383,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 317902,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP100730.jpg"
+    "img": "images/DP100730.jpg"
    },
    {
     "t": "Bracelet",
@@ -11392,7 +11392,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 317912,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1998.480.9.JPG"
+    "img": "images/1998.480.9.JPG"
    },
    {
     "t": "Stool: Zoomorphic",
@@ -11401,7 +11401,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310295,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1977_220_9.jpg"
+    "img": "images/vs1977_220_9.jpg"
    },
    {
     "t": "Figure: Female",
@@ -11410,7 +11410,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312354,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1979_206_139.jpg"
+    "img": "images/vs1979_206_139.jpg"
    },
    {
     "t": "Figure: Male",
@@ -11419,7 +11419,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314915,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-28793-001.jpg"
+    "img": "images/DP-28793-001.jpg"
    },
    {
     "t": "Figure",
@@ -11428,7 +11428,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315904,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1987_454_10.jpg"
+    "img": "images/vs1987_454_10.jpg"
    },
    {
     "t": "Figure: Equestrian",
@@ -11437,7 +11437,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312289,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-16555-010.jpg"
+    "img": "images/DP-16555-010.jpg"
    },
    {
     "t": "Heddle Pulley: Female Figure",
@@ -11446,7 +11446,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310816,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30094-001.jpg"
+    "img": "images/DP-30094-001.jpg"
    },
    {
     "t": "Door and Lock: Figures",
@@ -11455,7 +11455,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310761,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.318_a.JPG"
+    "img": "images/1978.412.318_a.JPG"
    },
    {
     "t": "Vessel",
@@ -11464,7 +11464,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 317991,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-36765-001.jpg"
+    "img": "images/DP-36765-001.jpg"
    },
    {
     "t": "Bracelet",
@@ -11473,7 +11473,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 317913,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1998.480.10.JPG"
+    "img": "images/1998.480.10.JPG"
    },
    {
     "t": "Figure: Female",
@@ -11482,7 +11482,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312283,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.79.JPG"
+    "img": "images/1979.206.79.JPG"
    },
    {
     "t": "Bracelet",
@@ -11491,7 +11491,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 320336,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.188.jpg"
+    "img": "images/1979.206.188.jpg"
    },
    {
     "t": "Bracelet",
@@ -11500,7 +11500,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 315895,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1987.454.1_a.JPG"
+    "img": "images/1987.454.1_a.JPG"
    },
    {
     "t": "Crouching Figure",
@@ -11509,7 +11509,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314280,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.556.2_a.JPG"
+    "img": "images/1980.556.2_a.JPG"
    },
    {
     "t": "Headrest or Headboard",
@@ -11518,7 +11518,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310389,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30674-001.jpg"
+    "img": "images/DP-30674-001.jpg"
    },
    {
     "t": "Bracelet",
@@ -11527,7 +11527,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 318380,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP102147.jpg"
+    "img": "images/DP102147.jpg"
    },
    {
     "t": "Ornament",
@@ -11536,7 +11536,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 315897,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1987_454_3.jpg"
+    "img": "images/vs1987_454_3.jpg"
    },
    {
     "t": "Chain with Pendant",
@@ -11545,7 +11545,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 320337,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.189.jpg"
+    "img": "images/1979.206.189.jpg"
    },
    {
     "t": "Figure: Kneeling Female",
@@ -11594,7 +11594,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 318730,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1977.394.59b.JPG"
+    "img": "images/1977.394.59b.JPG"
    }
   ]
  },
@@ -11622,7 +11622,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316682,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1262.jpg"
+    "img": "images/DT1262.jpg"
    },
    {
     "t": "Crown of the Virgin of the Immaculate Conceptio...",
@@ -11631,7 +11631,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 21698,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP365520.jpg"
+    "img": "images/DP365520.jpg"
    },
    {
     "t": "Flute",
@@ -11640,7 +11640,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503239,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP159018.jpg"
+    "img": "images/DP159018.jpg"
    },
    {
     "t": "Nose Ornament",
@@ -11649,7 +11649,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309849,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1974_271_24.jpg"
+    "img": "images/vs1974_271_24.jpg"
    },
    {
     "t": "Male Figure (tunjo)",
@@ -11658,7 +11658,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318403,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26474-001.jpg"
+    "img": "images/DP-26474-001.jpg"
    },
    {
     "t": "Nose Ornament",
@@ -11667,7 +11667,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 310259,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26885-001.jpg"
+    "img": "images/DP-26885-001.jpg"
    },
    {
     "t": "Masked Figure Pendant",
@@ -11676,7 +11676,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316691,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP215717.jpg"
+    "img": "images/DP215717.jpg"
    },
    {
     "t": "Animal-Headed Figure Pendant",
@@ -11685,7 +11685,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309407,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26713-001.jpg"
+    "img": "images/DP-26713-001.jpg"
    },
    {
     "t": "Disk ornament",
@@ -11694,7 +11694,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 307522,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS91_37_14.jpg"
+    "img": "images/VS91_37_14.jpg"
    },
    {
     "t": "Flying-Fish Pendant",
@@ -11703,7 +11703,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316684,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26470-001.jpg"
+    "img": "images/DP-26470-001.jpg"
    },
    {
     "t": "Ear Ornament",
@@ -11712,7 +11712,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312742,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.533.jpg"
+    "img": "images/1979.206.533.jpg"
    },
    {
     "t": "Nose Ornament or Bracelet",
@@ -11721,7 +11721,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 318214,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VSX105_27.jpg"
+    "img": "images/VSX105_27.jpg"
    },
    {
     "t": "Nose ornament",
@@ -11730,7 +11730,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 307442,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS91_37_55.jpg"
+    "img": "images/VS91_37_55.jpg"
    },
    {
     "t": "Diadem",
@@ -11739,7 +11739,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 317797,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/LC-DT4049_1996_354_3.jpg"
+    "img": "images/LC-DT4049_1996_354_3.jpg"
    },
    {
     "t": "Ocarina",
@@ -11756,7 +11756,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 503255,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP159034.jpg"
+    "img": "images/DP159034.jpg"
    },
    {
     "t": "Funerary Mask",
@@ -11765,7 +11765,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316699,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT6758.jpg"
+    "img": "images/DT6758.jpg"
    },
    {
     "t": "Masked Figure Pendant",
@@ -11774,7 +11774,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312490,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26564-001.jpg"
+    "img": "images/DP-26564-001.jpg"
    },
    {
     "t": "Nose Ornament",
@@ -11783,7 +11783,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 313516,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26151-001.jpg"
+    "img": "images/DP-26151-001.jpg"
    },
    {
     "t": "Figure Vessel",
@@ -11792,7 +11792,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 318296,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23883-001.jpg"
+    "img": "images/DP-23883-001.jpg"
    },
    {
     "t": "Ocarina",
@@ -11801,7 +11801,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 503253,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP159032.jpg"
+    "img": "images/DP159032.jpg"
    },
    {
     "t": "Nose Ornament",
@@ -11810,7 +11810,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309989,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1974_271_70.jpg"
+    "img": "images/vs1974_271_70.jpg"
    },
    {
     "t": "Chirimia",
@@ -11819,7 +11819,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502032,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.1457.jpg"
+    "img": "images/midp89.4.1457.jpg"
    },
    {
     "t": "Gold Bell",
@@ -11828,7 +11828,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 310680,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.236.jpg"
+    "img": "images/1978.412.236.jpg"
    },
    {
     "t": "Winged Pendant",
@@ -11837,7 +11837,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317453,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17823-001.jpg"
+    "img": "images/DP-17823-001.jpg"
    },
    {
     "t": "Ornamented Tweezer",
@@ -11846,7 +11846,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316703,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26719-001.jpg"
+    "img": "images/DP-26719-001.jpg"
    },
    {
     "t": "Anthropomorphic Pendant",
@@ -11855,7 +11855,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312753,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26565-001.jpg"
+    "img": "images/DP-26565-001.jpg"
    },
    {
     "t": "Bell Pendant",
@@ -11873,7 +11873,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 503244,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP159023.jpg"
+    "img": "images/DP159023.jpg"
    },
    {
     "t": "Anthropomorphic figure pendant",
@@ -11882,7 +11882,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 307883,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/17.190.1715.jpg"
+    "img": "images/17.190.1715.jpg"
    },
    {
     "t": "Nose Ornament",
@@ -11891,7 +11891,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316693,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26153-001.jpg"
+    "img": "images/DP-26153-001.jpg"
    },
    {
     "t": "Ocarina",
@@ -11900,7 +11900,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 505632,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP148800.jpg"
+    "img": "images/DP148800.jpg"
    },
    {
     "t": "Necklace Ornaments",
@@ -11909,7 +11909,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312713,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-41716-001.jpg"
+    "img": "images/DP-41716-001.jpg"
    },
    {
     "t": "Pectoral with Face",
@@ -11918,7 +11918,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312716,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26716-001.jpg"
+    "img": "images/DP-26716-001.jpg"
    },
    {
     "t": "Costumed figure pendant",
@@ -11927,7 +11927,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312707,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-27417-001.jpg"
+    "img": "images/DP-27417-001.jpg"
    },
    {
     "t": "Winged Pendant",
@@ -11936,7 +11936,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317441,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1994_35_602.JPG"
+    "img": "images/VS1994_35_602.JPG"
    },
    {
     "t": "Tweezers",
@@ -11945,7 +11945,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 309942,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1974.271.6.jpg"
+    "img": "images/1974.271.6.jpg"
    },
    {
     "t": "Pair of Ear Pendants",
@@ -11954,7 +11954,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 320642,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26157-002.jpg"
+    "img": "images/DP-26157-002.jpg"
    },
    {
     "t": "Bowl with Stippled Patterns",
@@ -11963,7 +11963,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 318577,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/X.2.85.JPG"
+    "img": "images/X.2.85.JPG"
    },
    {
     "t": "Winged Pendant",
@@ -11972,7 +11972,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317446,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1994_35_607.JPG"
+    "img": "images/VS1994_35_607.JPG"
    }
   ]
  },
@@ -12339,7 +12339,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503200,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302721.jpg"
+    "img": "images/DP302721.jpg"
    },
    {
     "t": "Ear Ornament",
@@ -12348,7 +12348,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 317654,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1994_191_3.jpg"
+    "img": "images/vs1994_191_3.jpg"
    },
    {
     "t": "Frock coat",
@@ -12357,7 +12357,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 158133,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/63.25_front_CP4.jpg"
+    "img": "images/63.25_front_CP4.jpg"
    },
    {
     "t": "Shield",
@@ -12366,7 +12366,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31796,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.623_001_Sep2015.jpg"
+    "img": "images/36.25.623_001_Sep2015.jpg"
    },
    {
     "t": "Blade for a Kris",
@@ -12375,7 +12375,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31394,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1195_001Jun2015.jpg"
+    "img": "images/36.25.1195_001Jun2015.jpg"
    },
    {
     "t": "Handkerchief",
@@ -12384,7 +12384,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 155772,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/26.800_CP4.jpg"
+    "img": "images/26.800_CP4.jpg"
    },
    {
     "t": "Blouse (Camisa)",
@@ -12393,7 +12393,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 226235,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-37417-001.jpg"
+    "img": "images/DP-37417-001.jpg"
    },
    {
     "t": "Knife (Barong) with Sheath",
@@ -12402,7 +12402,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31680,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.898a_b_001_Apr2017.jpg"
+    "img": "images/36.25.898a_b_001_Apr2017.jpg"
    },
    {
     "t": "Knife (Barong) with Sheath",
@@ -12411,7 +12411,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31676,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.891ab_001Mar2015_2.jpg"
+    "img": "images/36.25.891ab_001Mar2015_2.jpg"
    },
    {
     "t": "Spear with Sheath",
@@ -12420,7 +12420,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 30774,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1977ab_001jan2015.jpg"
+    "img": "images/36.25.1977ab_001jan2015.jpg"
    },
    {
     "t": "Spear (Sinalawitan)",
@@ -12429,7 +12429,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 30662,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.2049_001jan2015.jpg"
+    "img": "images/36.25.2049_001jan2015.jpg"
    },
    {
     "t": "Kris with Sheath",
@@ -12438,7 +12438,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31265,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1244ab_001_Aug2015.jpg"
+    "img": "images/36.25.1244ab_001_Aug2015.jpg"
    },
    {
     "t": "Dagger with Sheath",
@@ -12447,7 +12447,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27832,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.871ab_004july2014.jpg"
+    "img": "images/36.25.871ab_004july2014.jpg"
    },
    {
     "t": "Spear (Falfeg)",
@@ -12456,7 +12456,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 30660,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.2047_002jan2015.jpg"
+    "img": "images/36.25.2047_002jan2015.jpg"
    },
    {
     "t": "Blouse (Camisa) and sleeves",
@@ -12465,7 +12465,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 221681,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-37416-001.jpg"
+    "img": "images/DP-37416-001.jpg"
    },
    {
     "t": "Spear (Fang-Kao)",
@@ -12474,7 +12474,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 30661,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.2048_001jan2015.jpg"
+    "img": "images/36.25.2048_001jan2015.jpg"
    },
    {
     "t": "Bodice sleeve",
@@ -12483,7 +12483,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 221472,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/53739.jpg"
+    "img": "images/53739.jpg"
    },
    {
     "t": "Dagger with Sheath",
@@ -12532,7 +12532,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31806,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-36_25_633-001.jpg"
+    "img": "images/LC-36_25_633-001.jpg"
    },
    {
     "t": "Garment Clasp",
@@ -12541,7 +12541,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 317657,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1994_191_8.jpg"
+    "img": "images/vs1994_191_8.jpg"
    },
    {
     "t": "Dagger with Sheath",
@@ -12550,7 +12550,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31560,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.969ab_002july2014.jpg"
+    "img": "images/36.25.969ab_002july2014.jpg"
    },
    {
     "t": "Knife with Sheath",
@@ -12559,7 +12559,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27829,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.850ab_006july2014.jpg"
+    "img": "images/36.25.850ab_006july2014.jpg"
    },
    {
     "t": "Handkerchief",
@@ -12568,7 +12568,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212297,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP17147.jpg"
+    "img": "images/DP17147.jpg"
    },
    {
     "t": "Bodice sleeve",
@@ -12577,7 +12577,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 221471,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/53738.jpg"
+    "img": "images/53738.jpg"
    },
    {
     "t": "Accessory set",
@@ -12586,7 +12586,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 156931,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/68.135.12a-c_CP4.jpg"
+    "img": "images/68.135.12a-c_CP4.jpg"
    },
    {
     "t": "Knife with Sheath",
@@ -12595,7 +12595,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31770,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.790ab_001_Apr2017.jpg"
+    "img": "images/36.25.790ab_001_Apr2017.jpg"
    },
    {
     "t": "Fichu",
@@ -12604,7 +12604,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 169428,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/61.103.108_CP2.jpg"
+    "img": "images/61.103.108_CP2.jpg"
    },
    {
     "t": "Piece",
@@ -12613,7 +12613,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 229555,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/211972.jpg"
+    "img": "images/211972.jpg"
    },
    {
     "t": "Ear Ornament",
@@ -12622,7 +12622,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 317653,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1994_191_3.jpg"
+    "img": "images/vs1994_191_3.jpg"
    },
    {
     "t": "Kris",
@@ -12631,7 +12631,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31267,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1246_001Jun2015.jpg"
+    "img": "images/36.25.1246_001Jun2015.jpg"
    },
    {
     "t": "Knife with Sheath",
@@ -12640,7 +12640,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31776,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.796ab_002june2014.jpg"
+    "img": "images/36.25.796ab_002june2014.jpg"
    },
    {
     "t": "Kris",
@@ -12649,7 +12649,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31268,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1247_001_Mar2017.jpg"
+    "img": "images/36.25.1247_001_Mar2017.jpg"
    },
    {
     "t": "Ring",
@@ -12658,7 +12658,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 317667,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1994_191_13.jpg"
+    "img": "images/vs1994_191_13.jpg"
    },
    {
     "t": "Blouse (Camisa)",
@@ -12667,7 +12667,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 221469,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/53736.jpg"
+    "img": "images/53736.jpg"
    },
    {
     "t": "Kris",
@@ -12676,7 +12676,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31266,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1245_001Jun2015.jpg"
+    "img": "images/36.25.1245_001Jun2015.jpg"
    },
    {
     "t": "Kerchief (Pañuelo)",
@@ -12685,7 +12685,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 226237,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/111927.jpg"
+    "img": "images/111927.jpg"
    }
   ]
  },
@@ -12721,7 +12721,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237005,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP347629.jpg"
+    "img": "images/DP347629.jpg"
    },
    {
     "t": "Beaker",
@@ -12730,7 +12730,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237018,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP339136.jpg"
+    "img": "images/DP339136.jpg"
    },
    {
     "t": "Piece (three joined pieces)",
@@ -12739,7 +12739,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227505,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/148443.jpg"
+    "img": "images/148443.jpg"
    },
    {
     "t": "Hexagonal dish",
@@ -12748,7 +12748,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237026,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP347624.jpg"
+    "img": "images/DP347624.jpg"
    },
    {
     "t": "Hexagonal dish",
@@ -12757,7 +12757,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237024,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP347626.jpg"
+    "img": "images/DP347626.jpg"
    },
    {
     "t": "Footed beaker",
@@ -12766,7 +12766,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237054,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP339135.jpg"
+    "img": "images/DP339135.jpg"
    },
    {
     "t": "Stirrup",
@@ -12775,7 +12775,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 29296,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-42_50_409-001.jpg"
+    "img": "images/LC-42_50_409-001.jpg"
    },
    {
     "t": "Piece",
@@ -12784,7 +12784,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227506,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/148444.jpg"
+    "img": "images/148444.jpg"
    },
    {
     "t": "Beaker",
@@ -12793,7 +12793,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 443157,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/wb-85.12.13.JPG"
+    "img": "images/wb-85.12.13.JPG"
    },
    {
     "t": "Hexagonal dish (part of a set)",
@@ -12802,7 +12802,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 236998,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP347634.jpg"
+    "img": "images/DP347634.jpg"
    },
    {
     "t": "Collar",
@@ -12811,7 +12811,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157523,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/20.714_CP4.jpg"
+    "img": "images/20.714_CP4.jpg"
    },
    {
     "t": "Beaker",
@@ -12820,7 +12820,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237036,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP339144.jpg"
+    "img": "images/DP339144.jpg"
    },
    {
     "t": "Hexagonal dish (part of a set)",
@@ -12829,7 +12829,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 236995,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP347631.jpg"
+    "img": "images/DP347631.jpg"
    },
    {
     "t": "Coin",
@@ -12838,7 +12838,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 190487,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF07_251_10_img1.jpg"
+    "img": "images/SF07_251_10_img1.jpg"
    },
    {
     "t": "Artichoke forming a box",
@@ -12847,7 +12847,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 205850,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/205034.jpg"
+    "img": "images/205034.jpg"
    },
    {
     "t": "Hexagonal dish (part of a set)",
@@ -12856,7 +12856,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 236999,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP347635.jpg"
+    "img": "images/DP347635.jpg"
    },
    {
     "t": "Hexagonal dish",
@@ -12865,7 +12865,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237028,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP347621.jpg"
+    "img": "images/DP347621.jpg"
    },
    {
     "t": "Mary of Austria (born 1505, Queen of Hungary an...",
@@ -12874,7 +12874,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 205706,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/203213.jpg"
+    "img": "images/203213.jpg"
    },
    {
     "t": "Table decoration in the form of a peacock",
@@ -12883,7 +12883,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237048,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP343082.jpg"
+    "img": "images/DP343082.jpg"
    },
    {
     "t": "End of a cover",
@@ -12892,7 +12892,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 215362,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP2946.jpg"
+    "img": "images/DP2946.jpg"
    },
    {
     "t": "Coffeepot",
@@ -12901,7 +12901,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237037,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP338168.jpg"
+    "img": "images/DP338168.jpg"
    },
    {
     "t": "Hexagonal dish (part of a set)",
@@ -12910,7 +12910,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 236997,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP347633.jpg"
+    "img": "images/DP347633.jpg"
    },
    {
     "t": "Brooch",
@@ -12919,7 +12919,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 463218,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tem092115.jpg"
+    "img": "images/tem092115.jpg"
    },
    {
     "t": "Dish (one of a pair)",
@@ -12928,7 +12928,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237012,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP347628.jpg"
+    "img": "images/DP347628.jpg"
    },
    {
     "t": "Stockings",
@@ -12937,7 +12937,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 158351,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/22.1729a-b_CP4.jpg"
+    "img": "images/22.1729a-b_CP4.jpg"
    },
    {
     "t": "Canister",
@@ -12946,7 +12946,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237001,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP339140.jpg"
+    "img": "images/DP339140.jpg"
    },
    {
     "t": "Beaker",
@@ -12955,7 +12955,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237010,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP343080.jpg"
+    "img": "images/DP343080.jpg"
    },
    {
     "t": "Two shoulder bands",
@@ -13004,7 +13004,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 32891,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-23_192_17-001.jpg"
+    "img": "images/LC-23_192_17-001.jpg"
    },
    {
     "t": "Belt",
@@ -13013,7 +13013,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 237058,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP345104.jpg"
+    "img": "images/DP345104.jpg"
    },
    {
     "t": "Band",
@@ -13022,7 +13022,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 221384,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/51524.jpg"
+    "img": "images/51524.jpg"
    },
    {
     "t": "Shirt",
@@ -13031,7 +13031,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98345,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/21.124.4.jpg"
+    "img": "images/21.124.4.jpg"
    },
    {
     "t": "Cup",
@@ -13040,7 +13040,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 468774,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tem851216.jpg"
+    "img": "images/tem851216.jpg"
    },
    {
     "t": "Brooch",
@@ -13049,7 +13049,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 463219,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tem092116.jpg"
+    "img": "images/tem092116.jpg"
    },
    {
     "t": "Ewer",
@@ -13058,7 +13058,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 443152,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/wb-85.12.5aa.JPG"
+    "img": "images/wb-85.12.5aa.JPG"
    }
   ]
  },
@@ -13086,7 +13086,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 450570,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/135427.jpg"
+    "img": "images/135427.jpg"
    },
    {
     "t": "Knife with Sheath",
@@ -13095,7 +13095,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31760,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.780ab_001Mar2015.jpg"
+    "img": "images/36.25.780ab_001Mar2015.jpg"
    },
    {
     "t": "Dagger (Jambiya) with Sheath",
@@ -13104,7 +13104,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31752,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.772ab_008june2014.jpg"
+    "img": "images/36.25.772ab_008june2014.jpg"
    },
    {
     "t": "Scarf End",
@@ -13113,7 +13113,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 444429,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-34032-001.jpg"
+    "img": "images/DP-34032-001.jpg"
    },
    {
     "t": "Pair of Stirrups",
@@ -13122,7 +13122,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 29321,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-42_50_462_463-003.jpg"
+    "img": "images/LC-42_50_462_463-003.jpg"
    },
    {
     "t": "Quwaytara",
@@ -13131,7 +13131,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501019,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS213A.jpg"
+    "img": "images/MUS213A.jpg"
    },
    {
     "t": "Fragment of Scarf",
@@ -13140,7 +13140,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 444420,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-34013-001.jpg"
+    "img": "images/DP-34013-001.jpg"
    },
    {
     "t": "Scarf",
@@ -13149,7 +13149,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 446660,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/24831.jpg"
+    "img": "images/24831.jpg"
    },
    {
     "t": "Hanging",
@@ -13158,7 +13158,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 451811,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/183645.jpg"
+    "img": "images/183645.jpg"
    },
    {
     "t": "Rebab",
@@ -13167,7 +13167,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500566,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS2010.jpg"
+    "img": "images/MUS2010.jpg"
    },
    {
     "t": "Textile Fragment",
@@ -13176,7 +13176,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447100,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/44964.jpg"
+    "img": "images/44964.jpg"
    },
    {
     "t": "Dagger (Jambiya) with Sheath",
@@ -13185,7 +13185,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31756,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.776ab_001Mar2015.jpg"
+    "img": "images/36.25.776ab_001Mar2015.jpg"
    },
    {
     "t": "Band",
@@ -13194,7 +13194,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447685,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/54261B.jpg"
+    "img": "images/54261B.jpg"
    },
    {
     "t": "Agwel",
@@ -13212,7 +13212,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 141590,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/2008.190.126_F.jpg"
+    "img": "images/2008.190.126_F.jpg"
    },
    {
     "t": "Dagger (Jambiya) with Sheath",
@@ -13221,7 +13221,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31753,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.773ab_005june2014.jpg"
+    "img": "images/36.25.773ab_005june2014.jpg"
    },
    {
     "t": "Fragment of Border",
@@ -13230,7 +13230,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445641,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/19735.jpg"
+    "img": "images/19735.jpg"
    },
    {
     "t": "Bead, One of a Pair",
@@ -13239,7 +13239,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 453041,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP299951.jpg"
+    "img": "images/DP299951.jpg"
    },
    {
     "t": "Dagger (Jambiya) and Sheath",
@@ -13248,7 +13248,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31758,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.778ab_004june2014.jpg"
+    "img": "images/36.25.778ab_004june2014.jpg"
    },
    {
     "t": "Burnus",
@@ -13257,7 +13257,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 85605,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI42.56.10_F.jpg"
+    "img": "images/CI42.56.10_F.jpg"
    },
    {
     "t": "Gunibri",
@@ -13266,7 +13266,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501890,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS218A.jpg"
+    "img": "images/MUS218A.jpg"
    },
    {
     "t": "Belt or Sash",
@@ -13275,7 +13275,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447786,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP18240.jpg"
+    "img": "images/DP18240.jpg"
    },
    {
     "t": "Mosaic with a Peacock and Flowers",
@@ -13284,7 +13284,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 466653,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP100667.jpg"
+    "img": "images/DP100667.jpg"
    },
    {
     "t": "Necklace",
@@ -13293,7 +13293,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 141593,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/2008.190.129_F.jpg"
+    "img": "images/2008.190.129_F.jpg"
    },
    {
     "t": "Bendir (frame drum)",
@@ -13302,7 +13302,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501886,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS634A.jpg"
+    "img": "images/MUS634A.jpg"
    },
    {
     "t": "T'arija",
@@ -13311,7 +13311,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500974,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.348.jpg"
+    "img": "images/midp89.4.348.jpg"
    },
    {
     "t": "Textile Fragment",
@@ -13320,7 +13320,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445710,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/6792.jpg"
+    "img": "images/6792.jpg"
    },
    {
     "t": "Tabl Šamī",
@@ -13329,7 +13329,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501944,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.1378.jpg"
+    "img": "images/midp89.4.1378.jpg"
    },
    {
     "t": "Panel",
@@ -13338,7 +13338,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 450568,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/135424.jpg"
+    "img": "images/135424.jpg"
    },
    {
     "t": "Necklace",
@@ -13347,7 +13347,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 141587,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/2008.190.123_F.jpg"
+    "img": "images/2008.190.123_F.jpg"
    },
    {
     "t": "Saddle, Bridle, Bit, and Trappings",
@@ -13356,7 +13356,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31910,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/sfsb36.25.580_001.jpg"
+    "img": "images/sfsb36.25.580_001.jpg"
    },
    {
     "t": "Cover",
@@ -13365,7 +13365,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447790,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/58567.jpg"
+    "img": "images/58567.jpg"
    },
    {
     "t": "Guenbri",
@@ -13374,7 +13374,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501889,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS209A.jpg"
+    "img": "images/MUS209A.jpg"
    },
    {
     "t": "Inkstand",
@@ -13383,7 +13383,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 447255,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf20-120-188b.jpg"
+    "img": "images/sf20-120-188b.jpg"
    },
    {
     "t": "Dagger (Jambiya) with Sheath",
@@ -13392,7 +13392,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31751,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.771ab_004june2014.jpg"
+    "img": "images/36.25.771ab_004june2014.jpg"
    },
    {
     "t": "Band",
@@ -13401,7 +13401,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445709,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/6791.jpg"
+    "img": "images/6791.jpg"
    },
    {
     "t": "Fragment of Sash",
@@ -13410,7 +13410,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 450706,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP18244.jpg"
+    "img": "images/DP18244.jpg"
    },
    {
     "t": "Screen",
@@ -13419,7 +13419,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 456945,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP215242.jpg"
+    "img": "images/DP215242.jpg"
    },
    {
     "t": "Earring, One of a Pair",
@@ -13428,7 +13428,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 453040,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/hb_1981.5.16,17[1].JPG"
+    "img": "images/hb_1981.5.16,17[1].JPG"
    },
    {
     "t": "Border of a Cushion Cover",
@@ -13437,7 +13437,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447681,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/54258.jpg"
+    "img": "images/54258.jpg"
    }
   ]
  },
@@ -13465,7 +13465,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311021,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25400-001.jpg"
+    "img": "images/DP-25400-001.jpg"
    },
    {
     "t": "Crest (Tsesah)",
@@ -13474,7 +13474,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 735917,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30720-001.jpg"
+    "img": "images/DP-30720-001.jpg"
    },
    {
     "t": "Drum Element: Head",
@@ -13507,7 +13507,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310248,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25418-001.jpg"
+    "img": "images/DP-25418-001.jpg"
    },
    {
     "t": "Prestige Stool",
@@ -13516,7 +13516,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 309821,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1972.4.31.JPG"
+    "img": "images/1972.4.31.JPG"
    },
    {
     "t": "Vessel",
@@ -13808,7 +13808,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316661,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT2593.jpg"
+    "img": "images/DT2593.jpg"
    },
    {
     "t": "Bird Pendant",
@@ -13817,7 +13817,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313330,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17791-001.jpg"
+    "img": "images/DP-17791-001.jpg"
    },
    {
     "t": "Stone Chisel",
@@ -13826,7 +13826,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317268,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_402.jpg"
+    "img": "images/hz1994_35_402.jpg"
    },
    {
     "t": "Figure-celt Pendant",
@@ -13835,7 +13835,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316646,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1991_362_3.jpg"
+    "img": "images/VS1991_362_3.jpg"
    },
    {
     "t": "Eagle Pendant",
@@ -13844,7 +13844,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 313245,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26890-001.jpg"
+    "img": "images/DP-26890-001.jpg"
    },
    {
     "t": "Bird Pendant",
@@ -13853,7 +13853,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309953,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1974_271_17.jpg"
+    "img": "images/vs1974_271_17.jpg"
    },
    {
     "t": "Figure Pendant",
@@ -13862,7 +13862,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312703,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.493.jpg"
+    "img": "images/1979.206.493.jpg"
    },
    {
     "t": "Stone Chisel",
@@ -13871,7 +13871,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317279,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_413.jpg"
+    "img": "images/hz1994_35_413.jpg"
    },
    {
     "t": "Figure-celt Pendant",
@@ -13880,7 +13880,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313013,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25112-001.jpg"
+    "img": "images/DP-25112-001.jpg"
    },
    {
     "t": "Figure Pendant",
@@ -13889,7 +13889,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313015,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1979_206_838.jpg"
+    "img": "images/vs1979_206_838.jpg"
    },
    {
     "t": "Stamp",
@@ -13898,7 +13898,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 313378,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.1188_b.JPG"
+    "img": "images/1979.206.1188_b.JPG"
    },
    {
     "t": "Pottery Whistle",
@@ -13907,7 +13907,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502777,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP158992.jpg"
+    "img": "images/DP158992.jpg"
    },
    {
     "t": "Pottery Whistle and Rattle",
@@ -13916,7 +13916,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 501261,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP157358.jpg"
+    "img": "images/DP157358.jpg"
    },
    {
     "t": "Rolelr Stamp",
@@ -13925,7 +13925,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 313060,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.1196.JPG"
+    "img": "images/1979.206.1196.JPG"
    },
    {
     "t": "Cast Gold Eagle Pendant",
@@ -13934,7 +13934,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309409,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/66.196.22.jpg"
+    "img": "images/66.196.22.jpg"
    },
    {
     "t": "Pottery Whistle",
@@ -13943,7 +13943,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502988,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP157397.jpg"
+    "img": "images/DP157397.jpg"
    },
    {
     "t": "Male Figure",
@@ -13952,7 +13952,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310516,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.60.jpg"
+    "img": "images/1978.412.60.jpg"
    },
    {
     "t": "Stamp",
@@ -13961,7 +13961,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 313370,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.1180_b.jpg"
+    "img": "images/1979.206.1180_b.jpg"
    },
    {
     "t": "Double-Eagle Ornament",
@@ -13970,7 +13970,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309969,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1974.271.45.jpg"
+    "img": "images/1974.271.45.jpg"
    },
    {
     "t": "Tripod Vessel",
@@ -13979,7 +13979,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 315712,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1987.394.731.JPG"
+    "img": "images/1987.394.731.JPG"
    },
    {
     "t": "Double Crocodile Pendant",
@@ -13988,7 +13988,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312921,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.734.jpg"
+    "img": "images/1979.206.734.jpg"
    },
    {
     "t": "Stone Celt",
@@ -13997,7 +13997,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317221,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_355.jpg"
+    "img": "images/hz1994_35_355.jpg"
    },
    {
     "t": "Winged Pendant",
@@ -14006,7 +14006,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317450,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-18571-001.jpg"
+    "img": "images/DP-18571-001.jpg"
    },
    {
     "t": "Eagle Ornament",
@@ -14015,7 +14015,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309968,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1974.271.44.jpg"
+    "img": "images/1974.271.44.jpg"
    },
    {
     "t": "Mace Head, Bird",
@@ -14024,7 +14024,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313338,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-24239-001.jpg"
+    "img": "images/DP-24239-001.jpg"
    },
    {
     "t": "Celt Shaped Pendent",
@@ -14033,7 +14033,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315713,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1987_394_732.JPG"
+    "img": "images/VS1987_394_732.JPG"
    },
    {
     "t": "Ocarina",
@@ -14042,7 +14042,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 312256,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.768_a.jpg"
+    "img": "images/1979.206.768_a.jpg"
    },
    {
     "t": "Crocodile-Head Figure Pendant",
@@ -14051,7 +14051,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 313257,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26296-001.jpg"
+    "img": "images/DP-26296-001.jpg"
    },
    {
     "t": "Stamp",
@@ -14060,7 +14060,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 313379,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.1189_b.JPG"
+    "img": "images/1979.206.1189_b.JPG"
    },
    {
     "t": "Pottery Whistle",
@@ -14069,7 +14069,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502775,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP157373.jpg"
+    "img": "images/DP157373.jpg"
    },
    {
     "t": "Pottery Whistle",
@@ -14078,7 +14078,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502855,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP157374.jpg"
+    "img": "images/DP157374.jpg"
    },
    {
     "t": "Sphere",
@@ -14087,7 +14087,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 321295,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-22001-001.jpg"
+    "img": "images/DP-22001-001.jpg"
    },
    {
     "t": "Sukia Figure",
@@ -14096,7 +14096,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312648,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.428_b.jpg"
+    "img": "images/1979.206.428_b.jpg"
    },
    {
     "t": "Bird-celt Pendant",
@@ -14105,7 +14105,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313017,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1979_206_840.jpg"
+    "img": "images/vs1979_206_840.jpg"
    },
    {
     "t": "Figure Pendant",
@@ -14114,7 +14114,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313019,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1979_206_842.jpg"
+    "img": "images/vs1979_206_842.jpg"
    },
    {
     "t": "Bird Pendant",
@@ -14123,7 +14123,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316783,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT7064.jpg"
+    "img": "images/DT7064.jpg"
    },
    {
     "t": "Pottery Whistle",
@@ -14132,7 +14132,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502957,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP160880.jpg"
+    "img": "images/DP160880.jpg"
    },
    {
     "t": "Pottery Whistle",
@@ -14141,7 +14141,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502986,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP157398.jpg"
+    "img": "images/DP157398.jpg"
    },
    {
     "t": "Stamp",
@@ -14150,7 +14150,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 313375,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.1185_b.jpg"
+    "img": "images/1979.206.1185_b.jpg"
    },
    {
     "t": "Stone Animal Pendant",
@@ -14159,7 +14159,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315808,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1987_394_733.JPG"
+    "img": "images/VS1987_394_733.JPG"
    }
   ]
  },
@@ -14187,7 +14187,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 466091,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP30284.jpg"
+    "img": "images/DP30284.jpg"
    },
    {
     "t": "Nyckelharpa",
@@ -14205,7 +14205,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192287,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES284.jpg"
+    "img": "images/ES284.jpg"
    },
    {
     "t": "Bonnet",
@@ -14214,7 +14214,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 156411,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/24.165_CP4.jpg"
+    "img": "images/24.165_CP4.jpg"
    },
    {
     "t": "Spoon with handle carved with putto playing a pipe",
@@ -14223,7 +14223,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 188169,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-21041-097.jpg"
+    "img": "images/DP-21041-097.jpg"
    },
    {
     "t": "Rattle spoon",
@@ -14232,7 +14232,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192286,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES283.jpg"
+    "img": "images/ES283.jpg"
    },
    {
     "t": "Nyckelharpa",
@@ -14249,7 +14249,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 197435,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES1065.jpg"
+    "img": "images/ES1065.jpg"
    },
    {
     "t": "Spoon",
@@ -14258,7 +14258,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 188224,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/17951.jpg"
+    "img": "images/17951.jpg"
    },
    {
     "t": "Cup or beaker",
@@ -14267,7 +14267,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192132,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES279.jpg"
+    "img": "images/ES279.jpg"
    },
    {
     "t": "Enthroned Virgin",
@@ -14276,7 +14276,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 464587,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP102091.JPG"
+    "img": "images/DP102091.JPG"
    },
    {
     "t": "Brooch with Boar’s-Head",
@@ -14285,7 +14285,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 466248,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP30286.jpg"
+    "img": "images/DP30286.jpg"
    },
    {
     "t": "Round Box Brooch",
@@ -14294,7 +14294,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 466090,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP30282.jpg"
+    "img": "images/DP30282.jpg"
    },
    {
     "t": "Fragment",
@@ -14303,7 +14303,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213334,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP3892.jpg"
+    "img": "images/DP3892.jpg"
    },
    {
     "t": "Fragment",
@@ -14312,7 +14312,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213305,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP16675.jpg"
+    "img": "images/DP16675.jpg"
    },
    {
     "t": "Beaker",
@@ -14321,7 +14321,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189079,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/18487.jpg"
+    "img": "images/18487.jpg"
    },
    {
     "t": "Fragment",
@@ -14330,7 +14330,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213320,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP8093.jpg"
+    "img": "images/DP8093.jpg"
    },
    {
     "t": "Rabat",
@@ -14339,7 +14339,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213324,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP3880.jpg"
+    "img": "images/DP3880.jpg"
    },
    {
     "t": "Cuff",
@@ -14348,7 +14348,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 222075,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF27_53_1_img1.jpg"
+    "img": "images/SF27_53_1_img1.jpg"
    },
    {
     "t": "Dish with cover",
@@ -14357,7 +14357,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191555,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/12900.jpg"
+    "img": "images/12900.jpg"
    },
    {
     "t": "Handkerchief border",
@@ -14366,7 +14366,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213326,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP3958.jpg"
+    "img": "images/DP3958.jpg"
    },
    {
     "t": "Halberd",
@@ -14375,7 +14375,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 25910,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/14.25.69_001dec2014.jpg"
+    "img": "images/14.25.69_001dec2014.jpg"
    },
    {
     "t": "In Honor of the 300th Anniversary of the Birth ...",
@@ -14384,7 +14384,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191127,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/6039.jpg"
+    "img": "images/6039.jpg"
    },
    {
     "t": "Fragment",
@@ -14393,7 +14393,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213309,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP8084.jpg"
+    "img": "images/DP8084.jpg"
    },
    {
     "t": "Fragment",
@@ -14402,7 +14402,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213333,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP3891.jpg"
+    "img": "images/DP3891.jpg"
    },
    {
     "t": "Oval-back armchair",
@@ -14411,7 +14411,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 205698,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES6946.jpg"
+    "img": "images/ES6946.jpg"
    },
    {
     "t": "Candlestick (one of a pair)",
@@ -14420,7 +14420,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 194992,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES747.jpg"
+    "img": "images/ES747.jpg"
    },
    {
     "t": "Fragment",
@@ -14429,7 +14429,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213308,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP16674.jpg"
+    "img": "images/DP16674.jpg"
    },
    {
     "t": "Wall hanging",
@@ -14438,7 +14438,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227629,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SC58174.jpg"
+    "img": "images/SC58174.jpg"
    },
    {
     "t": "Cream pot with cover",
@@ -14447,7 +14447,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 199381,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/131293.jpg"
+    "img": "images/131293.jpg"
    },
    {
     "t": "Candlestick (one of a pair)",
@@ -14456,7 +14456,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 211496,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP105137.jpg"
+    "img": "images/DP105137.jpg"
    },
    {
     "t": "Collar",
@@ -14465,7 +14465,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213325,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP3895_08.47.26.jpg"
+    "img": "images/DP3895_08.47.26.jpg"
    },
    {
     "t": "Beaker",
@@ -14474,7 +14474,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 197428,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES1062.jpg"
+    "img": "images/ES1062.jpg"
    },
    {
     "t": "Fragment",
@@ -14483,7 +14483,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213329,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP3888.jpg"
+    "img": "images/DP3888.jpg"
    },
    {
     "t": "Spoon",
@@ -14508,7 +14508,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213304,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP8097.jpg"
+    "img": "images/DP8097.jpg"
    },
    {
     "t": "Fragment",
@@ -14517,7 +14517,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213321,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP8094.jpg"
+    "img": "images/DP8094.jpg"
    },
    {
     "t": "Candlestick (one of a pair)",
@@ -14526,7 +14526,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 194993,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES747.jpg"
+    "img": "images/ES747.jpg"
    },
    {
     "t": "Crown-top spoon (one of three)",
@@ -14535,7 +14535,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 188146,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES118.jpg"
+    "img": "images/ES118.jpg"
    }
   ]
  },
@@ -14603,7 +14603,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 318113,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1999.47.197.jpg"
+    "img": "images/VS1999.47.197.jpg"
    },
    {
     "t": "Lime Dipper or Pin",
@@ -14612,7 +14612,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 319229,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz2002_418.jpg"
+    "img": "images/hz2002_418.jpg"
    },
    {
     "t": "Lime Dipper or Pin",
@@ -14621,7 +14621,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 319228,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs2002.417.jpg"
+    "img": "images/vs2002.417.jpg"
    },
    {
     "t": "Woman's Mantle",
@@ -14630,7 +14630,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 318175,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP137353.jpg"
+    "img": "images/DP137353.jpg"
    },
    {
     "t": "Tunic",
@@ -14639,7 +14639,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 318149,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP137348.jpg"
+    "img": "images/DP137348.jpg"
    },
    {
     "t": "Woman's Mantle",
@@ -14648,7 +14648,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 319585,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP143674.jpg"
+    "img": "images/DP143674.jpg"
    },
    {
     "t": "Man's Tunic",
@@ -14657,7 +14657,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 318146,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/ep1999.47.226.jpg"
+    "img": "images/ep1999.47.226.jpg"
    },
    {
     "t": "Standing figure",
@@ -14666,7 +14666,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313010,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23813-001.jpg"
+    "img": "images/DP-23813-001.jpg"
    },
    {
     "t": "Ceremonial Mantle",
@@ -14675,7 +14675,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 318173,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/ks1999_47_253.jpg"
+    "img": "images/ks1999_47_253.jpg"
    },
    {
     "t": "Mug (one of a pair)",
@@ -14684,7 +14684,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 206737,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/224394.jpg"
+    "img": "images/224394.jpg"
    },
    {
     "t": "Basket",
@@ -14693,7 +14693,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318956,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30081-001.jpg"
+    "img": "images/DP-30081-001.jpg"
    },
    {
     "t": "Votive Container (Canopa)",
@@ -14702,7 +14702,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315770,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1987.394.690.jpg"
+    "img": "images/1987.394.690.jpg"
    },
    {
     "t": "Pin or Lime Dipper",
@@ -14711,7 +14711,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 318973,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hzTR274_2002.jpg"
+    "img": "images/hzTR274_2002.jpg"
    },
    {
     "t": "Pot",
@@ -14720,7 +14720,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 206732,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/224389.jpg"
+    "img": "images/224389.jpg"
    },
    {
     "t": "Bird Pin or Spatula",
@@ -14729,7 +14729,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312940,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/271370.jpg"
+    "img": "images/271370.jpg"
    },
    {
     "t": "Basket Bowl",
@@ -14738,7 +14738,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318955,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30082-001.jpg"
+    "img": "images/DP-30082-001.jpg"
    },
    {
     "t": "Pot (Olla)",
@@ -14747,7 +14747,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 206731,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/224388.jpg"
+    "img": "images/224388.jpg"
    },
    {
     "t": "Mug (one of a pair)",
@@ -14756,7 +14756,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 206738,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/224395.jpg"
+    "img": "images/224395.jpg"
    },
    {
     "t": "Panpipes",
@@ -14765,7 +14765,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501326,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS563A8.jpg"
+    "img": "images/MUS563A8.jpg"
    },
    {
     "t": "Tamboura",
@@ -14921,7 +14921,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314204,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-44299-001.jpg"
+    "img": "images/DP-44299-001.jpg"
    },
    {
     "t": "Bead",
@@ -14930,7 +14930,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314211,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.83.22.jpg"
+    "img": "images/1980.83.22.jpg"
    },
    {
     "t": "Axe Head",
@@ -14939,7 +14939,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315299,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1987_394_239.jpg"
+    "img": "images/vs1987_394_239.jpg"
    },
    {
     "t": "Axe Head",
@@ -14948,7 +14948,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315296,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1987_394_236.jpg"
+    "img": "images/vs1987_394_236.jpg"
    },
    {
     "t": "Rectangular Stone Pendant",
@@ -14957,7 +14957,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313559,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.34.15_a.jpg"
+    "img": "images/1980.34.15_a.jpg"
    },
    {
     "t": "Figure",
@@ -14966,7 +14966,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314202,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP105133.jpg"
+    "img": "images/DP105133.jpg"
    },
    {
     "t": "Manger (from a nativity)",
@@ -14975,7 +14975,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204271,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/SF64_164_175_img4.jpg"
+    "img": "images/SF64_164_175_img4.jpg"
    },
    {
     "t": "Mary (from a nativity)",
@@ -14984,7 +14984,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204268,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP105184.jpg"
+    "img": "images/DP105184.jpg"
    },
    {
     "t": "Standing Ceramic Female Figure",
@@ -14993,7 +14993,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313556,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.34.12.jpg"
+    "img": "images/1980.34.12.jpg"
    },
    {
     "t": "Roller and Flat Stamps",
@@ -15002,7 +15002,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314175,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-24342-001.jpg"
+    "img": "images/DP-24342-001.jpg"
    },
    {
     "t": "Ceramic Seated Female Figure",
@@ -15011,7 +15011,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314178,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.34.33.jpg"
+    "img": "images/1980.34.33.jpg"
    },
    {
     "t": "Saint Joseph",
@@ -15020,7 +15020,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204309,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/180753.jpg"
+    "img": "images/180753.jpg"
    },
    {
     "t": "High priest",
@@ -15029,7 +15029,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 202998,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/180753.jpg"
+    "img": "images/180753.jpg"
    },
    {
     "t": "Bowl with Face",
@@ -15038,7 +15038,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314187,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.34.41.jpg"
+    "img": "images/1980.34.41.jpg"
    },
    {
     "t": "Scraper",
@@ -15047,7 +15047,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314208,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.83.19_b.jpg"
+    "img": "images/1980.83.19_b.jpg"
    },
    {
     "t": "Ornamental Disk",
@@ -15065,7 +15065,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204283,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/180753.jpg"
+    "img": "images/180753.jpg"
    },
    {
     "t": "Stamp Roller",
@@ -15074,7 +15074,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 317710,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1994.389.10.jpg"
+    "img": "images/1994.389.10.jpg"
    },
    {
     "t": "Axe Head (?)",
@@ -15083,7 +15083,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315297,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1987_394_237.jpg"
+    "img": "images/vs1987_394_237.jpg"
    },
    {
     "t": "Ceramic Whistle in the Form of a Standing Figure",
@@ -15092,7 +15092,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 313554,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1980_34_10.jpg"
+    "img": "images/VS1980_34_10.jpg"
    },
    {
     "t": "Ceramic Seated Female Figure",
@@ -15101,7 +15101,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314196,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.83.7.jpg"
+    "img": "images/1980.83.7.jpg"
    },
    {
     "t": "Angel sitting on a bracket",
@@ -15110,7 +15110,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204294,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/180753.jpg"
+    "img": "images/180753.jpg"
    },
    {
     "t": "Ceramic Whistle in the Form of a Shell",
@@ -15119,7 +15119,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314641,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1983.497.24.jpg"
+    "img": "images/1983.497.24.jpg"
    },
    {
     "t": "Standing Figure",
@@ -15128,7 +15128,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314162,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1980_34_2.jpg"
+    "img": "images/VS1980_34_2.jpg"
    },
    {
     "t": "Ceramic Animal Whistle",
@@ -15137,7 +15137,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 318640,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.83.4.jpg"
+    "img": "images/1980.83.4.jpg"
    },
    {
     "t": "Figure Pendant",
@@ -15146,7 +15146,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317706,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-31673-001.jpg"
+    "img": "images/DP-31673-001.jpg"
    },
    {
     "t": "Acolyte",
@@ -15155,7 +15155,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204320,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/180753.jpg"
+    "img": "images/180753.jpg"
    },
    {
     "t": "Ceramic Monkey Vessel",
@@ -15164,7 +15164,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314173,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.34.28_a.jpg"
+    "img": "images/1980.34.28_a.jpg"
    },
    {
     "t": "Ceramic Staff with Profile Figure",
@@ -15173,7 +15173,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314176,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.34.31_a.jpg"
+    "img": "images/1980.34.31_a.jpg"
    },
    {
     "t": "Joseph",
@@ -15182,7 +15182,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204319,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/180753.jpg"
+    "img": "images/180753.jpg"
    },
    {
     "t": "Mace Head",
@@ -15191,7 +15191,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315294,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-20709-001.jpg"
+    "img": "images/DP-20709-001.jpg"
    },
    {
     "t": "Double-Chambered Bottle",
@@ -15200,7 +15200,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 316001,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP102127.jpg"
+    "img": "images/DP102127.jpg"
    },
    {
     "t": "Ceramic Seated Female Figure",
@@ -15209,7 +15209,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314195,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1980.83.6.jpg"
+    "img": "images/1980.83.6.jpg"
    },
    {
     "t": "Silver Disk Ornament",
@@ -15218,7 +15218,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 315292,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1987_394_232.jpg"
+    "img": "images/VS1987_394_232.jpg"
    },
    {
     "t": "Angel hanging from a hook",
@@ -15227,7 +15227,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204281,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/180753.jpg"
+    "img": "images/180753.jpg"
    },
    {
     "t": "Axe Head",
@@ -15236,7 +15236,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315298,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1987_394_238.jpg"
+    "img": "images/vs1987_394_238.jpg"
    },
    {
     "t": "Ceramic Whistle in the Form of a Shell",
@@ -15245,7 +15245,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314639,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1983.497.22.jpg"
+    "img": "images/1983.497.22.jpg"
    },
    {
     "t": "Ornamental Disk",
@@ -15314,7 +15314,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317689,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1994_312_17a.jpg"
+    "img": "images/vs1994_312_17a.jpg"
    },
    {
     "t": "Gold Dust Box",
@@ -15323,7 +15323,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310304,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1977_224_6.jpg"
+    "img": "images/vs1977_224_6.jpg"
    },
    {
     "t": "Gold Weight: Geometric",
@@ -15332,7 +15332,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317676,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP102138.jpg"
+    "img": "images/DP102138.jpg"
    },
    {
     "t": "Gold Weight: Geometric",
@@ -15341,7 +15341,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317677,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_312_5.jpg"
+    "img": "images/hz1994_312_5.jpg"
    },
    {
     "t": "Memorial head",
@@ -15350,7 +15350,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 812102,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-36767-001.jpg"
+    "img": "images/DP-36767-001.jpg"
    },
    {
     "t": "Zanze",
@@ -15399,7 +15399,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317684,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30069-001.jpg"
+    "img": "images/DP-30069-001.jpg"
    },
    {
     "t": "Gold Weight",
@@ -15408,7 +15408,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317687,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_312_15.jpg"
+    "img": "images/hz1994_312_15.jpg"
    },
    {
     "t": "Three Gold Weights: Sword, Fly Whisk, Amulet",
@@ -15465,7 +15465,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310368,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP231464.jpg"
+    "img": "images/DP231464.jpg"
    },
    {
     "t": "Atumpan",
@@ -15474,7 +15474,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501976,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-14195-001.jpg"
+    "img": "images/DP-14195-001.jpg"
    },
    {
     "t": "Gold Weight",
@@ -15483,7 +15483,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317683,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_312_11.jpg"
+    "img": "images/hz1994_312_11.jpg"
    },
    {
     "t": "Gold Weight",
@@ -15492,7 +15492,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317685,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_312_13.jpg"
+    "img": "images/hz1994_312_13.jpg"
    },
    {
     "t": "Prestige Stool: Lion Base",
@@ -15501,7 +15501,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310234,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1976.315_a.jpg"
+    "img": "images/1976.315_a.jpg"
    },
    {
     "t": "Gold Weight: Chicken's Head",
@@ -15510,7 +15510,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317691,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP102135.jpg"
+    "img": "images/DP102135.jpg"
    },
    {
     "t": "Box of Cowrie Shells",
@@ -15519,7 +15519,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 315082,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1987_328_2.jpg"
+    "img": "images/vs1987_328_2.jpg"
    },
    {
     "t": "Gold Weight: Janus Bird",
@@ -15528,7 +15528,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317690,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_312_18.jpg"
+    "img": "images/hz1994_312_18.jpg"
    },
    {
     "t": "Gold Weight: Mother and Child",
@@ -15537,7 +15537,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317693,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_312_21.jpg"
+    "img": "images/hz1994_312_21.jpg"
    },
    {
     "t": "Gold Weight: Geometric",
@@ -15546,7 +15546,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317674,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30673-002.jpg"
+    "img": "images/DP-30673-002.jpg"
    },
    {
     "t": "Five Men",
@@ -15564,7 +15564,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317679,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30067-001.jpg"
+    "img": "images/DP-30067-001.jpg"
    },
    {
     "t": "Gold Weight: Mudfish",
@@ -15573,7 +15573,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317692,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30066-001.jpg"
+    "img": "images/DP-30066-001.jpg"
    },
    {
     "t": "Gold Weight: Male with Bird",
@@ -15582,7 +15582,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317694,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_312_22.jpg"
+    "img": "images/hz1994_312_22.jpg"
    },
    {
     "t": "Gold Weight: Seated Male",
@@ -15591,7 +15591,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317695,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_312_23.jpg"
+    "img": "images/hz1994_312_23.jpg"
    },
    {
     "t": "Kente Prestige Cloth",
@@ -15600,7 +15600,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 85576,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1972.56.1.JPG"
+    "img": "images/1972.56.1.JPG"
    },
    {
     "t": "Breasted Drum",
@@ -15609,7 +15609,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 501975,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP324076.jpg"
+    "img": "images/DP324076.jpg"
    },
    {
     "t": "Lion Ornament",
@@ -15618,7 +15618,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312428,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30079-001.jpg"
+    "img": "images/DP-30079-001.jpg"
    },
    {
     "t": "Gold Weight: Stool",
@@ -15627,7 +15627,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317686,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30072-001.jpg"
+    "img": "images/DP-30072-001.jpg"
    },
    {
     "t": "Gold Weight: Amulet",
@@ -15636,7 +15636,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317682,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30068-001.jpg"
+    "img": "images/DP-30068-001.jpg"
    }
   ]
  },
@@ -15664,7 +15664,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 447366,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP238065.jpg"
+    "img": "images/DP238065.jpg"
    },
    {
     "t": "Bowl with Arabic Proverb",
@@ -15673,7 +15673,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451333,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/LC-56_44.jpg"
+    "img": "images/LC-56_44.jpg"
    },
    {
     "t": "Portrait of a Dervish",
@@ -15682,7 +15682,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451406,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP231338.jpg"
+    "img": "images/DP231338.jpg"
    },
    {
     "t": "Hanging",
@@ -15691,7 +15691,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447913,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/63440.jpg"
+    "img": "images/63440.jpg"
    },
    {
     "t": "Tile Fragment",
@@ -15700,7 +15700,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450544,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf45-103-6.jpg"
+    "img": "images/sf45-103-6.jpg"
    },
    {
     "t": "Folio from the \"Qur'an of  `Umar Aqta'",
@@ -15709,7 +15709,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 453985,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP238061.jpg"
+    "img": "images/DP238061.jpg"
    },
    {
     "t": "Robe",
@@ -15718,7 +15718,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 85550,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI54.15_F.jpg"
+    "img": "images/CI54.15_F.jpg"
    },
    {
     "t": "\"Yusuf Tending the Flocks\", Folio of a Yusuf an...",
@@ -15727,7 +15727,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 455022,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf13-228-5-f69-r.jpg"
+    "img": "images/sf13-228-5-f69-r.jpg"
    },
    {
     "t": "Yusuf and Zulaykha of Jami",
@@ -15736,7 +15736,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 455020,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf13-228-5-7v.jpg"
+    "img": "images/sf13-228-5-7v.jpg"
    },
    {
     "t": "Illuminated Frontispiece of a  Bustan of Sa`di",
@@ -15745,7 +15745,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 452669,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP250349.jpg"
+    "img": "images/DP250349.jpg"
    },
    {
     "t": "Dish",
@@ -15754,7 +15754,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446696,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf15-84-2a.jpg"
+    "img": "images/sf15-84-2a.jpg"
    },
    {
     "t": "Hanging",
@@ -15763,7 +15763,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 450521,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/132422.jpg"
+    "img": "images/132422.jpg"
    },
    {
     "t": "Pendant, One of a Pair",
@@ -15772,7 +15772,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 444654,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf91-1-1117a.jpg"
+    "img": "images/sf91-1-1117a.jpg"
    },
    {
     "t": "Hanging",
@@ -15781,7 +15781,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 444991,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP107274.jpg"
+    "img": "images/DP107274.jpg"
    },
    {
     "t": "Tile Fragment",
@@ -15790,7 +15790,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450557,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf45-103-20.jpg"
+    "img": "images/sf45-103-20.jpg"
    },
    {
     "t": "\"Yusuf and Zulaikha\", Folio 51r from a Bustan o...",
@@ -15799,7 +15799,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 452672,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-35880-001.jpg"
+    "img": "images/DP-35880-001.jpg"
    },
    {
     "t": "Robe",
@@ -15808,7 +15808,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 126846,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI41.86.7.jpg"
+    "img": "images/CI41.86.7.jpg"
    },
    {
     "t": "Section from a Qur'an Manuscript",
@@ -15817,7 +15817,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 453987,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP238064.jpg"
+    "img": "images/DP238064.jpg"
    },
    {
     "t": "Ensemble",
@@ -15826,7 +15826,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 81715,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP102025.jpg"
+    "img": "images/DP102025.jpg"
    },
    {
     "t": "Tile Fragment",
@@ -15835,7 +15835,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450552,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf45-103-14.jpg"
+    "img": "images/sf45-103-14.jpg"
    },
    {
     "t": "Square Tile",
@@ -15844,7 +15844,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 456310,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/TR.192.3.2007.JPG"
+    "img": "images/TR.192.3.2007.JPG"
    },
    {
     "t": "Hanging",
@@ -15853,7 +15853,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 451703,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/184386.jpg"
+    "img": "images/184386.jpg"
    },
    {
     "t": "Tile Fragment",
@@ -15862,7 +15862,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450556,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf45-103-18.jpg"
+    "img": "images/sf45-103-18.jpg"
    },
    {
     "t": "Hanging",
@@ -15871,7 +15871,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 446968,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/36934.jpg"
+    "img": "images/36934.jpg"
    },
    {
     "t": "Carpet fragment",
@@ -15880,7 +15880,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447709,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/54400.jpg"
+    "img": "images/54400.jpg"
    },
    {
     "t": "Bowl with Pseudo-Inscriptional Design",
@@ -15889,7 +15889,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 454607,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP108181.jpg"
+    "img": "images/DP108181.jpg"
    },
    {
     "t": "Textile Fragment",
@@ -15898,7 +15898,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 448922,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/92396.jpg"
+    "img": "images/92396.jpg"
    },
    {
     "t": "Tile Fragment",
@@ -15907,7 +15907,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450543,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf45-103-5.jpg"
+    "img": "images/sf45-103-5.jpg"
    },
    {
     "t": "Hair Ornament [or Plait Ornament]",
@@ -15916,7 +15916,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 444636,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/LC-91_1_1085.jpg"
+    "img": "images/LC-91_1_1085.jpg"
    },
    {
     "t": "Amulet Case, One of a Pair",
@@ -15925,7 +15925,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 444680,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/LC-91_1_1145.jpg"
+    "img": "images/LC-91_1_1145.jpg"
    },
    {
     "t": "Tile Fragment",
@@ -15934,7 +15934,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450558,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf45-103-22a.jpg"
+    "img": "images/sf45-103-22a.jpg"
    },
    {
     "t": "Tile Fragment",
@@ -15943,7 +15943,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450546,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf45-103-8.jpg"
+    "img": "images/sf45-103-8.jpg"
    },
    {
     "t": "Cover",
@@ -15952,7 +15952,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447384,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP107287.jpg"
+    "img": "images/DP107287.jpg"
    },
    {
     "t": "Tile Fragment",
@@ -15961,7 +15961,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450561,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf45-103-26.jpg"
+    "img": "images/sf45-103-26.jpg"
    },
    {
     "t": "Cover",
@@ -15970,7 +15970,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445244,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/4028.jpg"
+    "img": "images/4028.jpg"
    },
    {
     "t": "Ornament, One of a Pair",
@@ -15979,7 +15979,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 453984,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-34634-001.jpg"
+    "img": "images/DP-34634-001.jpg"
    },
    {
     "t": "Earring, One of a Pair",
@@ -15997,7 +15997,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 456969,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP230665.jpg"
+    "img": "images/DP230665.jpg"
    },
    {
     "t": "Hanging",
@@ -16006,7 +16006,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445226,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/3864.jpg"
+    "img": "images/3864.jpg"
    },
    {
     "t": "Earring, One of a Pair",
@@ -16015,7 +16015,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 444686,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/LC-91_1_1153.jpg"
+    "img": "images/LC-91_1_1153.jpg"
    }
   ]
  },
@@ -16043,7 +16043,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 453336,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP234078.jpg"
+    "img": "images/DP234078.jpg"
    },
    {
     "t": "Dragon-Handled Jug with Inscription",
@@ -16052,7 +16052,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 444607,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP235038.JPG"
+    "img": "images/DP235038.JPG"
    },
    {
     "t": "\"Farhad Carves a Milk Channel for Shirin\", Foli...",
@@ -16061,7 +16061,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446595,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP159378.jpg"
+    "img": "images/DP159378.jpg"
    },
    {
     "t": "\"The Eavesdropper\", Folio 47r from a Haft Paika...",
@@ -16070,7 +16070,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 455059,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP159382.jpg"
+    "img": "images/DP159382.jpg"
    },
    {
     "t": "\"Dancing Dervishes\", Folio from a Divan of Hafiz",
@@ -16079,7 +16079,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446892,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP231332.jpg"
+    "img": "images/DP231332.jpg"
    },
    {
     "t": "\"Preparation for a Feast\", Folio from a Divan o...",
@@ -16088,7 +16088,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451084,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP164682.jpg"
+    "img": "images/DP164682.jpg"
    },
    {
     "t": "\"Laila and Majnun in School\", Folio 129 from a ...",
@@ -16097,7 +16097,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446603,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT232547.jpg"
+    "img": "images/DT232547.jpg"
    },
    {
     "t": "Square Tile",
@@ -16106,7 +16106,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 452768,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf1975-193-1.jpg"
+    "img": "images/sf1975-193-1.jpg"
    },
    {
     "t": "High-Tin Bronze Bowl",
@@ -16115,7 +16115,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 456261,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP214461.jpg"
+    "img": "images/DP214461.jpg"
    },
    {
     "t": "Page of Calligraphy from an Anthology of Poetry...",
@@ -16124,7 +16124,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446169,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf11-84-2r.jpg"
+    "img": "images/sf11-84-2r.jpg"
    },
    {
     "t": "\"Bahram Gur in the Red Palace on Tuesday\", Foli...",
@@ -16133,7 +16133,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446607,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-22880-001.jpg"
+    "img": "images/DP-22880-001.jpg"
    },
    {
     "t": "Chang (jaw harp)",
@@ -16142,7 +16142,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 690656,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP703912.jpg"
+    "img": "images/DP703912.jpg"
    },
    {
     "t": "Page of Calligraphy from an Anthology of Poetry...",
@@ -16151,7 +16151,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446174,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf11-84-7r.jpg"
+    "img": "images/sf11-84-7r.jpg"
    },
    {
     "t": "Page of Calligraphy from an Anthology of Poetry...",
@@ -16160,7 +16160,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446176,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf11-84-9r.jpg"
+    "img": "images/sf11-84-9r.jpg"
    },
    {
     "t": "Square Tile",
@@ -16169,7 +16169,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 452769,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf1975-193-2.jpg"
+    "img": "images/sf1975-193-2.jpg"
    },
    {
     "t": "\"Marriage of Khusrau and Shirin\", Folio 104 fro...",
@@ -16178,7 +16178,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446602,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP164641.jpg"
+    "img": "images/DP164641.jpg"
    },
    {
     "t": "\"Alexander at a Banquet\", Folio 321b from a Kha...",
@@ -16187,7 +16187,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446612,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP152805.jpg"
+    "img": "images/DP152805.jpg"
    },
    {
     "t": "\"Bahram Gur in the Green Palace on Monday\", Fol...",
@@ -16196,7 +16196,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446608,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP164645.jpg"
+    "img": "images/DP164645.jpg"
    },
    {
     "t": "Carpet",
@@ -16205,7 +16205,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445237,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/133414.jpg"
+    "img": "images/133414.jpg"
    },
    {
     "t": "\"Bahram Gur and the Indian Princess in the Dark...",
@@ -16214,7 +16214,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 455057,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP159381.jpg"
+    "img": "images/DP159381.jpg"
    },
    {
     "t": "Dress",
@@ -16223,7 +16223,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 85506,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/LC-1971_83_3-001.jpg"
+    "img": "images/LC-1971_83_3-001.jpg"
    },
    {
     "t": "\"Sultan Sanjar and the Old Woman\", Folio 17 fro...",
@@ -16272,7 +16272,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446178,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf11-84-11v.jpg"
+    "img": "images/sf11-84-11v.jpg"
    },
    {
     "t": "Bowl with Revolving Scrolls",
@@ -16281,7 +16281,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 453584,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-16473-027.jpg"
+    "img": "images/DP-16473-027.jpg"
    },
    {
     "t": "Overflap and Inside Cover of a Khamsa (Quintet)...",
@@ -16290,7 +16290,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446590,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP251276.jpg"
+    "img": "images/DP251276.jpg"
    },
    {
     "t": "Divan (Collected Works) of Mir 'Ali Shir Nava'i",
@@ -16299,7 +16299,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446554,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-35879-002.jpg"
+    "img": "images/DP-35879-002.jpg"
    },
    {
     "t": "\"Battle Scene\", Folio from a Zafarnama (Book of...",
@@ -16308,7 +16308,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 450512,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP159392.jpg"
+    "img": "images/DP159392.jpg"
    },
    {
     "t": "\"How a Braggart was Drowned in a Well\", Folio 3...",
@@ -16317,7 +16317,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 455058,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP164652.jpg"
+    "img": "images/DP164652.jpg"
    },
    {
     "t": "\"The Anecdote of the Man Who Fell into the Wate...",
@@ -16326,7 +16326,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451731,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP132956.jpg"
+    "img": "images/DP132956.jpg"
    },
    {
     "t": "\"Funeral Procession\", Folio 35r from a Mantiq a...",
@@ -16335,7 +16335,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451730,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP240661.jpg"
+    "img": "images/DP240661.jpg"
    },
    {
     "t": "Shahnama (Book of Kings) of Firdausi",
@@ -16344,7 +16344,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446550,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP215567.jpg"
+    "img": "images/DP215567.jpg"
    },
    {
     "t": "Shield",
@@ -16353,7 +16353,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31798,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.625_001_Sep2015.jpg"
+    "img": "images/36.25.625_001_Sep2015.jpg"
    },
    {
     "t": "Portrait of a Lady Holding a Flower",
@@ -16362,7 +16362,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451323,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP231337.jpg"
+    "img": "images/DP231337.jpg"
    },
    {
     "t": "\"Laila and Majnun at School\", Folio from a Kham...",
@@ -16371,7 +16371,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 455041,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP159399.jpg"
+    "img": "images/DP159399.jpg"
    },
    {
     "t": "Page of Calligraphy from an Anthology of Poetry...",
@@ -16380,7 +16380,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446168,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP369442.jpg"
+    "img": "images/DP369442.jpg"
    },
    {
     "t": "Sheep bell",
@@ -16389,7 +16389,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 690667,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP703915.jpg"
+    "img": "images/DP703915.jpg"
    }
   ]
  },
@@ -16417,7 +16417,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227316,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/142935.jpg"
+    "img": "images/142935.jpg"
    },
    {
     "t": "Cup",
@@ -16426,7 +16426,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192130,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/15248.jpg"
+    "img": "images/15248.jpg"
    },
    {
     "t": "Potpourri vase (one of a pair)",
@@ -16435,7 +16435,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 200751,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/148625.jpg"
+    "img": "images/148625.jpg"
    },
    {
     "t": "Vase with cover",
@@ -16444,7 +16444,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 205476,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF1972_190_1_img1.jpg"
+    "img": "images/SF1972_190_1_img1.jpg"
    },
    {
     "t": "Teapot",
@@ -16453,7 +16453,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 187697,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/92125.jpg"
+    "img": "images/92125.jpg"
    },
    {
     "t": "Teapot",
@@ -16462,7 +16462,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 188788,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/17550.jpg"
+    "img": "images/17550.jpg"
    },
    {
     "t": "Cavalier and Sleeping Shepherdess",
@@ -16471,7 +16471,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 199316,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/130804.jpg"
+    "img": "images/130804.jpg"
    },
    {
     "t": "Candlestick (one of a pair)",
@@ -16480,7 +16480,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 194613,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/46715.jpg"
+    "img": "images/46715.jpg"
    },
    {
     "t": "Custard cup with cover and tray",
@@ -16489,7 +16489,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 200750,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF50_211_30ab,31_img1.jpg"
+    "img": "images/SF50_211_30ab,31_img1.jpg"
    },
    {
     "t": "Teapot",
@@ -16498,7 +16498,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 187698,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/92126.jpg"
+    "img": "images/92126.jpg"
    },
    {
     "t": "Beaker",
@@ -16507,7 +16507,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192005,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/14673.jpg"
+    "img": "images/14673.jpg"
    },
    {
     "t": "Cuff",
@@ -16516,7 +16516,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212812,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP4182.jpg"
+    "img": "images/DP4182.jpg"
    },
    {
     "t": "The Right of Nationality",
@@ -16525,7 +16525,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207109,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES4131.jpg"
+    "img": "images/ES4131.jpg"
    },
    {
     "t": "Pair of Rowel Spurs",
@@ -16534,7 +16534,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 29264,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-42_50_365_366-001.jpg"
+    "img": "images/LC-42_50_365_366-001.jpg"
    },
    {
     "t": "Spoon",
@@ -16543,7 +16543,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192266,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/15594.jpg"
+    "img": "images/15594.jpg"
    },
    {
     "t": "Cup and saucer",
@@ -16552,7 +16552,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 205478,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF1972_190_3ab.jpg"
+    "img": "images/SF1972_190_3ab.jpg"
    },
    {
     "t": "America",
@@ -16561,7 +16561,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207100,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES4127.jpg"
+    "img": "images/ES4127.jpg"
    },
    {
     "t": "Tea caddy (one of a pair)",
@@ -16570,7 +16570,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 194988,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/52332.jpg"
+    "img": "images/52332.jpg"
    },
    {
     "t": "Portrait of the Father of Emilius Nicolai Scherr",
@@ -16579,7 +16579,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 504222,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/234946.jpg"
+    "img": "images/234946.jpg"
    },
    {
     "t": "Norwegian Peasant (Bridegroom from Fanøe)",
@@ -16588,7 +16588,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207102,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES4134.jpg"
+    "img": "images/ES4134.jpg"
    },
    {
     "t": "Sheriff's truncheon",
@@ -16597,7 +16597,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 193168,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/29540.jpg"
+    "img": "images/29540.jpg"
    },
    {
     "t": "Sultana and Attendant",
@@ -16606,7 +16606,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207105,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES4135.jpg"
+    "img": "images/ES4135.jpg"
    },
    {
     "t": "Pair of Gardeners",
@@ -16615,7 +16615,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207108,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES4126.jpg"
+    "img": "images/ES4126.jpg"
    },
    {
     "t": "Spoon",
@@ -16624,7 +16624,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 188107,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/17699.jpg"
+    "img": "images/17699.jpg"
    },
    {
     "t": "Flounce",
@@ -16633,7 +16633,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 218755,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/8089A.jpg"
+    "img": "images/8089A.jpg"
    },
    {
     "t": "Sultan and Moor",
@@ -16642,7 +16642,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207104,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES4136.jpg"
+    "img": "images/ES4136.jpg"
    },
    {
     "t": "Pair of vases",
@@ -16651,7 +16651,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 188876,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/6594.jpg"
+    "img": "images/6594.jpg"
    },
    {
     "t": "Pair of vases",
@@ -16660,7 +16660,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 205143,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/192719.jpg"
+    "img": "images/192719.jpg"
    },
    {
     "t": "Beaker",
@@ -16669,7 +16669,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 197436,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/97084.jpg"
+    "img": "images/97084.jpg"
    },
    {
     "t": "Strip",
@@ -16678,7 +16678,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212775,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/53715.jpg"
+    "img": "images/53715.jpg"
    },
    {
     "t": "Chemise",
@@ -16687,7 +16687,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 102386,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/23.112_F.jpg"
+    "img": "images/23.112_F.jpg"
    },
    {
     "t": "Length",
@@ -16696,7 +16696,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 229313,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/197372.jpg"
+    "img": "images/197372.jpg"
    },
    {
     "t": "Sugar bowl (part of a set)",
@@ -16705,7 +16705,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 198848,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/125787.jpg"
+    "img": "images/125787.jpg"
    },
    {
     "t": "Andreas Peter Bernstorff (1735–1797), Danish Fo...",
@@ -16714,7 +16714,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 235833,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF2007_366_img1.jpg"
+    "img": "images/SF2007_366_img1.jpg"
    },
    {
     "t": "Spoon",
@@ -16723,7 +16723,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 188088,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/17667.jpg"
+    "img": "images/17667.jpg"
    },
    {
     "t": "Strip",
@@ -16732,7 +16732,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 222121,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/69717.jpg"
+    "img": "images/69717.jpg"
    },
    {
     "t": "Norwegian Peasant (Woman from Tromsø)",
@@ -16741,7 +16741,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207103,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES4133.jpg"
+    "img": "images/ES4133.jpg"
    },
    {
     "t": "Goose Seller",
@@ -16750,7 +16750,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 207099,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES4130.jpg"
+    "img": "images/ES4130.jpg"
    },
    {
     "t": "Bridal veil",
@@ -16759,7 +16759,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 221203,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/47867.jpg"
+    "img": "images/47867.jpg"
    },
    {
     "t": "Edging",
@@ -16768,7 +16768,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 222866,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/GT100e.jpg"
+    "img": "images/GT100e.jpg"
    }
   ]
  },
@@ -16804,7 +16804,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 682011,
-    "img": "https://images.metmuseum.org/CRDImages/li/web-large/i19599158-cf.jpg"
+    "img": "images/i19599158-cf.jpg"
    },
    {
     "t": "Chessmen (32)",
@@ -16813,7 +16813,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 200018,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/146486.jpg"
+    "img": "images/146486.jpg"
    },
    {
     "t": "Crown",
@@ -16822,7 +16822,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191938,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/13439.jpg"
+    "img": "images/13439.jpg"
    },
    {
     "t": "Knife",
@@ -16831,7 +16831,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 203989,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-21041-250.jpg"
+    "img": "images/DP-21041-250.jpg"
    },
    {
     "t": "Carpet",
@@ -16840,7 +16840,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 214344,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/4431.jpg"
+    "img": "images/4431.jpg"
    },
    {
     "t": "Cope",
@@ -16849,7 +16849,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227796,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/160510.jpg"
+    "img": "images/160510.jpg"
    },
    {
     "t": "Piece",
@@ -16858,7 +16858,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213102,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/973.jpg"
+    "img": "images/973.jpg"
    },
    {
     "t": "Perfume burner",
@@ -16867,7 +16867,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191932,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/13458.jpg"
+    "img": "images/13458.jpg"
    },
    {
     "t": "Sugar bowl",
@@ -16876,7 +16876,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191927,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/13458.jpg"
+    "img": "images/13458.jpg"
    },
    {
     "t": "Tankard",
@@ -16885,7 +16885,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 205824,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/211441.jpg"
+    "img": "images/211441.jpg"
    },
    {
     "t": "Rug",
@@ -16894,7 +16894,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 214345,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/4430.jpg"
+    "img": "images/4430.jpg"
    },
    {
     "t": "Military uniform",
@@ -16903,7 +16903,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157280,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/57.159a-d_CP4.jpg"
+    "img": "images/57.159a-d_CP4.jpg"
    },
    {
     "t": "Coffeepot",
@@ -16912,7 +16912,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191933,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/13457.jpg"
+    "img": "images/13457.jpg"
    },
    {
     "t": "Plateau",
@@ -16921,7 +16921,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 193470,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/38422.jpg"
+    "img": "images/38422.jpg"
    },
    {
     "t": "Chasuble",
@@ -16930,7 +16930,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 226944,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP287563.jpg"
+    "img": "images/DP287563.jpg"
    },
    {
     "t": "Ewer and basin",
@@ -16939,7 +16939,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192677,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/20267.jpg"
+    "img": "images/20267.jpg"
    },
    {
     "t": "Ciborium",
@@ -16948,7 +16948,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191910,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/13446.jpg"
+    "img": "images/13446.jpg"
    },
    {
     "t": "Coffret",
@@ -16957,7 +16957,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 463213,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tem092009.jpg"
+    "img": "images/tem092009.jpg"
    },
    {
     "t": "Cup",
@@ -16966,7 +16966,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192032,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/14855.jpg"
+    "img": "images/14855.jpg"
    },
    {
     "t": "Piece",
@@ -16975,7 +16975,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213487,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/3872.jpg"
+    "img": "images/3872.jpg"
    },
    {
     "t": "Teapot",
@@ -16984,7 +16984,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191923,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/13457.jpg"
+    "img": "images/13457.jpg"
    },
    {
     "t": "Piece",
@@ -16993,7 +16993,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227086,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/136417.jpg"
+    "img": "images/136417.jpg"
    },
    {
     "t": "Saint John of the Cross",
@@ -17002,7 +17002,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204329,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/231431.jpg"
+    "img": "images/231431.jpg"
    },
    {
     "t": "Pandeiro",
@@ -17011,7 +17011,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501456,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS716A1.jpg"
+    "img": "images/MUS716A1.jpg"
    },
    {
     "t": "Piece",
@@ -17020,7 +17020,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 228852,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/175122.jpg"
+    "img": "images/175122.jpg"
    },
    {
     "t": "Piece",
@@ -17069,7 +17069,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500854,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS38A2.jpg"
+    "img": "images/MUS38A2.jpg"
    },
    {
     "t": "Chalice and paten",
@@ -17078,7 +17078,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192678,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/20268.jpg"
+    "img": "images/20268.jpg"
    },
    {
     "t": "Armchair (one of a pair)",
@@ -17087,7 +17087,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 191641,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10714.jpg"
+    "img": "images/10714.jpg"
    },
    {
     "t": "Candlestick with candelabrum attachment",
@@ -17096,7 +17096,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191929,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/219017.jpg"
+    "img": "images/219017.jpg"
    },
    {
     "t": "Paten",
@@ -17105,7 +17105,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192000,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/SF12_207_4b.jpg"
+    "img": "images/SF12_207_4b.jpg"
    },
    {
     "t": "Curtain",
@@ -17114,7 +17114,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219757,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP289455.jpg"
+    "img": "images/DP289455.jpg"
    },
    {
     "t": "Candlestick (one of a set of six)",
@@ -17123,7 +17123,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191911,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/13437.jpg"
+    "img": "images/13437.jpg"
    },
    {
     "t": "Salver",
@@ -17132,7 +17132,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 463209,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tem0920012s2.jpg"
+    "img": "images/tem0920012s2.jpg"
    },
    {
     "t": "Guitar",
@@ -17141,7 +17141,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501636,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/Mus38A4.jpg"
+    "img": "images/Mus38A4.jpg"
    }
   ]
  },
@@ -17233,7 +17233,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 9014,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/37743.jpg"
+    "img": "images/37743.jpg"
    },
    {
     "t": "Bowl",
@@ -17282,7 +17282,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 8995,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP241895.jpg"
+    "img": "images/DP241895.jpg"
    },
    {
     "t": "Mug",
@@ -17291,7 +17291,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 5281,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP242320.jpg"
+    "img": "images/DP242320.jpg"
    },
    {
     "t": "Cap",
@@ -17300,7 +17300,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157117,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/26.256_CP4.jpg"
+    "img": "images/26.256_CP4.jpg"
    },
    {
     "t": "Tumbler",
@@ -17309,7 +17309,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 8993,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP241892.jpg"
+    "img": "images/DP241892.jpg"
    },
    {
     "t": "Mug",
@@ -17318,7 +17318,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 5285,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP241903.jpg"
+    "img": "images/DP241903.jpg"
    },
    {
     "t": "Clariofon Bass Clarinet in B-flat",
@@ -17327,7 +17327,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 504209,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/89.4.2459.3.jpg"
+    "img": "images/89.4.2459.3.jpg"
    },
    {
     "t": "Mug",
@@ -17336,7 +17336,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 5289,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/26002.jpg"
+    "img": "images/26002.jpg"
    },
    {
     "t": "Olearium",
@@ -17345,7 +17345,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 462771,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf05-1s1.jpg"
+    "img": "images/sf05-1s1.jpg"
    },
    {
     "t": "Bottle",
@@ -17354,7 +17354,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 592,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/26003.jpg"
+    "img": "images/26003.jpg"
    },
    {
     "t": "Violone",
@@ -17372,7 +17372,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 9018,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/96996.jpg"
+    "img": "images/96996.jpg"
    },
    {
     "t": "Ribbon",
@@ -17381,7 +17381,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 156399,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/21.434.267_CP4.jpg"
+    "img": "images/21.434.267_CP4.jpg"
    },
    {
     "t": "Tumbler",
@@ -17390,7 +17390,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 9001,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP243250.jpg"
+    "img": "images/DP243250.jpg"
    },
    {
     "t": "Luthier's Workshop Model",
@@ -17408,7 +17408,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 156400,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/21.434.275_CP4.jpg"
+    "img": "images/21.434.275_CP4.jpg"
    },
    {
     "t": "Double Bass",
@@ -17417,7 +17417,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 504228,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/231788.jpg"
+    "img": "images/231788.jpg"
    },
    {
     "t": "Bottle",
@@ -17426,7 +17426,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 587,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP241889.jpg"
+    "img": "images/DP241889.jpg"
    },
    {
     "t": "Mug",
@@ -17435,7 +17435,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 5294,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/56791.jpg"
+    "img": "images/56791.jpg"
    },
    {
     "t": "Tumbler",
@@ -17444,7 +17444,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 8999,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP243248.jpg"
+    "img": "images/DP243248.jpg"
    },
    {
     "t": "Casket with allegories of the Four Elements",
@@ -17453,7 +17453,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 236139,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP224153.jpg"
+    "img": "images/DP224153.jpg"
    },
    {
     "t": "Bottle",
@@ -17462,7 +17462,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 589,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP243688.jpg"
+    "img": "images/DP243688.jpg"
    },
    {
     "t": "Tumbler",
@@ -17471,7 +17471,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 9010,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/19177.jpg"
+    "img": "images/19177.jpg"
    },
    {
     "t": "Bottle",
@@ -17480,7 +17480,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 590,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP243699.jpg"
+    "img": "images/DP243699.jpg"
    },
    {
     "t": "Tumbler",
@@ -17489,7 +17489,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 9033,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP207324.jpg"
+    "img": "images/DP207324.jpg"
    },
    {
     "t": "Tumbler",
@@ -17498,7 +17498,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 8994,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP241894.jpg"
+    "img": "images/DP241894.jpg"
    },
    {
     "t": "Wedding veil",
@@ -17507,7 +17507,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157138,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/31.2040_CP4.jpg"
+    "img": "images/31.2040_CP4.jpg"
    }
   ]
  },
@@ -17535,7 +17535,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31190,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1365a_b_001_Mar2017.jpg"
+    "img": "images/36.25.1365a_b_001_Mar2017.jpg"
    },
    {
     "t": "Guenbri",
@@ -17544,7 +17544,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501024,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS197Aleft.jpg"
+    "img": "images/MUS197Aleft.jpg"
    },
    {
     "t": "Fragment of a Hanging",
@@ -17553,7 +17553,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 444442,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-34052-001.jpg"
+    "img": "images/DP-34052-001.jpg"
    },
    {
     "t": "Dagger (Flyssa) with Sheath",
@@ -17562,7 +17562,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 24982,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/x.13_004august2014.jpg"
+    "img": "images/x.13_004august2014.jpg"
    },
    {
     "t": "Rabāb",
@@ -17571,7 +17571,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500578,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS2022LS.jpg"
+    "img": "images/MUS2022LS.jpg"
    },
    {
     "t": "Scarf",
@@ -17580,7 +17580,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445947,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/58599.jpg"
+    "img": "images/58599.jpg"
    },
    {
     "t": "Bandar",
@@ -17598,7 +17598,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 781853,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-19637-001.jpg"
+    "img": "images/DP-19637-001.jpg"
    },
    {
     "t": "Scarf (Tenchifa)",
@@ -17607,7 +17607,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 448578,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/81757.jpg"
+    "img": "images/81757.jpg"
    },
    {
     "t": "Tar",
@@ -17616,7 +17616,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501073,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.455.jpg"
+    "img": "images/midp89.4.455.jpg"
    },
    {
     "t": "Tar",
@@ -17625,7 +17625,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501069,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.451.jpg"
+    "img": "images/midp89.4.451.jpg"
    },
    {
     "t": "Pair of Flintlock Pistols",
@@ -17634,7 +17634,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 30517,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP215282.jpg"
+    "img": "images/DP215282.jpg"
    },
    {
     "t": "Fragment of a Hanging",
@@ -17643,7 +17643,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447882,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/63128.jpg"
+    "img": "images/63128.jpg"
    },
    {
     "t": "Pair of Spurs",
@@ -17652,7 +17652,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31895,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-36_25_546ab-003.jpg"
+    "img": "images/LC-36_25_546ab-003.jpg"
    },
    {
     "t": "Priming Flask, Powder Measure, and Suspension C...",
@@ -17661,7 +17661,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27310,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP219455.jpg"
+    "img": "images/DP219455.jpg"
    },
    {
     "t": "Jacket",
@@ -17670,7 +17670,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 85625,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI41.110.54_F.jpg"
+    "img": "images/CI41.110.54_F.jpg"
    },
    {
     "t": "Hanging",
@@ -17679,7 +17679,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 451446,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/163303.jpg"
+    "img": "images/163303.jpg"
    },
    {
     "t": "Scarf End (Tenchifa)",
@@ -17688,7 +17688,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447881,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/63175.jpg"
+    "img": "images/63175.jpg"
    },
    {
     "t": "Dress",
@@ -17697,7 +17697,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 85630,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI47.67_F.jpg"
+    "img": "images/CI47.67_F.jpg"
    },
    {
     "t": "Rebāb",
@@ -17706,7 +17706,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501025,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.407.jpg"
+    "img": "images/midp89.4.407.jpg"
    },
    {
     "t": "Knife (Flyssa) with sheath",
@@ -17715,7 +17715,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31765,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.785ab_002june2014.jpg"
+    "img": "images/36.25.785ab_002june2014.jpg"
    },
    {
     "t": "Guenbri",
@@ -17724,7 +17724,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501026,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.408.jpg"
+    "img": "images/midp89.4.408.jpg"
    },
    {
     "t": "Textile Fragment",
@@ -17733,7 +17733,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 444428,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-34031-001.jpg"
+    "img": "images/DP-34031-001.jpg"
    },
    {
     "t": "Hanging",
@@ -17742,7 +17742,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 451616,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/171280.jpg"
+    "img": "images/171280.jpg"
    },
    {
     "t": "Necklet",
@@ -17760,7 +17760,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 450993,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/144487.jpg"
+    "img": "images/144487.jpg"
    },
    {
     "t": "Square",
@@ -17769,7 +17769,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 451615,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/171279.jpg"
+    "img": "images/171279.jpg"
    },
    {
     "t": "Scarf End",
@@ -17778,7 +17778,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445292,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/4164.jpg"
+    "img": "images/4164.jpg"
    },
    {
     "t": "Sword (Flyssa) with Scabbard",
@@ -17787,7 +17787,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31188,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1363ab_001July2014.jpg"
+    "img": "images/36.25.1363ab_001July2014.jpg"
    },
    {
     "t": "Deff",
@@ -17796,7 +17796,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501882,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP249533.jpg"
+    "img": "images/DP249533.jpg"
    },
    {
     "t": "Knife (Flyssa) with Sheath",
@@ -17805,7 +17805,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31763,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.783a_b_001_Mar2017.jpg"
+    "img": "images/36.25.783a_b_001_Mar2017.jpg"
    },
    {
     "t": "Knife with Sheath and Small Knife",
@@ -17814,7 +17814,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31764,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.784a-c_004june2014.jpg"
+    "img": "images/36.25.784a-c_004june2014.jpg"
    },
    {
     "t": "Guenbri",
@@ -17823,7 +17823,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501018,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.2.187.jpg"
+    "img": "images/midp89.2.187.jpg"
    },
    {
     "t": "Panel",
@@ -17832,7 +17832,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 448207,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP105386.jpg"
+    "img": "images/DP105386.jpg"
    },
    {
     "t": "Prick Spur (Left)",
@@ -17841,7 +17841,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31892,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-36_25_543-001.jpg"
+    "img": "images/LC-36_25_543-001.jpg"
    },
    {
     "t": "Guenbri",
@@ -17850,7 +17850,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501022,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS217A.jpg"
+    "img": "images/MUS217A.jpg"
    },
    {
     "t": "Strip",
@@ -17910,7 +17910,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312747,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1259.jpg"
+    "img": "images/DT1259.jpg"
    },
    {
     "t": "Double-Bat-Head Figure Pendant",
@@ -17919,7 +17919,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309419,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP276703.jpg"
+    "img": "images/DP276703.jpg"
    },
    {
     "t": "Turtle Pendant",
@@ -17928,7 +17928,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309974,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26288-001.jpg"
+    "img": "images/DP-26288-001.jpg"
    },
    {
     "t": "Sea Horse Pendant",
@@ -17937,7 +17937,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312957,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT303229.jpg"
+    "img": "images/DT303229.jpg"
    },
    {
     "t": "Gold Curly Tailed Animal Pendant",
@@ -17954,7 +17954,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 313003,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26889-001.jpg"
+    "img": "images/DP-26889-001.jpg"
    },
    {
     "t": "Pair of Cuffs",
@@ -17963,7 +17963,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 320332,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26452-001.jpg"
+    "img": "images/DP-26452-001.jpg"
    },
    {
     "t": "Feline-Head Pendant",
@@ -17972,7 +17972,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309531,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26285-001.jpg"
+    "img": "images/DP-26285-001.jpg"
    },
    {
     "t": "Cuff",
@@ -17981,7 +17981,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309542,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26559-001.jpg"
+    "img": "images/DP-26559-001.jpg"
    },
    {
     "t": "Eagle Pendant",
@@ -17990,7 +17990,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 314950,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1986.198.jpg"
+    "img": "images/1986.198.jpg"
    },
    {
     "t": "Stylized Figure Pendant",
@@ -17999,7 +17999,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312492,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT303227.jpg"
+    "img": "images/DT303227.jpg"
    },
    {
     "t": "Hammered Gold Disk",
@@ -18008,7 +18008,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 317886,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1998.317.5.jpg"
+    "img": "images/1998.317.5.jpg"
    },
    {
     "t": "Eagle Pendant",
@@ -18017,7 +18017,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312239,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17784-001.jpg"
+    "img": "images/DP-17784-001.jpg"
    },
    {
     "t": "Curly-Tailed Animal Pendant",
@@ -18026,7 +18026,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309423,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT303223.jpg"
+    "img": "images/DT303223.jpg"
    },
    {
     "t": "Double Bat-Head Figure Pendant",
@@ -18075,7 +18075,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316670,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26299-001.jpg"
+    "img": "images/DP-26299-001.jpg"
    },
    {
     "t": "Cuff",
@@ -18084,7 +18084,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309541,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26558-002.jpg"
+    "img": "images/DP-26558-002.jpg"
    },
    {
     "t": "Pectoral Disk",
@@ -18093,7 +18093,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316673,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26571-002.jpg"
+    "img": "images/DP-26571-002.jpg"
    },
    {
     "t": "Eagle Pendant",
@@ -18102,7 +18102,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 317755,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1995.481.7.jpg"
+    "img": "images/1995.481.7.jpg"
    },
    {
     "t": "Frog Ornament",
@@ -18111,7 +18111,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312705,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1979_206_495.jpg"
+    "img": "images/vs1979_206_495.jpg"
    },
    {
     "t": "Ear Rod",
@@ -18120,7 +18120,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309533,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26557-001.jpg"
+    "img": "images/DP-26557-001.jpg"
    },
    {
     "t": "Double-Animal Pendant",
@@ -18129,7 +18129,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 309954,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1974_271_18.jpg"
+    "img": "images/vs1974_271_18.jpg"
    },
    {
     "t": "Double-End Animal Pendant",
@@ -18138,7 +18138,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316678,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26896-001.jpg"
+    "img": "images/DP-26896-001.jpg"
    },
    {
     "t": "Double Bird Pendant",
@@ -18147,7 +18147,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 313116,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1979_206_912.jpg"
+    "img": "images/vs1979_206_912.jpg"
    },
    {
     "t": "Stylized Figure Pendant",
@@ -18156,7 +18156,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316681,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP160748.jpg"
+    "img": "images/DP160748.jpg"
    },
    {
     "t": "Ear Spool",
@@ -18165,7 +18165,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312693,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.483a_1a.jpg"
+    "img": "images/1979.206.483a_1a.jpg"
    },
    {
     "t": "Crocodile-Head Figure Pendant",
@@ -18174,7 +18174,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 313089,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT303230.jpg"
+    "img": "images/DT303230.jpg"
    },
    {
     "t": "Shark Pendant",
@@ -18183,7 +18183,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 307789,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT303221.jpg"
+    "img": "images/DT303221.jpg"
    },
    {
     "t": "Eagle Pendant",
@@ -18192,7 +18192,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316668,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17786-001.jpg"
+    "img": "images/DP-17786-001.jpg"
    },
    {
     "t": "Bat-Nosed Figure Pendant",
@@ -18241,7 +18241,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 316677,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-26300-001.jpg"
+    "img": "images/DP-26300-001.jpg"
    },
    {
     "t": "Pendant",
@@ -18250,7 +18250,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 312918,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.731.jpg"
+    "img": "images/1979.206.731.jpg"
    }
   ]
  },
@@ -18278,7 +18278,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 814668,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-17491-001.jpg"
+    "img": "images/DP-17491-001.jpg"
    },
    {
     "t": "Censer, Seated King",
@@ -18287,7 +18287,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 318345,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT4512.jpg"
+    "img": "images/DT4512.jpg"
    },
    {
     "t": "Stone Chisel",
@@ -18296,7 +18296,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317244,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_378.jpg"
+    "img": "images/hz1994_35_378.jpg"
    },
    {
     "t": "Celt",
@@ -18305,7 +18305,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317107,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_342.jpg"
+    "img": "images/hz1994_35_342.jpg"
    },
    {
     "t": "Yoke-Form Vessel",
@@ -18314,7 +18314,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 309713,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT11169.jpg"
+    "img": "images/DT11169.jpg"
    },
    {
     "t": "Lidded Vessel",
@@ -18323,7 +18323,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 315884,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1987.450.2ab1.JPG"
+    "img": "images/1987.450.2ab1.JPG"
    },
    {
     "t": "Celt",
@@ -18332,7 +18332,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317295,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1994_35_439.JPG"
+    "img": "images/VS1994_35_439.JPG"
    },
    {
     "t": "Animal Head Hacha",
@@ -18341,7 +18341,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313254,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23868-001.jpg"
+    "img": "images/DP-23868-001.jpg"
    },
    {
     "t": "Joseph (from a nativity)",
@@ -18350,7 +18350,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 230932,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/ES2106.jpg"
+    "img": "images/ES2106.jpg"
    },
    {
     "t": "Tetrapod Bowl",
@@ -18359,7 +18359,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314518,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-13003-001.jpg"
+    "img": "images/DP-13003-001.jpg"
    },
    {
     "t": "Celt",
@@ -18368,7 +18368,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317267,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_401.jpg"
+    "img": "images/hz1994_35_401.jpg"
    },
    {
     "t": "Celt",
@@ -18377,7 +18377,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317305,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1994_35_449.JPG"
+    "img": "images/VS1994_35_449.JPG"
    },
    {
     "t": "Celt",
@@ -18386,7 +18386,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317222,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_356.jpg"
+    "img": "images/hz1994_35_356.jpg"
    },
    {
     "t": "Jar, Ritual Scenes",
@@ -18395,7 +18395,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 316813,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1993.441_a.JPG"
+    "img": "images/1993.441_a.JPG"
    },
    {
     "t": "Celt",
@@ -18404,7 +18404,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317270,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_404.jpg"
+    "img": "images/hz1994_35_404.jpg"
    },
    {
     "t": "Vessel, Throne Scene",
@@ -18413,7 +18413,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 318662,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT4514.jpg"
+    "img": "images/DT4514.jpg"
    },
    {
     "t": "Stone Chisel",
@@ -18422,7 +18422,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317102,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_337.jpg"
+    "img": "images/hz1994_35_337.jpg"
    },
    {
     "t": "Standing woman with a bowl on a plate from a na...",
@@ -18431,7 +18431,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204274,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/231292.jpg"
+    "img": "images/231292.jpg"
    },
    {
     "t": "Cloth",
@@ -18440,7 +18440,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 320608,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP14673.jpg"
+    "img": "images/DP14673.jpg"
    },
    {
     "t": "Celt-Form Pendant",
@@ -18449,7 +18449,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317297,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1994_35_441.JPG"
+    "img": "images/VS1994_35_441.JPG"
    },
    {
     "t": "Celt",
@@ -18458,7 +18458,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317212,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_345.jpg"
+    "img": "images/hz1994_35_345.jpg"
    },
    {
     "t": "Celt",
@@ -18467,7 +18467,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317217,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_350.jpg"
+    "img": "images/hz1994_35_350.jpg"
    },
    {
     "t": "Celt",
@@ -18476,7 +18476,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317103,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_338.jpg"
+    "img": "images/hz1994_35_338.jpg"
    },
    {
     "t": "Pair of Earflare Frontals",
@@ -18485,7 +18485,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 316299,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-14786-043.jpg"
+    "img": "images/DP-14786-043.jpg"
    },
    {
     "t": "Celt",
@@ -18494,7 +18494,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317233,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_367.jpg"
+    "img": "images/hz1994_35_367.jpg"
    },
    {
     "t": "Kneeling woman with a bowl (from a nativity)",
@@ -18503,7 +18503,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 204272,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/ES5344.jpg"
+    "img": "images/ES5344.jpg"
    },
    {
     "t": "Stone Chisel",
@@ -18512,7 +18512,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317100,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_335.jpg"
+    "img": "images/hz1994_35_335.jpg"
    },
    {
     "t": "Blade",
@@ -18521,7 +18521,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317320,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_464.jpg"
+    "img": "images/hz1994_35_464.jpg"
    },
    {
     "t": "Cylindrical Vessel",
@@ -18530,7 +18530,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314524,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/h1_1982.207.7.jpg"
+    "img": "images/h1_1982.207.7.jpg"
    },
    {
     "t": "Celt",
@@ -18539,7 +18539,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317210,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_343.jpg"
+    "img": "images/hz1994_35_343.jpg"
    },
    {
     "t": "Celt",
@@ -18548,7 +18548,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317214,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_347.jpg"
+    "img": "images/hz1994_35_347.jpg"
    },
    {
     "t": "Drum",
@@ -18557,7 +18557,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501280,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.664.jpg"
+    "img": "images/midp89.4.664.jpg"
    },
    {
     "t": "Celt",
@@ -18566,7 +18566,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317275,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_409.jpg"
+    "img": "images/hz1994_35_409.jpg"
    },
    {
     "t": "Bowl with Pouring Lip",
@@ -18575,7 +18575,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 310354,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.309.1.JPG"
+    "img": "images/1978.309.1.JPG"
    },
    {
     "t": "Celt",
@@ -18584,7 +18584,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317235,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_369.jpg"
+    "img": "images/hz1994_35_369.jpg"
    },
    {
     "t": "Celt",
@@ -18593,7 +18593,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 318653,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_352.jpg"
+    "img": "images/hz1994_35_352.jpg"
    },
    {
     "t": "Cloth",
@@ -18602,7 +18602,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 320609,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP8271.jpg"
+    "img": "images/DP8271.jpg"
    },
    {
     "t": "Marimba",
@@ -18611,7 +18611,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 505369,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS805A.jpg"
+    "img": "images/MUS805A.jpg"
    },
    {
     "t": "Vessel, Seated Deities",
@@ -18620,7 +18620,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 310607,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-13003-005.jpg"
+    "img": "images/DP-13003-005.jpg"
    },
    {
     "t": "Celt",
@@ -18629,7 +18629,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317247,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_381.jpg"
+    "img": "images/hz1994_35_381.jpg"
    }
   ]
  },
@@ -18657,7 +18657,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449169,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-8a.jpg"
+    "img": "images/sf37-75-8a.jpg"
    },
    {
     "t": "Hinge",
@@ -18666,7 +18666,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449195,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-34a.jpg"
+    "img": "images/sf37-75-34a.jpg"
    },
    {
     "t": "Ring",
@@ -18675,7 +18675,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449204,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-43a.jpg"
+    "img": "images/sf37-75-43a.jpg"
    },
    {
     "t": "Pin or Stylus",
@@ -18684,7 +18684,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449177,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-16z.jpg"
+    "img": "images/sf37-75-16z.jpg"
    },
    {
     "t": "Head of a Figure",
@@ -18693,7 +18693,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 449180,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-19z.jpg"
+    "img": "images/sf37-75-19z.jpg"
    },
    {
     "t": "Jacket",
@@ -18702,7 +18702,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 126652,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI42.176.2_F.jpg"
+    "img": "images/CI42.176.2_F.jpg"
    },
    {
     "t": "Spoon",
@@ -18711,7 +18711,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449194,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-33a.jpg"
+    "img": "images/sf37-75-33a.jpg"
    },
    {
     "t": "Plaque",
@@ -18720,7 +18720,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449175,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-14z.jpg"
+    "img": "images/sf37-75-14z.jpg"
    },
    {
     "t": "Lamp",
@@ -18729,7 +18729,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 454755,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf61-150-10.jpg"
+    "img": "images/sf61-150-10.jpg"
    },
    {
     "t": "Plaque",
@@ -18738,7 +18738,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449174,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-13b.jpg"
+    "img": "images/sf37-75-13b.jpg"
    },
    {
     "t": "Ornament",
@@ -18747,7 +18747,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449182,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-21a.jpg"
+    "img": "images/sf37-75-21a.jpg"
    },
    {
     "t": "Ring",
@@ -18756,7 +18756,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449203,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-42a.jpg"
+    "img": "images/sf37-75-42a.jpg"
    },
    {
     "t": "Cymbals",
@@ -18765,7 +18765,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449186,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-25a.jpg"
+    "img": "images/sf37-75-25a.jpg"
    },
    {
     "t": "Nail",
@@ -18774,7 +18774,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449191,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-30a.jpg"
+    "img": "images/sf37-75-30a.jpg"
    },
    {
     "t": "Button or Spindle Whorl",
@@ -18783,7 +18783,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449173,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-12z.jpg"
+    "img": "images/sf37-75-12z.jpg"
    },
    {
     "t": "Probably a Counter",
@@ -18792,7 +18792,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449166,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-5b.jpg"
+    "img": "images/sf37-75-5b.jpg"
    },
    {
     "t": "Fragment of a Book Cover",
@@ -18801,7 +18801,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 449183,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf23-75-22h.jpg"
+    "img": "images/sf23-75-22h.jpg"
    },
    {
     "t": "Lamp",
@@ -18810,7 +18810,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451759,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf64-207-5.jpg"
+    "img": "images/sf64-207-5.jpg"
    },
    {
     "t": "Lamp",
@@ -18819,7 +18819,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451652,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf61-150-3.jpg"
+    "img": "images/sf61-150-3.jpg"
    },
    {
     "t": "Lamp",
@@ -18828,7 +18828,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449207,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-47.jpg"
+    "img": "images/sf37-75-47.jpg"
    },
    {
     "t": "Cross Pendant",
@@ -18837,7 +18837,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449200,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-39a.jpg"
+    "img": "images/sf37-75-39a.jpg"
    },
    {
     "t": "Lamp",
@@ -18846,7 +18846,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451658,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf61-150-9.jpg"
+    "img": "images/sf61-150-9.jpg"
    },
    {
     "t": "Lamp",
@@ -18855,7 +18855,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 450383,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf41-23-10.jpg"
+    "img": "images/sf41-23-10.jpg"
    },
    {
     "t": "Rod or Bobbin",
@@ -18864,7 +18864,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449179,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-18a.jpg"
+    "img": "images/sf37-75-18a.jpg"
    },
    {
     "t": "Spindle Whorl or Button",
@@ -18873,7 +18873,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449168,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-7z.jpg"
+    "img": "images/sf37-75-7z.jpg"
    },
    {
     "t": "Headscarf",
@@ -18882,7 +18882,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 86251,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI55.25.5.jpg"
+    "img": "images/CI55.25.5.jpg"
    },
    {
     "t": "Cross Pendant",
@@ -18891,7 +18891,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449199,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-38a.jpg"
+    "img": "images/sf37-75-38a.jpg"
    },
    {
     "t": "Pin or Stylus",
@@ -18900,7 +18900,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449178,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-17a.jpg"
+    "img": "images/sf37-75-17a.jpg"
    },
    {
     "t": "Ring",
@@ -18909,7 +18909,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449205,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-44a.jpg"
+    "img": "images/sf37-75-44a.jpg"
    },
    {
     "t": "Lamp",
@@ -18918,7 +18918,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451651,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf61-150-2.jpg"
+    "img": "images/sf61-150-2.jpg"
    },
    {
     "t": "Plaque",
@@ -18927,7 +18927,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449164,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-3a.jpg"
+    "img": "images/sf37-75-3a.jpg"
    },
    {
     "t": "Ensemble",
@@ -18936,7 +18936,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 82693,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP102019.jpg"
+    "img": "images/DP102019.jpg"
    },
    {
     "t": "Plaque",
@@ -18945,7 +18945,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449163,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-2a.jpg"
+    "img": "images/sf37-75-2a.jpg"
    },
    {
     "t": "Lamp",
@@ -18954,7 +18954,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451755,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf64-207-1.jpg"
+    "img": "images/sf64-207-1.jpg"
    },
    {
     "t": "Ring",
@@ -18963,7 +18963,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 446010,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf10-130-975a.jpg"
+    "img": "images/sf10-130-975a.jpg"
    },
    {
     "t": "Fish Hook",
@@ -18972,7 +18972,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449201,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-40a.jpg"
+    "img": "images/sf37-75-40a.jpg"
    },
    {
     "t": "Fragment",
@@ -18981,7 +18981,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 449176,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf37-75-15a.jpg"
+    "img": "images/sf37-75-15a.jpg"
    },
    {
     "t": "Lamp",
@@ -18990,7 +18990,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 451756,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf64-207-2.jpg"
+    "img": "images/sf64-207-2.jpg"
    },
    {
     "t": "Doll Dress",
@@ -18999,7 +18999,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 86125,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CIX52.8_F.jpg"
+    "img": "images/CIX52.8_F.jpg"
    },
    {
     "t": "Bell",
@@ -19076,7 +19076,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 141753,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/2008.190.312ab_F.jpg"
+    "img": "images/2008.190.312ab_F.jpg"
    },
    {
     "t": "Klong Khek",
@@ -19085,7 +19085,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500921,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS613A.jpg"
+    "img": "images/MUS613A.jpg"
    },
    {
     "t": "Spear",
@@ -19094,7 +19094,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 30667,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.2054_001jan2015.jpg"
+    "img": "images/36.25.2054_001jan2015.jpg"
    },
    {
     "t": "Chakhe",
@@ -19103,7 +19103,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500845,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS148A.jpg"
+    "img": "images/MUS148A.jpg"
    },
    {
     "t": "Knife",
@@ -19112,7 +19112,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31605,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.805_001July2014.jpg"
+    "img": "images/36.25.805_001July2014.jpg"
    },
    {
     "t": "Klong mēng (ฆ้องเหม่ง)",
@@ -19121,7 +19121,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500825,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/204941.jpg"
+    "img": "images/204941.jpg"
    },
    {
     "t": "Head of the Buddha",
@@ -19130,7 +19130,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 460467,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1430_1429_1434_1431_1433-1.jpg"
+    "img": "images/SLP1430_1429_1434_1431_1433-1.jpg"
    },
    {
     "t": "Head of the Buddha",
@@ -19139,7 +19139,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 460414,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1432_1439_1440_1441-1.jpg"
+    "img": "images/SLP1432_1439_1440_1441-1.jpg"
    },
    {
     "t": "Ranat Ek",
@@ -19148,7 +19148,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500931,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS759A.jpg"
+    "img": "images/MUS759A.jpg"
    },
    {
     "t": "La Kang",
@@ -19157,7 +19157,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500918,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP161919.jpg"
+    "img": "images/DP161919.jpg"
    },
    {
     "t": "Klong Khaek",
@@ -19166,7 +19166,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500922,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.277.jpg"
+    "img": "images/midp89.4.277.jpg"
    },
    {
     "t": "Head of the Buddha",
@@ -19199,7 +19199,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31609,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.809ab_002june2014.jpg"
+    "img": "images/36.25.809ab_002june2014.jpg"
    },
    {
     "t": "Saw U",
@@ -19217,7 +19217,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 460384,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1430_1429_1434_1431_1433-1.jpg"
+    "img": "images/SLP1430_1429_1434_1431_1433-1.jpg"
    },
    {
     "t": "Klong yao",
@@ -19226,7 +19226,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500910,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS655A2.jpg"
+    "img": "images/MUS655A2.jpg"
    },
    {
     "t": "Head of the Buddha",
@@ -19235,7 +19235,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 461191,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1430_1429_1434_1431_1433-1.jpg"
+    "img": "images/SLP1430_1429_1434_1431_1433-1.jpg"
    },
    {
     "t": "Klong that",
@@ -19244,7 +19244,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500834,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS612A.jpg"
+    "img": "images/MUS612A.jpg"
    },
    {
     "t": "Head of the Buddha",
@@ -19253,7 +19253,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 460391,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1436_1435_1437_1438-1.jpg"
+    "img": "images/SLP1436_1435_1437_1438-1.jpg"
    },
    {
     "t": "Saw U",
@@ -19262,7 +19262,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502024,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS150A.jpg"
+    "img": "images/MUS150A.jpg"
    },
    {
     "t": "Pi Nai",
@@ -19271,7 +19271,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501870,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.1304.jpg"
+    "img": "images/midp89.4.1304.jpg"
    },
    {
     "t": "Ranat Ek",
@@ -19289,7 +19289,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31567,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.977_001july2014.jpg"
+    "img": "images/36.25.977_001july2014.jpg"
    },
    {
     "t": "Krap Puang",
@@ -19298,7 +19298,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500868,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS585A2.jpg"
+    "img": "images/MUS585A2.jpg"
    },
    {
     "t": "Head of the Buddha",
@@ -19307,7 +19307,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 460394,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1438-1.jpg"
+    "img": "images/SLP1438-1.jpg"
    },
    {
     "t": "Head of the Buddha",
@@ -19316,7 +19316,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 460977,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1432_1439_1440_1441-1.jpg"
+    "img": "images/SLP1432_1439_1440_1441-1.jpg"
    },
    {
     "t": "Phin phia",
@@ -19325,7 +19325,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500841,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.289.jpg"
+    "img": "images/midp89.4.289.jpg"
    },
    {
     "t": "Head of the Buddha",
@@ -19334,7 +19334,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 460390,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1436_1435_1437_1438-1.jpg"
+    "img": "images/SLP1436_1435_1437_1438-1.jpg"
    },
    {
     "t": "Head of the Buddha",
@@ -19343,7 +19343,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 460385,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1432_1439_1440_1441-1.jpg"
+    "img": "images/SLP1432_1439_1440_1441-1.jpg"
    },
    {
     "t": "Phin",
@@ -19352,7 +19352,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500840,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.288.jpg"
+    "img": "images/midp89.4.288.jpg"
    },
    {
     "t": "Head of the Buddha",
@@ -19361,7 +19361,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 460466,
-    "img": "https://images.metmuseum.org/CRDImages/rl/web-large/SLP1430_1429_1434_1431_1433-1.jpg"
+    "img": "images/SLP1430_1429_1434_1431_1433-1.jpg"
    },
    {
     "t": "Thon",
@@ -19370,7 +19370,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500924,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.279.jpg"
+    "img": "images/midp89.4.279.jpg"
    },
    {
     "t": "Button",
@@ -19407,7 +19407,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502040,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302678.jpg"
+    "img": "images/DP302678.jpg"
    },
    {
     "t": "Mi-gyaung",
@@ -19416,7 +19416,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502048,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302572.jpg"
+    "img": "images/DP302572.jpg"
    },
    {
     "t": "Horn",
@@ -19425,7 +19425,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500804,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS507A.jpg"
+    "img": "images/MUS507A.jpg"
    },
    {
     "t": "Chessmen (32)",
@@ -19434,7 +19434,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 201464,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/155504.jpg"
+    "img": "images/155504.jpg"
    },
    {
     "t": "Hnyìn",
@@ -19443,7 +19443,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500842,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MIDP89.4.290.jpg"
+    "img": "images/MIDP89.4.290.jpg"
    },
    {
     "t": "T'na",
@@ -19452,7 +19452,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500915,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.270(1).jpg"
+    "img": "images/midp89.4.270(1).jpg"
    },
    {
     "t": "Pair of Stirrups",
@@ -19470,7 +19470,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502041,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP210445.jpg"
+    "img": "images/DP210445.jpg"
    },
    {
     "t": "Dagger with Sheath",
@@ -19479,7 +19479,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 25002,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/91.1.891ab_002may2014.jpg"
+    "img": "images/91.1.891ab_002may2014.jpg"
    },
    {
     "t": "Dagger (Dha) with Sheath",
@@ -19488,7 +19488,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 30920,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1619ab_002july2014.jpg"
+    "img": "images/36.25.1619ab_002july2014.jpg"
    },
    {
     "t": "Dagger with Sheath (Dah Hmyaung or Dha)",
@@ -19497,7 +19497,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31586,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.996ab_002july2014.jpg"
+    "img": "images/36.25.996ab_002july2014.jpg"
    },
    {
     "t": "Horn",
@@ -19506,7 +19506,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500803,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.234.jpg"
+    "img": "images/midp89.4.234.jpg"
    },
    {
     "t": "Puloay",
@@ -19515,7 +19515,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500792,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.223.jpg"
+    "img": "images/midp89.4.223.jpg"
    },
    {
     "t": "Ghutru",
@@ -19524,7 +19524,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500821,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.252vert.jpg"
+    "img": "images/midp89.4.252vert.jpg"
    },
    {
     "t": "Knife (Dha) with sheath",
@@ -19533,7 +19533,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31618,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.818ab_004june2014.jpg"
+    "img": "images/36.25.818ab_004june2014.jpg"
    },
    {
     "t": "Bell",
@@ -19542,7 +19542,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502228,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP161937.jpg"
+    "img": "images/DP161937.jpg"
    },
    {
     "t": "Sword (Dha) with Scabbard and Baldric",
@@ -19551,7 +19551,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31074,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1428ab_005july2014.jpg"
+    "img": "images/36.25.1428ab_005july2014.jpg"
    },
    {
     "t": "Sword (Dha) with Scabbard and Baldric",
@@ -19560,7 +19560,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31080,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1434ab_001_Aug2015.jpg"
+    "img": "images/36.25.1434ab_001_Aug2015.jpg"
    },
    {
     "t": "Dagger with Sheath (Dah Hmyaung or Dha)",
@@ -19569,7 +19569,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31587,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.997ab_003july2014.jpg"
+    "img": "images/36.25.997ab_003july2014.jpg"
    },
    {
     "t": "Sword Cane with Two Blades and Sheath",
@@ -19578,7 +19578,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 30960,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1503a-c_001July2014.jpg"
+    "img": "images/36.25.1503a-c_001July2014.jpg"
    },
    {
     "t": "Sword (Dha) with Scabbard",
@@ -19587,7 +19587,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31083,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1437ab_001Jun2015.jpg"
+    "img": "images/36.25.1437ab_001Jun2015.jpg"
    },
    {
     "t": "Saung-Gauk",
@@ -19596,7 +19596,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500916,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.271ab.jpg"
+    "img": "images/midp89.4.271ab.jpg"
    },
    {
     "t": "Bell",
@@ -19605,7 +19605,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502227,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP161936.jpg"
+    "img": "images/DP161936.jpg"
    },
    {
     "t": "Pair of Knives (Dha) with Sheath",
@@ -19614,7 +19614,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31617,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.817abc_002june2014.jpg"
+    "img": "images/36.25.817abc_002june2014.jpg"
    },
    {
     "t": "Dagger (Dha or Dah Hmyaung)",
@@ -19623,7 +19623,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31588,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.998_001july2014.jpg"
+    "img": "images/36.25.998_001july2014.jpg"
    },
    {
     "t": "Chessman (King)",
@@ -19632,7 +19632,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 201540,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/155492.jpg"
+    "img": "images/155492.jpg"
    },
    {
     "t": "Mashak",
@@ -19641,7 +19641,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500908,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS522A1.jpg"
+    "img": "images/MUS522A1.jpg"
    },
    {
     "t": "Sword (Dha) with Scabbard",
@@ -19650,7 +19650,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31082,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1436ab_002Jun2015.jpg"
+    "img": "images/36.25.1436ab_002Jun2015.jpg"
    },
    {
     "t": "Sword (Dha)",
@@ -19659,7 +19659,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31179,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1354_001_Mar2017.jpg"
+    "img": "images/36.25.1354_001_Mar2017.jpg"
    },
    {
     "t": "Chessmen (31)",
@@ -19668,7 +19668,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 199991,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/145914.jpg"
+    "img": "images/145914.jpg"
    },
    {
     "t": "Tayaw",
@@ -19677,7 +19677,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500780,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/188952.jpg"
+    "img": "images/188952.jpg"
    },
    {
     "t": "Kyì-waìng",
@@ -19686,7 +19686,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501805,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS760A.jpg"
+    "img": "images/MUS760A.jpg"
    },
    {
     "t": "Gongs",
@@ -19695,7 +19695,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500920,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS766A.jpg"
+    "img": "images/MUS766A.jpg"
    },
    {
     "t": "Gong",
@@ -19704,7 +19704,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502039,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/172294.jpg"
+    "img": "images/172294.jpg"
    },
    {
     "t": "Hnè",
@@ -19713,7 +19713,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500766,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.197.jpg"
+    "img": "images/midp89.4.197.jpg"
    },
    {
     "t": "Walet-hkok",
@@ -19731,7 +19731,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 500820,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS655A3.jpg"
+    "img": "images/MUS655A3.jpg"
    },
    {
     "t": "Wahle Khoht",
@@ -20122,7 +20122,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 311950,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP148295.jpg"
+    "img": "images/DP148295.jpg"
    },
    {
     "t": "Wilmurra",
@@ -20131,7 +20131,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501354,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.738.jpg"
+    "img": "images/midp89.4.738.jpg"
    },
    {
     "t": "Mask (Le Op)",
@@ -20140,7 +20140,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310072,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23226-001.jpg"
+    "img": "images/DP-23226-001.jpg"
    },
    {
     "t": "Rainforest Shield",
@@ -20149,7 +20149,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 314016,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-41373-001.jpg"
+    "img": "images/DP-41373-001.jpg"
    },
    {
     "t": "Garak I",
@@ -20438,7 +20438,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501996,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.1430.jpg"
+    "img": "images/midp89.4.1430.jpg"
    }
   ]
  },
@@ -20506,7 +20506,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219027,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10724A.jpg"
+    "img": "images/10724A.jpg"
    },
    {
     "t": "Tankard",
@@ -20515,7 +20515,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 191997,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/14510.jpg"
+    "img": "images/14510.jpg"
    },
    {
     "t": "Armet-à-Rondelle",
@@ -20524,7 +20524,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 34034,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/29.158.775_007AA2015.jpg"
+    "img": "images/29.158.775_007AA2015.jpg"
    },
    {
     "t": "Bona Sforza (1493–1557), Queen of Poland",
@@ -20533,7 +20533,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 193658,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP157984.jpg"
+    "img": "images/DP157984.jpg"
    },
    {
     "t": "Chessboard",
@@ -20542,7 +20542,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 200055,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/146536.jpg"
+    "img": "images/146536.jpg"
    },
    {
     "t": "Sash",
@@ -20551,7 +20551,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219019,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP17204_11.58.9.jpg"
+    "img": "images/DP17204_11.58.9.jpg"
    },
    {
     "t": "Escutcheon",
@@ -20560,7 +20560,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 463091,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tem0816632.jpg"
+    "img": "images/tem0816632.jpg"
    },
    {
     "t": "Escutcheon",
@@ -20569,7 +20569,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 463092,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tem0816633.jpg"
+    "img": "images/tem0816633.jpg"
    },
    {
     "t": "Sash",
@@ -20578,7 +20578,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219023,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10725A.jpg"
+    "img": "images/10725A.jpg"
    },
    {
     "t": "Sash",
@@ -20587,7 +20587,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219015,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10725B.jpg"
+    "img": "images/10725B.jpg"
    },
    {
     "t": "Band",
@@ -20596,7 +20596,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445886,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP17615.jpg"
+    "img": "images/DP17615.jpg"
    },
    {
     "t": "Sash",
@@ -20605,7 +20605,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219021,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10727f.jpg"
+    "img": "images/10727f.jpg"
    },
    {
     "t": "Sash",
@@ -20614,7 +20614,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219022,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10729.jpg"
+    "img": "images/10729.jpg"
    },
    {
     "t": "Cap",
@@ -20663,7 +20663,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 222968,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/93551.jpg"
+    "img": "images/93551.jpg"
    },
    {
     "t": "Sash",
@@ -20672,7 +20672,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 222688,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/92420.jpg"
+    "img": "images/92420.jpg"
    },
    {
     "t": "Vase (one of a pair)",
@@ -20681,7 +20681,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 834813,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-19686-025.jpg"
+    "img": "images/DP-19686-025.jpg"
    },
    {
     "t": "Alexander the Great",
@@ -20690,7 +20690,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 188488,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/30704.jpg"
+    "img": "images/30704.jpg"
    },
    {
     "t": "Sash",
@@ -20699,7 +20699,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219018,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10724C.jpg"
+    "img": "images/10724C.jpg"
    },
    {
     "t": "Dish",
@@ -20708,7 +20708,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 200963,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/ES6524.jpg"
+    "img": "images/ES6524.jpg"
    },
    {
     "t": "Sash",
@@ -20717,7 +20717,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219026,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10726B.jpg"
+    "img": "images/10726B.jpg"
    },
    {
     "t": "Medallion with the Face of Christ",
@@ -20726,7 +20726,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 479584,
-    "img": "https://images.metmuseum.org/CRDImages/cl/web-large/DP260958.jpg"
+    "img": "images/DP260958.jpg"
    },
    {
     "t": "Sash",
@@ -20735,7 +20735,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219028,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10729C.jpg"
+    "img": "images/10729C.jpg"
    },
    {
     "t": "Sash",
@@ -20744,7 +20744,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 226560,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/124341.jpg"
+    "img": "images/124341.jpg"
    },
    {
     "t": "Sash",
@@ -20753,7 +20753,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219020,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10729A.jpg"
+    "img": "images/10729A.jpg"
    },
    {
     "t": "Sash",
@@ -20762,7 +20762,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227201,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/137375a.jpg"
+    "img": "images/137375a.jpg"
    },
    {
     "t": "Vase (one of a pair)",
@@ -20771,7 +20771,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 834812,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-19686-022.jpg"
+    "img": "images/DP-19686-022.jpg"
    },
    {
     "t": "Mantle",
@@ -20780,7 +20780,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 227933,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/AR1165.jpg"
+    "img": "images/AR1165.jpg"
    },
    {
     "t": "Sash",
@@ -20789,7 +20789,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 219025,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/10726A.jpg"
+    "img": "images/10726A.jpg"
    },
    {
     "t": "Dish",
@@ -20798,7 +20798,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 861189,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/LC-TR_66_2022.jpg"
+    "img": "images/LC-TR_66_2022.jpg"
    },
    {
     "t": "Six-light chandelier",
@@ -20807,7 +20807,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 205541,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/203470.jpg"
+    "img": "images/203470.jpg"
    }
   ]
  },
@@ -20835,7 +20835,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 505825,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP167430.jpg"
+    "img": "images/DP167430.jpg"
    },
    {
     "t": "Spoon",
@@ -20844,7 +20844,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192112,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/15583.jpg"
+    "img": "images/15583.jpg"
    },
    {
     "t": "Button",
@@ -20853,7 +20853,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189040,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36253-001.jpg"
+    "img": "images/DP-36253-001.jpg"
    },
    {
     "t": "Beaker",
@@ -20862,7 +20862,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192131,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/15235.jpg"
+    "img": "images/15235.jpg"
    },
    {
     "t": "Langeleik",
@@ -20871,7 +20871,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502451,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS58A.jpg"
+    "img": "images/MUS58A.jpg"
    },
    {
     "t": "Strip",
@@ -20880,7 +20880,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213456,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP4191.jpg"
+    "img": "images/DP4191.jpg"
    },
    {
     "t": "Spoon",
@@ -20889,7 +20889,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 188526,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/49843.jpg"
+    "img": "images/49843.jpg"
    },
    {
     "t": "Roses against a green ground",
@@ -20898,7 +20898,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 212998,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/821.jpg"
+    "img": "images/821.jpg"
    },
    {
     "t": "Button",
@@ -20907,7 +20907,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189044,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36253-001.jpg"
+    "img": "images/DP-36253-001.jpg"
    },
    {
     "t": "Button",
@@ -20916,7 +20916,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189041,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36253-001.jpg"
+    "img": "images/DP-36253-001.jpg"
    },
    {
     "t": "Pattens",
@@ -20925,7 +20925,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 156380,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/CP677a-b_CP4.jpg"
+    "img": "images/CP677a-b_CP4.jpg"
    },
    {
     "t": "Bukkehorn",
@@ -20934,7 +20934,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501712,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-23449-001.jpg"
+    "img": "images/DP-23449-001.jpg"
    },
    {
     "t": "Peg tankard",
@@ -20943,7 +20943,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 202042,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/165804.jpg"
+    "img": "images/165804.jpg"
    },
    {
     "t": "Powder Flask",
@@ -20952,7 +20952,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27940,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/sfsb45.104s1.jpg"
+    "img": "images/sfsb45.104s1.jpg"
    },
    {
     "t": "Cuff link",
@@ -20961,7 +20961,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189047,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36253-001.jpg"
+    "img": "images/DP-36253-001.jpg"
    },
    {
     "t": "Cuff link",
@@ -20970,7 +20970,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189048,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36253-001.jpg"
+    "img": "images/DP-36253-001.jpg"
    },
    {
     "t": "Brooch",
@@ -20979,7 +20979,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 90366,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/89.2.192.jpg"
+    "img": "images/89.2.192.jpg"
    },
    {
     "t": "Langeleik",
@@ -20988,7 +20988,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501599,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/211907.jpg"
+    "img": "images/211907.jpg"
    },
    {
     "t": "Wedding crown",
@@ -20997,7 +20997,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 89571,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/CI55.66.jpg"
+    "img": "images/CI55.66.jpg"
    },
    {
     "t": "Button",
@@ -21006,7 +21006,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189045,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36253-001.jpg"
+    "img": "images/DP-36253-001.jpg"
    },
    {
     "t": "Bracelet",
@@ -21015,7 +21015,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189049,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36252-001.jpg"
+    "img": "images/DP-36252-001.jpg"
    },
    {
     "t": "Psalmodikon",
@@ -21024,7 +21024,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501591,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS272A.jpg"
+    "img": "images/MUS272A.jpg"
    },
    {
     "t": "Earring",
@@ -21033,7 +21033,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189052,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36252-001.jpg"
+    "img": "images/DP-36252-001.jpg"
    },
    {
     "t": "Coffee spoon",
@@ -21042,7 +21042,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 188124,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/17800.jpg"
+    "img": "images/17800.jpg"
    },
    {
     "t": "Button",
@@ -21051,7 +21051,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189039,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36253-001.jpg"
+    "img": "images/DP-36253-001.jpg"
    },
    {
     "t": "Button",
@@ -21060,7 +21060,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189043,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36253-001.jpg"
+    "img": "images/DP-36253-001.jpg"
    },
    {
     "t": "Tiara",
@@ -21069,7 +21069,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189050,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36255-001.jpg"
+    "img": "images/DP-36255-001.jpg"
    },
    {
     "t": "Brooch",
@@ -21078,7 +21078,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189051,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36252-001.jpg"
+    "img": "images/DP-36252-001.jpg"
    },
    {
     "t": "Powder Flask",
@@ -21087,7 +21087,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27365,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/sfsb1972.183s1.jpg"
+    "img": "images/sfsb1972.183s1.jpg"
    },
    {
     "t": "Bishop Chess Piece",
@@ -21096,7 +21096,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 464231,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DT261243.jpg"
+    "img": "images/DT261243.jpg"
    },
    {
     "t": "Peg tankard",
@@ -21105,7 +21105,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 188784,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/17552.jpg"
+    "img": "images/17552.jpg"
    },
    {
     "t": "Necklace",
@@ -21114,7 +21114,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189038,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36252-001.jpg"
+    "img": "images/DP-36252-001.jpg"
    },
    {
     "t": "Collar",
@@ -21123,7 +21123,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 213457,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP4190.jpg"
+    "img": "images/DP4190.jpg"
    },
    {
     "t": "Button",
@@ -21132,7 +21132,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189046,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36253-001.jpg"
+    "img": "images/DP-36253-001.jpg"
    },
    {
     "t": "Earring",
@@ -21141,7 +21141,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 189053,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-36252-001.jpg"
+    "img": "images/DP-36252-001.jpg"
    },
    {
     "t": "Five Arrowheads",
@@ -21150,7 +21150,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27887,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-46_79_10-001.jpg"
+    "img": "images/LC-46_79_10-001.jpg"
    },
    {
     "t": "Ensemble",
@@ -21159,7 +21159,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 156110,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/58.152.1a-f_front_CP4.jpg"
+    "img": "images/58.152.1a-f_front_CP4.jpg"
    },
    {
     "t": "Spoon",
@@ -21168,7 +21168,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 192081,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/15578.jpg"
+    "img": "images/15578.jpg"
    },
    {
     "t": "Compote",
@@ -21177,7 +21177,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 751986,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-22473-059.jpg"
+    "img": "images/DP-22473-059.jpg"
    },
    {
     "t": "Hardanger Fiddle",
@@ -21186,7 +21186,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503795,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP46.34.7a.jpg"
+    "img": "images/DP46.34.7a.jpg"
    }
   ]
  },
@@ -21222,7 +21222,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98439,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/23.123.2.jpg"
+    "img": "images/23.123.2.jpg"
    },
    {
     "t": "Apron",
@@ -21231,7 +21231,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98433,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2692.jpg"
+    "img": "images/09.50.2692.jpg"
    },
    {
     "t": "Belt",
@@ -21240,7 +21240,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157081,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/20.724_CP4.jpg"
+    "img": "images/20.724_CP4.jpg"
    },
    {
     "t": "Apron",
@@ -21249,7 +21249,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98435,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2694.jpg"
+    "img": "images/09.50.2694.jpg"
    },
    {
     "t": "Apron",
@@ -21258,7 +21258,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98428,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2687.jpg"
+    "img": "images/09.50.2687.jpg"
    },
    {
     "t": "Fragment",
@@ -21267,7 +21267,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 216587,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP2443.jpg"
+    "img": "images/DP2443.jpg"
    },
    {
     "t": "Apron",
@@ -21276,7 +21276,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98430,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2689.jpg"
+    "img": "images/09.50.2689.jpg"
    },
    {
     "t": "Apron",
@@ -21285,7 +21285,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98429,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2688.jpg"
+    "img": "images/09.50.2688.jpg"
    },
    {
     "t": "Blouse",
@@ -21294,7 +21294,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 159060,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/21.434.68_CP4.jpg"
+    "img": "images/21.434.68_CP4.jpg"
    },
    {
     "t": "Apron",
@@ -21303,7 +21303,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98432,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2691.jpg"
+    "img": "images/09.50.2691.jpg"
    },
    {
     "t": "Rug",
@@ -21312,7 +21312,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 222333,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/77776.jpg"
+    "img": "images/77776.jpg"
    },
    {
     "t": "Coat",
@@ -21321,7 +21321,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 80093,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/1995.452_F.jpg"
+    "img": "images/1995.452_F.jpg"
    },
    {
     "t": "Apron",
@@ -21330,7 +21330,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98427,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2671.jpg"
+    "img": "images/09.50.2671.jpg"
    },
    {
     "t": "Apron",
@@ -21339,7 +21339,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98434,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2693.jpg"
+    "img": "images/09.50.2693.jpg"
    },
    {
     "t": "Fragment",
@@ -21348,7 +21348,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 216583,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP7701.jpg"
+    "img": "images/DP7701.jpg"
    },
    {
     "t": "Ensemble",
@@ -21357,7 +21357,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98436,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/23.122.1c.jpg"
+    "img": "images/23.122.1c.jpg"
    },
    {
     "t": "Blouse",
@@ -21366,7 +21366,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157082,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/20.728_CP4.jpg"
+    "img": "images/20.728_CP4.jpg"
    },
    {
     "t": "Blouse",
@@ -21375,7 +21375,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98438,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/23.123.1.jpg"
+    "img": "images/23.123.1.jpg"
    },
    {
     "t": "Blouse",
@@ -21384,7 +21384,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 102380,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/43.106.1.jpg"
+    "img": "images/43.106.1.jpg"
    },
    {
     "t": "Skirt",
@@ -21393,7 +21393,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157089,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/20.767_CP4.jpg"
+    "img": "images/20.767_CP4.jpg"
    },
    {
     "t": "Apron",
@@ -21402,7 +21402,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98425,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2668.jpg"
+    "img": "images/09.50.2668.jpg"
    },
    {
     "t": "Apron",
@@ -21411,7 +21411,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98423,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2665.jpg"
+    "img": "images/09.50.2665.jpg"
    },
    {
     "t": "Fragment from an apron (opreg cu ciucuri)",
@@ -21420,7 +21420,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 229940,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP-875-001.jpg"
+    "img": "images/DP-875-001.jpg"
    },
    {
     "t": "Blouse",
@@ -21469,7 +21469,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 216584,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP7702.jpg"
+    "img": "images/DP7702.jpg"
    },
    {
     "t": "Fragment",
@@ -21478,7 +21478,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 216582,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/DP7700.jpg"
+    "img": "images/DP7700.jpg"
    },
    {
     "t": "Skirt",
@@ -21487,7 +21487,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 127384,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/CI56.55.7.jpg"
+    "img": "images/CI56.55.7.jpg"
    },
    {
     "t": "Apron",
@@ -21496,7 +21496,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 102377,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2472.jpg"
+    "img": "images/09.50.2472.jpg"
    },
    {
     "t": "Apron",
@@ -21505,7 +21505,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 85820,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/CI46.9.215.jpg"
+    "img": "images/CI46.9.215.jpg"
    },
    {
     "t": "Ensemble",
@@ -21514,7 +21514,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 159148,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/40.140.1-.8_front_CP4.jpg"
+    "img": "images/40.140.1-.8_front_CP4.jpg"
    },
    {
     "t": "Dress",
@@ -21532,7 +21532,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 98424,
-    "img": "https://images.metmuseum.org/CRDImages/es/web-large/09.50.2667.jpg"
+    "img": "images/09.50.2667.jpg"
    },
    {
     "t": "Apron",
@@ -21584,7 +21584,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312429,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP133665.jpg"
+    "img": "images/DP133665.jpg"
    },
    {
     "t": "Mask (Mukudj)",
@@ -21601,7 +21601,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501173,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS653A2.jpg"
+    "img": "images/MUS653A2.jpg"
    },
    {
     "t": "Arched Harp",
@@ -21610,7 +21610,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501163,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/233306.jpg"
+    "img": "images/233306.jpg"
    },
    {
     "t": "Zanze",
@@ -21637,7 +21637,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501175,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/244162.jpg"
+    "img": "images/244162.jpg"
    },
    {
     "t": "M'Kul",
@@ -21646,7 +21646,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501168,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/258886.jpg"
+    "img": "images/258886.jpg"
    },
    {
     "t": "Ndungu",
@@ -21655,7 +21655,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502043,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/203945.jpg"
+    "img": "images/203945.jpg"
    },
    {
     "t": "Ndungu",
@@ -21664,7 +21664,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 501106,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/244249.jpg"
+    "img": "images/244249.jpg"
    },
    {
     "t": "Ngombi (ombi)",
@@ -21673,7 +21673,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501160,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS240.jpg"
+    "img": "images/MUS240.jpg"
    },
    {
     "t": "Mvet",
@@ -21682,7 +21682,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502042,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS201A.jpg"
+    "img": "images/MUS201A.jpg"
    },
    {
     "t": "Lidded Gunpowder Container",
@@ -21691,7 +21691,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 825764,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-20450-002.jpg"
+    "img": "images/DP-20450-002.jpg"
    },
    {
     "t": "M'Kul",
@@ -21709,7 +21709,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501978,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/206099.jpg"
+    "img": "images/206099.jpg"
    },
    {
     "t": "Rattle",
@@ -21937,7 +21937,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 446862,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP17736.jpg"
+    "img": "images/DP17736.jpg"
    },
    {
     "t": "Ewer",
@@ -21946,7 +21946,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 445228,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP245167.jpg"
+    "img": "images/DP245167.jpg"
    },
    {
     "t": "Manuscript Leaf with text in Bolorgir",
@@ -21955,7 +21955,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 478392,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/tr403-2-2008s1.jpg"
+    "img": "images/tr403-2-2008s1.jpg"
    },
    {
     "t": "Pilgrim Flask",
@@ -21964,7 +21964,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 444970,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf06-840a.jpg"
+    "img": "images/sf06-840a.jpg"
    },
    {
     "t": "Four Gospels in Armenian",
@@ -21973,7 +21973,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 478665,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP228809.jpg"
+    "img": "images/DP228809.jpg"
    },
    {
     "t": "Basin",
@@ -21982,7 +21982,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 445229,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP245168.jpg"
+    "img": "images/DP245168.jpg"
    },
    {
     "t": "Title Page of the Gospel of John",
@@ -21991,7 +21991,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 449536,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf38-171-2s1.JPG"
+    "img": "images/sf38-171-2s1.JPG"
    },
    {
     "t": "Bowl",
@@ -22000,7 +22000,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 467406,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/sf30-95-7s1.jpg"
+    "img": "images/sf30-95-7s1.jpg"
    },
    {
     "t": "Panel",
@@ -22009,7 +22009,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 446284,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf13-97.jpg"
+    "img": "images/sf13-97.jpg"
    },
    {
     "t": "Liturgical Cuff",
@@ -22018,7 +22018,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 446100,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-15409-001.jpg"
+    "img": "images/DP-15409-001.jpg"
    },
    {
     "t": "Leaf from a Gospel Book with Four Standing Evan...",
@@ -22027,7 +22027,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 468539,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP-15488-001.jpg"
+    "img": "images/DP-15488-001.jpg"
    },
    {
     "t": "Hanging",
@@ -22036,7 +22036,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 450482,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP168446.jpg"
+    "img": "images/DP168446.jpg"
    },
    {
     "t": "Egg-Shaped Ornament",
@@ -22045,7 +22045,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 478391,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP-14837-002.jpg"
+    "img": "images/DP-14837-002.jpg"
    },
    {
     "t": "Armenian Manuscript Bifolium",
@@ -22054,7 +22054,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 662941,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP342091.jpg"
+    "img": "images/DP342091.jpg"
    },
    {
     "t": "Four miniatures of the life of Christ from a go...",
@@ -22063,7 +22063,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 751462,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/IA-18288C.jpg"
+    "img": "images/IA-18288C.jpg"
    },
    {
     "t": "Pair of Ankle Shoes",
@@ -22072,7 +22072,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 88855,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI53.45b_S.jpg"
+    "img": "images/CI53.45b_S.jpg"
    },
    {
     "t": "Ensemble",
@@ -22081,7 +22081,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 89513,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI45.49a_F.jpg"
+    "img": "images/CI45.49a_F.jpg"
    },
    {
     "t": "Ensemble",
@@ -22293,7 +22293,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501418,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS655A1.jpg"
+    "img": "images/MUS655A1.jpg"
    },
    {
     "t": "Ritual Textile (Pua Sungkit)",
@@ -22302,7 +22302,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 626918,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-14456-001.jpg"
+    "img": "images/DP-14456-001.jpg"
    },
    {
     "t": "Ceremonial Textile (Pua Kumbu)",
@@ -22311,7 +22311,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 317626,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP145526.jpg"
+    "img": "images/DP145526.jpg"
    },
    {
     "t": "Gong",
@@ -22635,7 +22635,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501084,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/260639.jpg"
+    "img": "images/260639.jpg"
    },
    {
     "t": "Xylophone",
@@ -22644,7 +22644,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501124,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/Mus775A.jpg"
+    "img": "images/Mus775A.jpg"
    },
    {
     "t": "Collar (Ingqosha)",
@@ -22653,7 +22653,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 319572,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/lbTR197_10_2005.jpg"
+    "img": "images/lbTR197_10_2005.jpg"
    },
    {
     "t": "Zulu Warrior with Ox-hide Shield",
@@ -22671,7 +22671,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501153,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/244237.jpg"
+    "img": "images/244237.jpg"
    },
    {
     "t": "Zulu in Leopard Costume",
@@ -22689,7 +22689,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501165,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS815Aleft.jpg"
+    "img": "images/MUS815Aleft.jpg"
    },
    {
     "t": "Drum",
@@ -22698,7 +22698,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501152,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/191203.jpg"
+    "img": "images/191203.jpg"
    },
    {
     "t": "Headrest",
@@ -22707,7 +22707,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 787722,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-19506-004.jpg"
+    "img": "images/DP-19506-004.jpg"
    },
    {
     "t": "Horn",
@@ -22716,7 +22716,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501080,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/260635.jpg"
+    "img": "images/260635.jpg"
    },
    {
     "t": "Horn",
@@ -22725,7 +22725,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501085,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/260640.jpg"
+    "img": "images/260640.jpg"
    },
    {
     "t": "Girl's Apron (Lighabi)",
@@ -22774,7 +22774,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 858185,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-40017-001.jpg"
+    "img": "images/DP-40017-001.jpg"
    },
    {
     "t": "Musical Bow",
@@ -22987,7 +22987,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317196,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1248.jpg"
+    "img": "images/DT1248.jpg"
    },
    {
     "t": "Illuminated Gospel",
@@ -22996,7 +22996,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 317618,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP109439.jpg"
+    "img": "images/DP109439.jpg"
    },
    {
     "t": "Pendant Icon: St. George, Virgin and Child Enth...",
@@ -23005,7 +23005,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 309529,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/68.128_a.JPG"
+    "img": "images/68.128_a.JPG"
    },
    {
     "t": "Healing Scroll",
@@ -23014,7 +23014,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 771515,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/LC-TR_473_1_2017.jpg"
+    "img": "images/LC-TR_473_1_2017.jpg"
    },
    {
     "t": "Hand Cross (mäsqäl qǝddase or yäǝṭan)",
@@ -23023,7 +23023,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 701288,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30698-001.jpg"
+    "img": "images/DP-30698-001.jpg"
    },
    {
     "t": "Processional Cross (qäqwami mäsqäl)",
@@ -23032,7 +23032,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 318333,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30697-001.jpg"
+    "img": "images/DP-30697-001.jpg"
    },
    {
     "t": "Processional Cross",
@@ -23041,7 +23041,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317877,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP100984.jpg"
+    "img": "images/DP100984.jpg"
    },
    {
     "t": "Healing Scroll",
@@ -23050,7 +23050,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 320962,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP326509.jpg"
+    "img": "images/DP326509.jpg"
    },
    {
     "t": "Healing Scroll",
@@ -23059,7 +23059,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 307601,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP326513.jpg"
+    "img": "images/DP326513.jpg"
    },
    {
     "t": "Healing Scroll",
@@ -23068,7 +23068,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 320635,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP326504.jpg"
+    "img": "images/DP326504.jpg"
    },
    {
     "t": "Healing Scroll",
@@ -23077,7 +23077,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 771531,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/LC-TR_473_3_2017.jpg"
+    "img": "images/LC-TR_473_3_2017.jpg"
    },
    {
     "t": "Prayer book with case (mahdar)",
@@ -23086,7 +23086,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 307602,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/book3.jpg"
+    "img": "images/book3.jpg"
    },
    {
     "t": "Processional Cross",
@@ -23095,7 +23095,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 320341,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-31154-001.jpg"
+    "img": "images/DP-31154-001.jpg"
    },
    {
     "t": "Double Diptych Icon Pendant",
@@ -23104,7 +23104,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 317829,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25652-001.jpg"
+    "img": "images/DP-25652-001.jpg"
    },
    {
     "t": "Bowl Lyre",
@@ -23113,7 +23113,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501155,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/260514.jpg"
+    "img": "images/260514.jpg"
    },
    {
     "t": "Double-Sided Gospel Leaf",
@@ -23122,7 +23122,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 477148,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP136082.jpg"
+    "img": "images/DP136082.jpg"
    },
    {
     "t": "Processional Cross",
@@ -23131,7 +23131,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 677838,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP13314-041.jpg"
+    "img": "images/DP13314-041.jpg"
    },
    {
     "t": "Processional Cross",
@@ -23140,7 +23140,7 @@ const D = [
     "c": "#758D99",
     "p": "Religious",
     "id": 320049,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP167122.jpg"
+    "img": "images/DP167122.jpg"
    },
    {
     "t": "Processional Cross",
@@ -23149,7 +23149,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 479577,
-    "img": "https://images.metmuseum.org/CRDImages/md/web-large/DP257320.jpg"
+    "img": "images/DP257320.jpg"
    },
    {
     "t": "Icon Triptych: Ewostatewos and Eight of His Dis...",
@@ -23158,7 +23158,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 319625,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP124866.jpg"
+    "img": "images/DP124866.jpg"
    },
    {
     "t": "Processional Cross",
@@ -23167,7 +23167,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 320833,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17712-001.jpg"
+    "img": "images/DP-17712-001.jpg"
    },
    {
     "t": "Prayer Book: Arganonä Maryam (The Organ of Mary)",
@@ -23184,7 +23184,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317830,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30681-001.jpg"
+    "img": "images/DP-30681-001.jpg"
    },
    {
     "t": "Rattle",
@@ -23202,7 +23202,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 444954,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/04_34_9.jpg"
+    "img": "images/04_34_9.jpg"
    },
    {
     "t": "The Cross, the Church, and the Butterfly",
@@ -23366,7 +23366,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501319,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.703.jpg"
+    "img": "images/midp89.4.703.jpg"
    },
    {
     "t": "Handkerchiefs (one of two)",
@@ -23375,7 +23375,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 227759,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP2896.jpg"
+    "img": "images/DP2896.jpg"
    },
    {
     "t": "Fixed fan",
@@ -23384,7 +23384,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 157985,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/48.60_front_CP4.jpg"
+    "img": "images/48.60_front_CP4.jpg"
    },
    {
     "t": "Plate",
@@ -23393,7 +23393,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 319556,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/2005.461_a.jpg"
+    "img": "images/2005.461_a.jpg"
    },
    {
     "t": "Flute",
@@ -23411,7 +23411,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502107,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS563A21.jpg"
+    "img": "images/MUS563A21.jpg"
    },
    {
     "t": "Rattle",
@@ -23420,7 +23420,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502019,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.1453.jpg"
+    "img": "images/midp89.4.1453.jpg"
    },
    {
     "t": "Engraved Horn",
@@ -23429,7 +23429,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501302,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS550A2.jpg"
+    "img": "images/MUS550A2.jpg"
    },
    {
     "t": "Handkerchiefs (one of two)",
@@ -23438,7 +23438,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 227758,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP2927.jpg"
+    "img": "images/DP2927.jpg"
    },
    {
     "t": "Square",
@@ -23447,7 +23447,7 @@ const D = [
     "c": "#E3120B",
     "p": "Paintings",
     "id": 215298,
-    "img": "https://images.metmuseum.org/CRDImages/ad/web-large/DP16547.jpg"
+    "img": "images/DP16547.jpg"
    },
    {
     "t": "Poo-Do-Parana (flute)",
@@ -23456,7 +23456,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501338,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.722.jpg"
+    "img": "images/midp89.4.722.jpg"
    },
    {
     "t": "Flute",
@@ -23465,7 +23465,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501335,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.719.jpg"
+    "img": "images/midp89.4.719.jpg"
    },
    {
     "t": "Flute",
@@ -23474,7 +23474,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501337,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.721.jpg"
+    "img": "images/midp89.4.721.jpg"
    },
    {
     "t": "Caracasha",
@@ -23483,7 +23483,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502182,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS563A19.jpg"
+    "img": "images/MUS563A19.jpg"
    },
    {
     "t": "Trumpet",
@@ -23703,7 +23703,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 820957,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/LC-TR_46_2019_1.jpg"
+    "img": "images/LC-TR_46_2019_1.jpg"
    },
    {
     "t": "Pendant",
@@ -23752,7 +23752,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317170,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_421.jpg"
+    "img": "images/hz1994_35_421.jpg"
    },
    {
     "t": "Bowl",
@@ -23761,7 +23761,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 316830,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17797-001.jpg"
+    "img": "images/DP-17797-001.jpg"
    },
    {
     "t": "Ceremonial Axe",
@@ -23770,7 +23770,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314515,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17814-001.jpg"
+    "img": "images/DP-17814-001.jpg"
    },
    {
     "t": "Bowl",
@@ -23779,7 +23779,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314312,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17795-001.jpg"
+    "img": "images/DP-17795-001.jpg"
    },
    {
     "t": "Bowl",
@@ -23788,7 +23788,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314508,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17807-001.jpg"
+    "img": "images/DP-17807-001.jpg"
    },
    {
     "t": "Yoke",
@@ -23797,7 +23797,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314814,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1984_519_1.jpg"
+    "img": "images/vs1984_519_1.jpg"
    },
    {
     "t": "Celt",
@@ -23806,7 +23806,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317165,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_416.jpg"
+    "img": "images/hz1994_35_416.jpg"
    },
    {
     "t": "Pendant Mask",
@@ -23815,7 +23815,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317825,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP102184.jpg"
+    "img": "images/DP102184.jpg"
    },
    {
     "t": "Incised Shell Pendant for Necklace",
@@ -23824,7 +23824,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314815,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/VS1984_519_2_43.JPG"
+    "img": "images/VS1984_519_2_43.JPG"
    },
    {
     "t": "Three-Cornered Stone (Trigonolito)",
@@ -23833,7 +23833,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317826,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT4135.jpg"
+    "img": "images/DT4135.jpg"
    },
    {
     "t": "Bowl",
@@ -23842,7 +23842,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314509,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17808-001.jpg"
+    "img": "images/DP-17808-001.jpg"
    },
    {
     "t": "Stone Celt",
@@ -23851,7 +23851,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317167,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_418.jpg"
+    "img": "images/hz1994_35_418.jpg"
    },
    {
     "t": "Celt",
@@ -23860,7 +23860,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317166,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/hz1994_35_417.jpg"
+    "img": "images/hz1994_35_417.jpg"
    },
    {
     "t": "Ear Ornament",
@@ -23869,7 +23869,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314316,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17805-001.jpg"
+    "img": "images/DP-17805-001.jpg"
    },
    {
     "t": "Stone Celt",
@@ -23878,7 +23878,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317172,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17817-001.jpg"
+    "img": "images/DP-17817-001.jpg"
    },
    {
     "t": "Figure Pendant",
@@ -23887,7 +23887,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314315,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1983_544_4.jpg"
+    "img": "images/vs1983_544_4.jpg"
    },
    {
     "t": "Spatula (Vomitivo), Lizard",
@@ -23896,7 +23896,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314510,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17804-002.jpg"
+    "img": "images/DP-17804-002.jpg"
    },
    {
     "t": "Axe",
@@ -23905,7 +23905,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313385,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17801-001.jpg"
+    "img": "images/DP-17801-001.jpg"
    },
    {
     "t": "Three-Cornered Stone (Trigonolito) with Face",
@@ -23914,7 +23914,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314309,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17827-001.jpg"
+    "img": "images/DP-17827-001.jpg"
    },
    {
     "t": "Lizard-Head Spoon",
@@ -23923,7 +23923,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317828,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17826-001.jpg"
+    "img": "images/DP-17826-001.jpg"
    },
    {
     "t": "Stone Celt",
@@ -23932,7 +23932,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317171,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17816-001.jpg"
+    "img": "images/DP-17816-001.jpg"
    },
    {
     "t": "Figure Pendant",
@@ -23941,7 +23941,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314513,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17810-001.jpg"
+    "img": "images/DP-17810-001.jpg"
    },
    {
     "t": "Bowl",
@@ -23950,7 +23950,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 314782,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17796-001.jpg"
+    "img": "images/DP-17796-001.jpg"
    },
    {
     "t": "Necklace with Pendant Figure",
@@ -23959,7 +23959,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314313,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1983_544_2.jpg"
+    "img": "images/vs1983_544_2.jpg"
    },
    {
     "t": "Figure Pendant",
@@ -23968,7 +23968,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314511,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17809-001.jpg"
+    "img": "images/DP-17809-001.jpg"
    },
    {
     "t": "Ceremonial Axe",
@@ -23977,7 +23977,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314514,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17813-001.jpg"
+    "img": "images/DP-17813-001.jpg"
    },
    {
     "t": "Pendant Figure",
@@ -23986,7 +23986,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317827,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP102185.jpg"
+    "img": "images/DP102185.jpg"
    },
    {
     "t": "Figure",
@@ -23995,7 +23995,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314512,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP368613.jpg"
+    "img": "images/DP368613.jpg"
    },
    {
     "t": "Figure Pendant",
@@ -24004,7 +24004,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 320631,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17812-001.jpg"
+    "img": "images/DP-17812-001.jpg"
    },
    {
     "t": "Axe, Zoomorphic Form",
@@ -24013,7 +24013,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314610,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1983_447_1.jpg"
+    "img": "images/vs1983_447_1.jpg"
    },
    {
     "t": "Celt",
@@ -24022,7 +24022,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314310,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17815-001.jpg"
+    "img": "images/DP-17815-001.jpg"
    },
    {
     "t": "Rattle",
@@ -24031,7 +24031,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 505814,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302723.jpg"
+    "img": "images/DP302723.jpg"
    },
    {
     "t": "Figure Pestle",
@@ -24040,7 +24040,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314586,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17825-001.jpg"
+    "img": "images/DP-17825-001.jpg"
    },
    {
     "t": "Bowl",
@@ -24049,7 +24049,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 316831,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17798-001.jpg"
+    "img": "images/DP-17798-001.jpg"
    }
   ]
  },
@@ -24077,7 +24077,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 456074,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-27366-001.jpg"
+    "img": "images/DP-27366-001.jpg"
    },
    {
     "t": "Folio from the \"Blue Qur'an\"",
@@ -24086,7 +24086,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 454662,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP167100.jpg"
+    "img": "images/DP167100.jpg"
    },
    {
     "t": "Headcovering",
@@ -24135,7 +24135,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 447631,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf23-67-3.jpg"
+    "img": "images/sf23-67-3.jpg"
    },
    {
     "t": "Tile",
@@ -24144,7 +24144,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 447629,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf23-67-1.jpg"
+    "img": "images/sf23-67-1.jpg"
    },
    {
     "t": "Wedding Ensemble",
@@ -24153,7 +24153,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 127245,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI41.86.3a.jpg"
+    "img": "images/CI41.86.3a.jpg"
    },
    {
     "t": "Plastron (Collar) from a Tunic",
@@ -24162,7 +24162,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 85631,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CIX48.1.jpg"
+    "img": "images/CIX48.1.jpg"
    },
    {
     "t": "Hanging",
@@ -24171,7 +24171,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 445959,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP105387.jpg"
+    "img": "images/DP105387.jpg"
    },
    {
     "t": "Wedding Tunic and Ensemble",
@@ -24180,7 +24180,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 85641,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI46.9.8a_F.jpg"
+    "img": "images/CI46.9.8a_F.jpg"
    },
    {
     "t": "Tile",
@@ -24189,7 +24189,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 447630,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf23-67-2.jpg"
+    "img": "images/sf23-67-2.jpg"
    },
    {
     "t": "Fibula",
@@ -24409,7 +24409,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 448183,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP231327.jpg"
+    "img": "images/DP231327.jpg"
    },
    {
     "t": "Carpet with Palm Trees, Ibexes, and Birds",
@@ -24418,7 +24418,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 446999,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP215608.jpg"
+    "img": "images/DP215608.jpg"
    },
    {
     "t": "\"Sultan Bayazid before Timur\", Folio from an Ak...",
@@ -24427,7 +24427,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 449027,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/ISL96.jpg"
+    "img": "images/ISL96.jpg"
    },
    {
     "t": "\"A Bathhouse Keeper is Consumed by Passion for ...",
@@ -24436,7 +24436,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446565,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP120806.jpg"
+    "img": "images/DP120806.jpg"
    },
    {
     "t": "\"Balarama and Krishna Fighting the Enemy\", Foli...",
@@ -24445,7 +24445,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 448184,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT4802.jpg"
+    "img": "images/DT4802.jpg"
    },
    {
     "t": "Dish",
@@ -24454,7 +24454,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 444875,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf02-5-25a.jpg"
+    "img": "images/sf02-5-25a.jpg"
    },
    {
     "t": "Tile",
@@ -24463,7 +24463,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 456309,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP212536.jpg"
+    "img": "images/DP212536.jpg"
    },
    {
     "t": "Tunic",
@@ -24472,7 +24472,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 126850,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/CI43.90.1_F.jpg"
+    "img": "images/CI43.90.1_F.jpg"
    },
    {
     "t": "\"King Sal Visits Kala Yavana\", Folio from a Har...",
@@ -24481,7 +24481,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451960,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP274179.jpg"
+    "img": "images/DP274179.jpg"
    },
    {
     "t": "Carpet",
@@ -24490,7 +24490,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 446998,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP330736.jpg"
+    "img": "images/DP330736.jpg"
    },
    {
     "t": "\"Meeting between Babur and Sultan 'Ali Mirza ne...",
@@ -24499,7 +24499,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451958,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf67-266-3.jpg"
+    "img": "images/sf67-266-3.jpg"
    },
    {
     "t": "Sāz-ī-Kāshmīr",
@@ -24508,7 +24508,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 506064,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP703858.jpg"
+    "img": "images/DP703858.jpg"
    },
    {
     "t": "Tile",
@@ -24517,7 +24517,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 456930,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP231236.jpg"
+    "img": "images/DP231236.jpg"
    },
    {
     "t": "Tile",
@@ -24526,7 +24526,7 @@ const D = [
     "c": "#EBB434",
     "p": "Ceramics",
     "id": 456929,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP231236.jpg"
+    "img": "images/DP231236.jpg"
    },
    {
     "t": "\"Emperor Babur Receiving a Visitor\", Folio from...",
@@ -24535,7 +24535,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 451959,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-12601-001.jpg"
+    "img": "images/DP-12601-001.jpg"
    },
    {
     "t": "Textile Fragment",
@@ -24544,7 +24544,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447908,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/63407.jpg"
+    "img": "images/63407.jpg"
    },
    {
     "t": "Fragment of Sari",
@@ -24553,7 +24553,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 447400,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/wb-21.143.2.JPG"
+    "img": "images/wb-21.143.2.JPG"
    },
    {
     "t": "\"Akbar Hunting\", Folio from an Akbarnama (Histo...",
@@ -24562,7 +24562,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 446161,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP-33956-001.jpg"
+    "img": "images/DP-33956-001.jpg"
    },
    {
     "t": "\"Krishna and Balarma Fighting the Enemy\", Folio...",
@@ -24571,7 +24571,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 448185,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DT4803.jpg"
+    "img": "images/DT4803.jpg"
    },
    {
     "t": "Bookbinding",
@@ -24580,7 +24580,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 455077,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf1974-370-8a.jpg"
+    "img": "images/sf1974-370-8a.jpg"
    },
    {
     "t": "\"Tumanba Khan, His Wife, and His Nine Sons\", Fo...",
@@ -24589,7 +24589,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 450954,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/DP164680.jpg"
+    "img": "images/DP164680.jpg"
    },
    {
     "t": "Stamp seal",
@@ -24598,7 +24598,7 @@ const D = [
     "c": "#D1B07C",
     "p": "Jewelry",
     "id": 324070,
-    "img": "https://images.metmuseum.org/CRDImages/an/web-large/DP-13166-001.jpg"
+    "img": "images/DP-13166-001.jpg"
    },
    {
     "t": "Iskandarnama (Book of Alexander)",
@@ -24607,7 +24607,7 @@ const D = [
     "c": "#9A607F",
     "p": "Drawings",
     "id": 443199,
-    "img": "https://images.metmuseum.org/CRDImages/is/web-large/sf89-2-2154-21r.jpg"
+    "img": "images/sf89-2-2154-21r.jpg"
    },
    {
     "t": "Seascape with Three Boats",
@@ -24739,7 +24739,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313697,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23343-001.jpg"
+    "img": "images/DP-23343-001.jpg"
    },
    {
     "t": "Treasure Box (Papahou)",
@@ -24748,7 +24748,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311197,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23213-001.jpg"
+    "img": "images/DP-23213-001.jpg"
    },
    {
     "t": "Treasure Box (Wakahuia)",
@@ -24757,7 +24757,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313620,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-22950-001.jpg"
+    "img": "images/DP-22950-001.jpg"
    },
    {
     "t": "Curved Ear Ornament (Kapeu)",
@@ -24766,7 +24766,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 321287,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-22793-001.jpg"
+    "img": "images/DP-22793-001.jpg"
    },
    {
     "t": "Hand Club (Wahaika [?])",
@@ -24775,7 +24775,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313839,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/222264.jpg"
+    "img": "images/222264.jpg"
    },
    {
     "t": "Putorino",
@@ -24784,7 +24784,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502301,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP302736.jpg"
+    "img": "images/DP302736.jpg"
    },
    {
     "t": "Ritual Object",
@@ -24802,7 +24802,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313626,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23333-001.jpg"
+    "img": "images/DP-23333-001.jpg"
    },
    {
     "t": "Treasure Box (Wakahuia)",
@@ -24811,7 +24811,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313854,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-38369-001.jpg"
+    "img": "images/DP-38369-001.jpg"
    },
    {
     "t": "Pūtōrino",
@@ -24829,7 +24829,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 839896,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23876-001.jpg"
+    "img": "images/DP-23876-001.jpg"
    },
    {
     "t": "Weaving Peg (Turuturu)",
@@ -24838,7 +24838,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 313819,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23407-001.jpg"
+    "img": "images/DP-23407-001.jpg"
    },
    {
     "t": "Ear Ornament or Pendant (Kuru)",
@@ -24847,7 +24847,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 321290,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-22794-001.jpg"
+    "img": "images/DP-22794-001.jpg"
    },
    {
     "t": "Kooauau",
@@ -25027,7 +25027,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503582,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-28664-001.jpg"
+    "img": "images/DP-28664-001.jpg"
    },
    {
     "t": "Horn",
@@ -25036,7 +25036,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501077,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/260634.jpg"
+    "img": "images/260634.jpg"
    },
    {
     "t": "Horn",
@@ -25045,7 +25045,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501075,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/260633.jpg"
+    "img": "images/260633.jpg"
    },
    {
     "t": "Christ Figure Fragment",
@@ -25054,7 +25054,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 319769,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/2005.459.JPG"
+    "img": "images/2005.459.JPG"
    },
    {
     "t": "Quwaytara",
@@ -25063,7 +25063,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 502222,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS210A.jpg"
+    "img": "images/MUS210A.jpg"
    },
    {
     "t": "Stool",
@@ -25299,7 +25299,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 314826,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP140615.jpg"
+    "img": "images/DP140615.jpg"
    },
    {
     "t": "Mandrágora",
@@ -25324,7 +25324,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 318529,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-28476-001.jpg"
+    "img": "images/DP-28476-001.jpg"
    },
    {
     "t": "\"Lizardman\" Figure (Moko)",
@@ -25333,7 +25333,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317746,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23406-001.jpg"
+    "img": "images/DP-23406-001.jpg"
    },
    {
     "t": "Cap with Feathers",
@@ -25342,7 +25342,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 316958,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30087-001.jpg"
+    "img": "images/DP-30087-001.jpg"
    },
    {
     "t": "Dance Paddle (Rapa)",
@@ -25351,7 +25351,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 312002,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23826-001.jpg"
+    "img": "images/DP-23826-001.jpg"
    },
    {
     "t": "Male Figure (Moai Kavakava)",
@@ -25360,7 +25360,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313680,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DT9437.jpg"
+    "img": "images/DT9437.jpg"
    },
    {
     "t": "Kero",
@@ -25369,7 +25369,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 317791,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP104877.jpg"
+    "img": "images/DP104877.jpg"
    },
    {
     "t": "Cap",
@@ -25378,7 +25378,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 316956,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30086-001.jpg"
+    "img": "images/DP-30086-001.jpg"
    },
    {
     "t": "Lizard Man Figure (Moko)",
@@ -25387,7 +25387,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 311295,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1978_412_824.jpg"
+    "img": "images/vs1978_412_824.jpg"
    },
    {
     "t": "Cap",
@@ -25396,7 +25396,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 316959,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30083-001.jpg"
+    "img": "images/DP-30083-001.jpg"
    },
    {
     "t": "Cap",
@@ -25405,7 +25405,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 316957,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30085-001.jpg"
+    "img": "images/DP-30085-001.jpg"
    },
    {
     "t": "Pair of Stirrups",
@@ -25414,7 +25414,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 29318,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-42_50_454_455-001-2.jpg"
+    "img": "images/LC-42_50_454_455-001-2.jpg"
    },
    {
     "t": "Man's Shaped Tunic",
@@ -25423,7 +25423,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 318046,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/ep1999.47.125.jpg"
+    "img": "images/ep1999.47.125.jpg"
    },
    {
     "t": "Gorget (Rei Miro)",
@@ -25432,7 +25432,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313716,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-22823-001.jpg"
+    "img": "images/DP-22823-001.jpg"
    },
    {
     "t": "Female Figure (Moai Papa)",
@@ -25441,7 +25441,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 313666,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP140076.jpg"
+    "img": "images/DP140076.jpg"
    },
    {
     "t": "Dance Paddle (Rapa)",
@@ -25450,7 +25450,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 320134,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.1452_front.jpg"
+    "img": "images/1979.206.1452_front.jpg"
    },
    {
     "t": "Scepter",
@@ -25459,7 +25459,7 @@ const D = [
     "c": "#006BA2",
     "p": "Sculpture",
     "id": 310591,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP216317.jpg"
+    "img": "images/DP216317.jpg"
    },
    {
     "t": "Bag",
@@ -25468,7 +25468,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 308217,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP18716.jpg"
+    "img": "images/DP18716.jpg"
    },
    {
     "t": "Cap",
@@ -25477,7 +25477,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 316960,
-    "img": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30084-001.jpg"
+    "img": "images/DP-30084-001.jpg"
    },
    {
     "t": "Man's Poncho (manta)",
@@ -25545,7 +25545,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501088,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/260500.jpg"
+    "img": "images/260500.jpg"
    },
    {
     "t": "Tzetze",
@@ -25554,7 +25554,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501044,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/258888.jpg"
+    "img": "images/258888.jpg"
    },
    {
     "t": "Drum",
@@ -25563,7 +25563,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501171,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS648A1.jpg"
+    "img": "images/MUS648A1.jpg"
    },
    {
     "t": "Zeze",
@@ -25572,7 +25572,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501047,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/258889.jpg"
+    "img": "images/258889.jpg"
    },
    {
     "t": "Drum",
@@ -25581,7 +25581,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 501072,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/244174.jpg"
+    "img": "images/244174.jpg"
    },
    {
     "t": "Hirizi (Amuletic Necklace)",
@@ -25761,7 +25761,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 505592,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/midp1990.112.5.jpg"
+    "img": "images/midp1990.112.5.jpg"
    },
    {
     "t": "Tyamko",
@@ -25770,7 +25770,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503277,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-32453-002.jpg"
+    "img": "images/DP-32453-002.jpg"
    },
    {
     "t": "Karnāl",
@@ -25803,7 +25803,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503276,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-32452-001.jpg"
+    "img": "images/DP-32452-001.jpg"
    },
    {
     "t": "Dholaki",
@@ -25821,7 +25821,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 31630,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.831a_b_001_Apr2017.jpg"
+    "img": "images/36.25.831a_b_001_Apr2017.jpg"
    },
    {
     "t": "Necklace",
@@ -25830,7 +25830,7 @@ const D = [
     "c": "#379A8B",
     "p": "Textiles",
     "id": 141677,
-    "img": "https://images.metmuseum.org/CRDImages/ci/web-large/2008.190.232_F.jpg"
+    "img": "images/2008.190.232_F.jpg"
    },
    {
     "t": "Śahanāī",
@@ -25839,7 +25839,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503275,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-32456-001.jpg"
+    "img": "images/DP-32456-001.jpg"
    },
    {
     "t": "Narsĩngā",
@@ -25848,7 +25848,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503280,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-32451-001.jpg"
+    "img": "images/DP-32451-001.jpg"
    },
    {
     "t": "Jhyālī",
@@ -25857,7 +25857,7 @@ const D = [
     "c": "#674E1F",
     "p": "Musical",
     "id": 503279,
-    "img": "https://images.metmuseum.org/CRDImages/mi/web-large/DP-32450-001.jpg"
+    "img": "images/DP-32450-001.jpg"
    },
    {
     "t": "Vajracarya priest's crown",
@@ -25866,7 +25866,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 27754,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.2980_007mar2015.jpg"
+    "img": "images/36.25.2980_007mar2015.jpg"
    },
    {
     "t": "Dagger with Sheath",
@@ -25875,7 +25875,7 @@ const D = [
     "c": "#3EBCD2",
     "p": "Arms & Armor",
     "id": 34185,
-    "img": "https://images.metmuseum.org/CRDImages/aa/web-large/DP146423.jpg"
+    "img": "images/DP146423.jpg"
    },
    {
     "t": "Dholaki",
